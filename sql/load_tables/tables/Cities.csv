@@ -1,6 +1,6 @@
 City ID,City,State,Country,Region,Market
 1,Aachen,North Rhine-Westphalia,Germany,Western Europe,Europe
-2,Aalen,Baden-Württemberg,Germany,Western Europe,Europe
+2,Aalen,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 3,Aalst,East Flanders,Belgium,Western Europe,Europe
 4,Aba,Abia,Nigeria,Western Africa,Africa
 5,Abadan,Khuzestan,Iran,Southern Asia,Asia Pacific
@@ -16,14 +16,14 @@ City ID,City,State,Country,Region,Market
 15,Abreu e Lima,Pernambuco,Brazil,South America,LATAM
 16,Abu Kabir,Ash Sharqiyah,Egypt,North Africa,Africa
 17,Abuja,Abuja Capital Territory,Nigeria,Western Africa,Africa
-18,Acámbaro,Guanajuato,Mexico,Central America,LATAM
+18,Acï¿½mbaro,Guanajuato,Mexico,Central America,LATAM
 19,Acarigua,Portuguesa,Venezuela,South America,LATAM
 20,Acayucan,Veracruz,Mexico,Central America,LATAM
 21,Accra,Greater Accra,Ghana,Western Africa,Africa
 22,Acerra,Campania,Italy,Southern Europe,Europe
 23,Acireale,Sicily,Italy,Southern Europe,Europe
-24,Açu,Rio Grande do Norte,Brazil,South America,LATAM
-25,Acuña,Coahuila,Mexico,Central America,LATAM
+24,Aï¿½u,Rio Grande do Norte,Brazil,South America,LATAM
+25,Acuï¿½a,Coahuila,Mexico,Central America,LATAM
 26,Ad Diwaniyah,Al Qadisiyah,Iraq,Western Asia,Asia Pacific
 27,Ad Diwem,White Nile,Sudan,North Africa,Africa
 28,Adana,Adana,Turkey,Western Asia,Asia Pacific
@@ -32,16 +32,16 @@ City ID,City,State,Country,Region,Market
 31,Aew?l-li,Jeju,South Korea,Eastern Asia,Asia Pacific
 32,Afragola,Campania,Italy,Southern Europe,Europe
 33,Afyon,Afyonkarahisar,Turkey,Western Asia,Asia Pacific
-34,Agadir,Souss-Massa-Draâ,Morocco,North Africa,Africa
-35,Agde,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+34,Agadir,Souss-Massa-Draï¿½,Morocco,North Africa,Africa
+35,Agde,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 36,Agen,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 37,Agra,Uttar Pradesh,India,Southern Asia,Asia Pacific
 38,Agrigento,Sicily,Italy,Southern Europe,Europe
-39,Águas Lindas de Goiás,Goiás,Brazil,South America,LATAM
+39,ï¿½guas Lindas de Goiï¿½s,Goiï¿½s,Brazil,South America,LATAM
 40,Ahvaz,Khuzestan,Iran,Southern Asia,Asia Pacific
 41,Ain Oussera,Djelfa,Algeria,North Africa,Africa
-42,Aix-en-Provence,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-43,Aix-les-Bains,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+42,Aix-en-Provence,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+43,Aix-les-Bains,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 44,Ajaccio,Corsica,France,Western Europe,Europe
 45,Ajman,'Ajman,United Arab Emirates,Western Asia,Asia Pacific
 46,Ajmer,Rajasthan,India,Southern Asia,Asia Pacific
@@ -66,8 +66,8 @@ City ID,City,State,Country,Region,Market
 65,Alanya,Antalya,Turkey,Western Asia,Asia Pacific
 66,Albacete,Castile-La Mancha,Spain,Southern Europe,Europe
 67,Albany,Western Australia,Australia,Oceania,Asia Pacific
-68,Albertville,Auvergne-Rhône-Alpes,France,Western Europe,Europe
-69,Albi,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+68,Albertville,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
+69,Albi,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 70,Albuquerque,New Mexico,United States,Western US,USCA
 71,Albury,New South Wales,Australia,Oceania,Asia Pacific
 72,Alcobendas,Madrid,Spain,Southern Europe,Europe
@@ -82,13 +82,13 @@ City ID,City,State,Country,Region,Market
 81,Aligudarz,Lorestan,Iran,Southern Asia,Asia Pacific
 82,Alkmaar,North Holland,Netherlands,Western Europe,Europe
 83,Allahabad,Uttar Pradesh,India,Southern Asia,Asia Pacific
-84,Allauch,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+84,Allauch,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 85,Allen,Texas,United States,Central US,USCA
 86,Allentown,Pennsylvania,United States,Eastern US,USCA
 87,Almaty,Almaty City,Kazakhstan,Central Asia,Asia Pacific
 88,Almelo,Overijssel,Netherlands,Western Europe,Europe
 89,Alphen aan den Rijn,South Holland,Netherlands,Western Europe,Europe
-90,Altamira,Pará,Brazil,South America,LATAM
+90,Altamira,Parï¿½,Brazil,South America,LATAM
 91,Altamura,Apulia,Italy,Southern Europe,Europe
 92,Altoona,Pennsylvania,United States,Eastern US,USCA
 93,Altotonga,Veracruz,Mexico,Central America,LATAM
@@ -96,10 +96,10 @@ City ID,City,State,Country,Region,Market
 95,Amagasaki,Hyogo,Japan,Eastern Asia,Asia Pacific
 96,Amarillo,Texas,United States,Central US,USCA
 97,Amasya,Amasya,Turkey,Western Asia,Asia Pacific
-98,Amatitlán,Guatemala,Guatemala,Central America,LATAM
+98,Amatitlï¿½n,Guatemala,Guatemala,Central America,LATAM
 99,Ambattur,Tamil Nadu,India,Southern Asia,Asia Pacific
 100,Ambon,Maluku,Indonesia,Southeastern Asia,Asia Pacific
-101,Americana,São Paulo,Brazil,South America,LATAM
+101,Americana,Sï¿½o Paulo,Brazil,South America,LATAM
 102,Amersfoort,Utrecht,Netherlands,Western Europe,Europe
 103,Amiens,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 104,Amman,'Amman,Jordan,Western Asia,Asia Pacific
@@ -110,13 +110,13 @@ City ID,City,State,Country,Region,Market
 109,Amsterdam,North Holland,Netherlands,Western Europe,Europe
 110,An Nasiriyah,Dhi Qar,Iraq,Western Asia,Asia Pacific
 111,Anaheim,California,United States,Western US,USCA
-112,Ananindeua,Pará,Brazil,South America,LATAM
+112,Ananindeua,Parï¿½,Brazil,South America,LATAM
 113,Anantapur,Andhra Pradesh,India,Southern Asia,Asia Pacific
-114,Anápolis,Goiás,Brazil,South America,LATAM
+114,Anï¿½polis,Goiï¿½s,Brazil,South America,LATAM
 115,Ancona,Marche,Italy,Southern Europe,Europe
 116,Andijon,Andijan,Uzbekistan,Central Asia,Asia Pacific
 117,Andover,Massachusetts,United States,Eastern US,USCA
-118,Andradina,São Paulo,Brazil,South America,LATAM
+118,Andradina,Sï¿½o Paulo,Brazil,South America,LATAM
 119,Andria,Apulia,Italy,Southern Europe,Europe
 120,Angarsk,Irkutsk,Russia,Eastern Europe,Europe
 121,Angeles City,Central Luzon,Philippines,Southeastern Asia,Asia Pacific
@@ -126,18 +126,18 @@ City ID,City,State,Country,Region,Market
 125,Ankara,Ankara,Turkey,Western Asia,Asia Pacific
 126,Ann Arbor,Michigan,United States,Central US,USCA
 127,Annaba,Annaba,Algeria,North Africa,Africa
-128,Annecy,Auvergne-Rhône-Alpes,France,Western Europe,Europe
-129,Annecy-le-Vieux,Auvergne-Rhône-Alpes,France,Western Europe,Europe
-130,Annemasse,Auvergne-Rhône-Alpes,France,Western Europe,Europe
-131,Annonay,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+128,Annecy,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
+129,Annecy-le-Vieux,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
+130,Annemasse,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
+131,Annonay,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 132,Anqing,Anhui,China,Eastern Asia,Asia Pacific
 133,Anshan,Liaoning,China,Eastern Asia,Asia Pacific
 134,Anshun,Guizhou,China,Eastern Asia,Asia Pacific
 135,Antakya,Hatay,Turkey,Western Asia,Asia Pacific
 136,Antalya,Antalya,Turkey,Western Asia,Asia Pacific
 137,Antananarivo,Analamanga,Madagascar,Eastern Africa,Africa
-138,Antibes,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-139,Antiguo Cuscatlán,La Libertad,El Salvador,Central America,LATAM
+138,Antibes,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+139,Antiguo Cuscatlï¿½n,La Libertad,El Salvador,Central America,LATAM
 140,Antioch,California,United States,Western US,USCA
 141,Antipolo,Calabarzon,Philippines,Southeastern Asia,Asia Pacific
 142,Antofagasta,Antofagasta,Chile,South America,LATAM
@@ -148,10 +148,10 @@ City ID,City,State,Country,Region,Market
 147,Anyang,Henan,China,Eastern Asia,Asia Pacific
 148,Anzio,Lazio,Italy,Southern Europe,Europe
 149,Aoba-ku,Kanagawa,Japan,Eastern Asia,Asia Pacific
-150,Apartadó,Antioquia,Colombia,South America,LATAM
-151,Apatzingán de la Constitución,Michoacán,Mexico,Central America,LATAM
+150,Apartadï¿½,Antioquia,Colombia,South America,LATAM
+151,Apatzingï¿½n de la Constituciï¿½n,Michoacï¿½n,Mexico,Central America,LATAM
 152,Apeldoorn,Gelderland,Netherlands,Western Europe,Europe
-153,Apodaca,Nuevo León,Mexico,Central America,LATAM
+153,Apodaca,Nuevo Leï¿½n,Mexico,Central America,LATAM
 154,Apopa,San Salvador,El Salvador,Central America,LATAM
 155,Apopka,Florida,United States,Southern US,USCA
 156,Apple Valley,California,United States,Western US,USCA
@@ -161,17 +161,17 @@ City ID,City,State,Country,Region,Market
 160,Apucarana,Parana,Brazil,South America,LATAM
 161,Ar Raqqah,Ar Raqqah,Syria,Western Asia,Asia Pacific
 162,Aracaju,Sergipe,Brazil,South America,LATAM
-163,Aracati,Ceará,Brazil,South America,LATAM
-164,Araçatuba,São Paulo,Brazil,South America,LATAM
+163,Aracati,Cearï¿½,Brazil,South America,LATAM
+164,Araï¿½atuba,Sï¿½o Paulo,Brazil,South America,LATAM
 165,Arad,Arad,Romania,Eastern Europe,Europe
-166,Araguaína,Tocantins,Brazil,South America,LATAM
+166,Araguaï¿½na,Tocantins,Brazil,South America,LATAM
 167,Arak,Markazi,Iran,Southern Asia,Asia Pacific
 168,Arapiraca,Alagoas,Brazil,South America,LATAM
 169,Arapongas,Parana,Brazil,South America,LATAM
-170,Araranguá,Santa Catarina,Brazil,South America,LATAM
-171,Araraquara,São Paulo,Brazil,South America,LATAM
+170,Araranguï¿½,Santa Catarina,Brazil,South America,LATAM
+171,Araraquara,Sï¿½o Paulo,Brazil,South America,LATAM
 172,Arauca,Arauca,Colombia,South America,LATAM
-173,Araucária,Parana,Brazil,South America,LATAM
+173,Araucï¿½ria,Parana,Brazil,South America,LATAM
 174,Arbil,Arbil,Iraq,Western Asia,Asia Pacific
 175,Arcoverde,Pernambuco,Brazil,South America,LATAM
 176,Ardabil,Ardabil,Iran,Southern Asia,Asia Pacific
@@ -181,19 +181,19 @@ City ID,City,State,Country,Region,Market
 180,Argentan,Normandy,France,Western Europe,Europe
 181,Argenteuil,Ile-de-France,France,Western Europe,Europe
 182,Arica,Arica y Parinacota,Chile,South America,LATAM
-183,Ariquemes,Rondônia,Brazil,South America,LATAM
+183,Ariquemes,Rondï¿½nia,Brazil,South America,LATAM
 184,Arkhangelsk,Arkhangel'sk,Russia,Eastern Europe,Europe
-185,Arles,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+185,Arles,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 186,Arlington,Texas,United States,Central US,USCA
 187,Arlington,Virginia,United States,Southern US,USCA
 188,Arlington Heights,Illinois,United States,Central US,USCA
-189,Armenia,Quindío,Colombia,South America,LATAM
+189,Armenia,Quindï¿½o,Colombia,South America,LATAM
 190,Armidale,New South Wales,Australia,Oceania,Asia Pacific
 191,Arnhem,Gelderland,Netherlands,Western Europe,Europe
 192,Arnsberg,North Rhine-Westphalia,Germany,Western Europe,Europe
-193,Arraiján,Panama,Panama,Central America,LATAM
+193,Arraijï¿½n,Panama,Panama,Central America,LATAM
 194,Arras,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
-195,Arrentela,Setúbal,Portugal,Southern Europe,Europe
+195,Arrentela,Setï¿½bal,Portugal,Southern Europe,Europe
 196,Artemisa,Artemisa,Cuba,Caribbean,LATAM
 197,Arusha,Arusha,Tanzania,Eastern Africa,Africa
 198,Arvada,Colorado,United States,Western US,USCA
@@ -210,7 +210,7 @@ City ID,City,State,Country,Region,Market
 209,Astana,Astana,Kazakhstan,Central Asia,Asia Pacific
 210,Asti,Piedmont,Italy,Southern Europe,Europe
 211,Astrakhan',Astrakhan',Russia,Eastern Europe,Europe
-212,Asunción,Asunción,Paraguay,South America,LATAM
+212,Asunciï¿½n,Asunciï¿½n,Paraguay,South America,LATAM
 213,Aswan,Aswan,Egypt,North Africa,Africa
 214,Asyut,Asyut,Egypt,North Africa,Africa
 215,Atakpame,Plateaux,Togo,Western Africa,Africa
@@ -225,7 +225,7 @@ City ID,City,State,Country,Region,Market
 224,Auburn,Alabama,United States,Southern US,USCA
 225,Auburn,New York,United States,Eastern US,USCA
 226,Auburn,Washington,United States,Western US,USCA
-227,Auch,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+227,Auch,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 228,Auckland,Auckland,New Zealand,Oceania,Asia Pacific
 229,Augsburg,Bavaria,Germany,Western Europe,Europe
 230,Aulnay-sous-Bois,Ile-de-France,France,Western Europe,Europe
@@ -234,11 +234,11 @@ City ID,City,State,Country,Region,Market
 233,Aurora,Colorado,United States,Western US,USCA
 234,Aurora,Illinois,United States,Central US,USCA
 235,Austin,Texas,United States,Central US,USCA
-236,Auxerre,Bourgogne-Franche-Comté,France,Western Europe,Europe
+236,Auxerre,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 237,Avadi,Tamil Nadu,India,Southern Asia,Asia Pacific
 238,Avellaneda,Santa Fe,Argentina,South America,LATAM
 239,Avellino,Campania,Italy,Southern Europe,Europe
-240,Avignon,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+240,Avignon,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 241,Avion,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 242,Avon,Ile-de-France,France,Western Europe,Europe
 243,Avondale,Arizona,United States,Western US,USCA
@@ -250,30 +250,30 @@ City ID,City,State,Country,Region,Market
 249,Bacau,Bacau,Romania,Eastern Europe,Europe
 250,Bacolod City,Western Visayas,Philippines,Southeastern Asia,Asia Pacific
 251,Bacoor,Calabarzon,Philippines,Southeastern Asia,Asia Pacific
-252,Bad Waldsee,Baden-Württemberg,Germany,Western Europe,Europe
+252,Bad Waldsee,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 253,Badajoz,Extremadura,Spain,Southern Europe,Europe
 254,Badalona,Catalonia,Spain,Southern Europe,Europe
-255,Baden-Baden,Baden-Württemberg,Germany,Western Europe,Europe
+255,Baden-Baden,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 256,Bafoussam,Ouest,Cameroon,Central Africa,Africa
 257,Bafra,Samsun,Turkey,Western Asia,Asia Pacific
 258,Bagamoyo,Pwani,Tanzania,Eastern Africa,Africa
 259,Bagcilar,Istanbul,Turkey,Western Asia,Asia Pacific
-260,Bagé,Rio Grande do Sul,Brazil,South America,LATAM
+260,Bagï¿½,Rio Grande do Sul,Brazil,South America,LATAM
 261,Baghdad,Baghdad,Iraq,Western Asia,Asia Pacific
 262,Bagneux,Ile-de-France,France,Western Europe,Europe
 263,Bagnolet,Ile-de-France,France,Western Europe,Europe
 264,Baguio City,Cordillera,Philippines,Southeastern Asia,Asia Pacific
 265,Bahawalpur,Punjab,Pakistan,Southern Asia,Asia Pacific
-266,Bahía Blanca,Provincia de Buenos Aires,Argentina,South America,LATAM
+266,Bahï¿½a Blanca,Provincia de Buenos Aires,Argentina,South America,LATAM
 267,Baia Mare,Maramures,Romania,Eastern Europe,Europe
-268,Bajos de Haina,San Cristóbal,Dominican Republic,Caribbean,LATAM
+268,Bajos de Haina,San Cristï¿½bal,Dominican Republic,Caribbean,LATAM
 269,Bakersfield,California,United States,Western US,USCA
 270,Baku,Baki,Azerbaijan,Western Asia,Asia Pacific
 271,Balikesir,Balikesir,Turkey,Western Asia,Asia Pacific
 272,Balikpapan,Kalimantan Timur,Indonesia,Southeastern Asia,Asia Pacific
 273,Ballarat,Victoria,Australia,Oceania,Asia Pacific
 274,Balmazujvaros,Hajdu-Bihar,Hungary,Eastern Europe,Europe
-275,Balneário Camboriú,Santa Catarina,Brazil,South America,LATAM
+275,Balneï¿½rio Camboriï¿½,Santa Catarina,Brazil,South America,LATAM
 276,Balti,Balti,Moldova,Eastern Europe,Europe
 277,Baltimore,Maryland,United States,Eastern US,USCA
 278,Bamako,Bamako,Mali,Western Africa,Africa
@@ -289,9 +289,9 @@ City ID,City,State,Country,Region,Market
 288,Bangkok,Bangkok,Thailand,Southeastern Asia,Asia Pacific
 289,Bangor,Maine,United States,Eastern US,USCA
 290,Bangui,Bangui,Central African Republic,Central Africa,Africa
-291,Baní,Peravia,Dominican Republic,Caribbean,LATAM
+291,Banï¿½,Peravia,Dominican Republic,Caribbean,LATAM
 292,Banjarmasin,Kalimantan Selatan,Indonesia,Southeastern Asia,Asia Pacific
-293,Banska Bystrica,Banská Bystrica,Slovakia,Eastern Europe,Europe
+293,Banska Bystrica,Banskï¿½ Bystrica,Slovakia,Eastern Europe,Europe
 294,Baoding,Hebei,China,Eastern Asia,Asia Pacific
 295,Baotou,Inner Mongolia,China,Eastern Asia,Asia Pacific
 296,Baqubah,Diyala,Iraq,Western Asia,Asia Pacific
@@ -300,7 +300,7 @@ City ID,City,State,Country,Region,Market
 299,Baranagar,West Bengal,India,Southern Asia,Asia Pacific
 300,Barasat,West Bengal,India,Southern Asia,Asia Pacific
 301,Barbacena,Minas Gerais,Brazil,South America,LATAM
-302,Barcelona,Anzoátegui,Venezuela,South America,LATAM
+302,Barcelona,Anzoï¿½tegui,Venezuela,South America,LATAM
 303,Barcelona,Catalonia,Spain,Southern Europe,Europe
 304,Barddhaman,West Bengal,India,Southern Asia,Asia Pacific
 305,Bareilly,Uttar Pradesh,India,Southern Asia,Asia Pacific
@@ -311,17 +311,17 @@ City ID,City,State,Country,Region,Market
 310,Barneveld,Gelderland,Netherlands,Western Europe,Europe
 311,Barnsley,England,United Kingdom,Northern Europe,Europe
 312,Barquisimeto,Lara,Venezuela,South America,LATAM
-313,Barra do Piraí,Rio de Janeiro,Brazil,South America,LATAM
+313,Barra do Piraï¿½,Rio de Janeiro,Brazil,South America,LATAM
 314,Barra Mansa,Rio de Janeiro,Brazil,South America,LATAM
 315,Barranca,Lima,Peru,South America,LATAM
-316,Barranquilla,Atlántico,Colombia,South America,LATAM
+316,Barranquilla,Atlï¿½ntico,Colombia,South America,LATAM
 317,Barreiras,Bahia,Brazil,South America,LATAM
-318,Barreirinhas,Maranhão,Brazil,South America,LATAM
-319,Barretos,São Paulo,Brazil,South America,LATAM
+318,Barreirinhas,Maranhï¿½o,Brazil,South America,LATAM
+319,Barretos,Sï¿½o Paulo,Brazil,South America,LATAM
 320,Barrie,Ontario,Canada,Canada,USCA
 321,Barry,Wales,United Kingdom,Northern Europe,Europe
 322,Bartlett,Tennessee,United States,Southern US,USCA
-323,Barueri,São Paulo,Brazil,South America,LATAM
+323,Barueri,Sï¿½o Paulo,Brazil,South America,LATAM
 324,Baruta,Miranda,Venezuela,South America,LATAM
 325,Basel,Basel-Stadt,Switzerland,Western Europe,Europe
 326,Basildon,England,United Kingdom,Northern Europe,Europe
@@ -336,13 +336,13 @@ City ID,City,State,Country,Region,Market
 335,Bauchi,Bauchi,Nigeria,Western Africa,Africa
 336,Bayamo,Granma,Cuba,Caribbean,LATAM
 337,Bayeux,Normandy,France,Western Europe,Europe
-338,Bayeux,Paraíba,Brazil,South America,LATAM
+338,Bayeux,Paraï¿½ba,Brazil,South America,LATAM
 339,Bayonne,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 340,Bayonne,New Jersey,United States,Eastern US,USCA
 341,Bayreuth,Bavaria,Germany,Western Europe,Europe
 342,Baytown,Texas,United States,Central US,USCA
 343,Beaumont,Texas,United States,Central US,USCA
-344,Beaune,Bourgogne-Franche-Comté,France,Western Europe,Europe
+344,Beaune,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 345,Beauvais,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 346,Bebington,England,United Kingdom,Northern Europe,Europe
 347,Bechar,Bechar,Algeria,North Africa,Africa
@@ -357,7 +357,7 @@ City ID,City,State,Country,Region,Market
 356,Beirut,Beirut,Lebanon,Western Asia,Asia Pacific
 357,Bejaia,Bejaia,Algeria,North Africa,Africa
 358,Bekasi,Jawa Barat,Indonesia,Southeastern Asia,Asia Pacific
-359,Belfort,Bourgogne-Franche-Comté,France,Western Europe,Europe
+359,Belfort,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 360,Belgaum,Karnataka,India,Southern Asia,Asia Pacific
 361,Belgorod,Belgorod,Russia,Eastern Europe,Europe
 362,Belgrade,Central Serbia,Serbia,Eastern Europe,Europe
@@ -379,7 +379,7 @@ City ID,City,State,Country,Region,Market
 378,Benidorm,Valenciana,Spain,Southern Europe,Europe
 379,Benin City,Edo,Nigeria,Western Africa,Africa
 380,Benoni,Gauteng,South Africa,Southern Africa,Africa
-381,Bento Gonçalves,Rio Grande do Sul,Brazil,South America,LATAM
+381,Bento Gonï¿½alves,Rio Grande do Sul,Brazil,South America,LATAM
 382,Benxi,Liaoning,China,Eastern Asia,Asia Pacific
 383,Berck,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 384,Berdyans'k,Zaporizhzhya,Ukraine,Eastern Europe,Europe
@@ -426,7 +426,7 @@ City ID,City,State,Country,Region,Market
 425,Binjai,Sumatera Utara,Indonesia,Southeastern Asia,Asia Pacific
 426,Binzhou,Heilongjiang,China,Eastern Asia,Asia Pacific
 427,Binzhou,Shandong,China,Eastern Asia,Asia Pacific
-428,Birigui,São Paulo,Brazil,South America,LATAM
+428,Birigui,Sï¿½o Paulo,Brazil,South America,LATAM
 429,Birjand,South Khorasan,Iran,Southern Asia,Asia Pacific
 430,Birkenhead,England,United Kingdom,Northern Europe,Europe
 431,Birmingham,England,United Kingdom,Northern Europe,Europe
@@ -449,7 +449,7 @@ City ID,City,State,Country,Region,Market
 448,Bloomington,Indiana,United States,Central US,USCA
 449,Blumenau,Santa Catarina,Brazil,South America,LATAM
 450,Bo,Southern,Sierra Leone,Western Africa,Africa
-451,Boa Esperança,Minas Gerais,Brazil,South America,LATAM
+451,Boa Esperanï¿½a,Minas Gerais,Brazil,South America,LATAM
 452,Boa Vista,Roraima,Brazil,South America,LATAM
 453,Bobigny,Ile-de-France,France,Western Europe,Europe
 454,Boca Raton,Florida,United States,Southern US,USCA
@@ -457,18 +457,18 @@ City ID,City,State,Country,Region,Market
 456,Boghni,Tizi Ouzou,Algeria,North Africa,Africa
 457,Bognor Regis,England,United Kingdom,Northern Europe,Europe
 458,Bogor,Jawa Barat,Indonesia,Southeastern Asia,Asia Pacific
-459,Bogotá,Bogota,Colombia,South America,LATAM
+459,Bogotï¿½,Bogota,Colombia,South America,LATAM
 460,Boise,Idaho,United States,Western US,USCA
 461,Bokaro,Jharkhand,India,Southern Asia,Asia Pacific
 462,Boksburg,Gauteng,South Africa,Southern Africa,Africa
 463,Bolingbrook,Illinois,United States,Central US,USCA
-464,Bolívar,Bolivar,Venezuela,South America,LATAM
+464,Bolï¿½var,Bolivar,Venezuela,South America,LATAM
 465,Bologna,Emilia-Romagna,Italy,Southern Europe,Europe
 466,Bolton,England,United Kingdom,Northern Europe,Europe
 467,Bolu,Bolu,Turkey,Western Asia,Asia Pacific
 468,Bolzano,Trentino-Alto Adige,Italy,Southern Europe,Europe
 469,Bom Jesus da Lapa,Bahia,Brazil,South America,LATAM
-470,Bonao,Monseñor Nouel,Dominican Republic,Caribbean,LATAM
+470,Bonao,Monseï¿½or Nouel,Dominican Republic,Caribbean,LATAM
 471,Bondy,Ile-de-France,France,Western Europe,Europe
 472,Bonn,North Rhine-Westphalia,Germany,Western Europe,Europe
 473,Bonneuil-sur-Marne,Ile-de-France,France,Western Europe,Europe
@@ -485,9 +485,9 @@ City ID,City,State,Country,Region,Market
 484,Bouake,Vallee Du Bandama,Cote d'Ivoire,Western Africa,Africa
 485,Boulogne-Billancourt,Ile-de-France,France,Western Europe,Europe
 486,Boulogne-sur-Mer,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
-487,Bourg-en-Bresse,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+487,Bourg-en-Bresse,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 488,Bourges,Centre-Val de Loire,France,Western Europe,Europe
-489,Bourgoin-Jallieu,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+489,Bourgoin-Jallieu,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 490,Bournemouth,England,United Kingdom,Northern Europe,Europe
 491,Bowling Green,Kentucky,United States,Southern US,USCA
 492,Bowling Green,Ohio,United States,Eastern US,USCA
@@ -496,13 +496,13 @@ City ID,City,State,Country,Region,Market
 495,Bracknell,England,United Kingdom,Northern Europe,Europe
 496,Bradford,England,United Kingdom,Northern Europe,Europe
 497,Braga,Braga,Portugal,Southern Europe,Europe
-498,Bragança Paulista,São Paulo,Brazil,South America,LATAM
+498,Braganï¿½a Paulista,Sï¿½o Paulo,Brazil,South America,LATAM
 499,Brahmapur,Odisha,India,Southern Asia,Asia Pacific
 500,Braila,Braila,Romania,Eastern Europe,Europe
 501,Brampton,Ontario,Canada,Canada,USCA
 502,Brandenburg,Brandenburg,Germany,Western Europe,Europe
 503,Brantford,Ontario,Canada,Canada,USCA
-504,Brasília,Federal District,Brazil,South America,LATAM
+504,Brasï¿½lia,Federal District,Brazil,South America,LATAM
 505,Brasov,Brasov,Romania,Eastern Europe,Europe
 506,Bratsk,Irkutsk,Russia,Eastern Europe,Europe
 507,Breda,North Brabant,Netherlands,Western Europe,Europe
@@ -526,7 +526,7 @@ City ID,City,State,Country,Region,Market
 525,Brive-la-Gaillarde,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 526,Broken Arrow,Oklahoma,United States,Central US,USCA
 527,Broken Hill,New South Wales,Australia,Oceania,Asia Pacific
-528,Bron,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+528,Bron,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 529,Broomfield,Colorado,United States,Western US,USCA
 530,Brownsville,Texas,United States,Central US,USCA
 531,Bruges,West Flanders,Belgium,Western Europe,Europe
@@ -539,7 +539,7 @@ City ID,City,State,Country,Region,Market
 538,Bucaramanga,Santander,Colombia,South America,LATAM
 539,Bucheon,Gyeonggi,South Korea,Eastern Asia,Asia Pacific
 540,Budapest,Budapest,Hungary,Eastern Europe,Europe
-541,Budënnovsk,Stavropol',Russia,Eastern Europe,Europe
+541,Budï¿½nnovsk,Stavropol',Russia,Eastern Europe,Europe
 542,Buenos Aires,Buenos Aires,Argentina,South America,LATAM
 543,Buffalo,New York,United States,Eastern US,USCA
 544,Buffalo Grove,Illinois,United States,Central US,USCA
@@ -552,8 +552,8 @@ City ID,City,State,Country,Region,Market
 551,Bur Sudan,Red Sea,Sudan,North Africa,Africa
 552,Burbank,California,United States,Western US,USCA
 553,Burgas,Burgas,Bulgaria,Eastern Europe,Europe
-554,Burgos,Castile and León,Spain,Southern Europe,Europe
-555,Buriticupu,Maranhão,Brazil,South America,LATAM
+554,Burgos,Castile and Leï¿½n,Spain,Southern Europe,Europe
+555,Buriticupu,Maranhï¿½o,Brazil,South America,LATAM
 556,Burlington,Iowa,United States,Central US,USCA
 557,Burlington,North Carolina,United States,Southern US,USCA
 558,Burlington,Ontario,Canada,Canada,USCA
@@ -572,20 +572,20 @@ City ID,City,State,Country,Region,Market
 571,Cabimas,Zulia,Venezuela,South America,LATAM
 572,Cabo de Santo Agostinho,Pernambuco,Brazil,South America,LATAM
 573,Cabo Frio,Rio de Janeiro,Brazil,South America,LATAM
-574,Caçador,Santa Catarina,Brazil,South America,LATAM
+574,Caï¿½ador,Santa Catarina,Brazil,South America,LATAM
 575,Cachan,Ile-de-France,France,Western Europe,Europe
-576,Cadereyta,Nuevo León,Mexico,Central America,LATAM
+576,Cadereyta,Nuevo Leï¿½n,Mexico,Central America,LATAM
 577,Caen,Normandy,France,Western Europe,Europe
 578,Cagliari,Sardinia,Italy,Southern Europe,Europe
-579,Cagnes-sur-Mer,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+579,Cagnes-sur-Mer,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 580,Cagua,Aragua,Venezuela,South America,LATAM
 581,Cainta,Calabarzon,Philippines,Southeastern Asia,Asia Pacific
 582,Cairns,Queensland,Australia,Oceania,Asia Pacific
 583,Cairo,Al Qahirah,Egypt,North Africa,Africa
 584,Cajamarca,Cajamarca,Peru,South America,LATAM
-585,Cajazeiras,Paraíba,Brazil,South America,LATAM
+585,Cajazeiras,Paraï¿½ba,Brazil,South America,LATAM
 586,Calabar,Cross River,Nigeria,Western Africa,Africa
-587,Calabozo,Guárico,Venezuela,South America,LATAM
+587,Calabozo,Guï¿½rico,Venezuela,South America,LATAM
 588,Calais,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 589,Calama,Antofagasta,Chile,South America,LATAM
 590,Calamba,Calabarzon,Philippines,Southeastern Asia,Asia Pacific
@@ -594,28 +594,28 @@ City ID,City,State,Country,Region,Market
 593,Callao,Callao,Peru,South America,LATAM
 594,Caloocan,National Capital,Philippines,Southeastern Asia,Asia Pacific
 595,Caloundra,Queensland,Australia,Oceania,Asia Pacific
-596,Caluire-et-Cuire,Auvergne-Rhône-Alpes,France,Western Europe,Europe
-597,Camaçari,Bahia,Brazil,South America,LATAM
-598,Camagüey,Camagüey,Cuba,Caribbean,LATAM
+596,Caluire-et-Cuire,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
+597,Camaï¿½ari,Bahia,Brazil,South America,LATAM
+598,Camagï¿½ey,Camagï¿½ey,Cuba,Caribbean,LATAM
 599,Camaragibe,Pernambuco,Brazil,South America,LATAM
 600,Camarillo,California,United States,Western US,USCA
-601,Cambé,Parana,Brazil,South America,LATAM
+601,Cambï¿½,Parana,Brazil,South America,LATAM
 602,Cambrai,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 603,Cambridge,England,United Kingdom,Northern Europe,Europe
 604,Cambridge,Massachusetts,United States,Eastern US,USCA
 605,Cambridge,Waikato,New Zealand,Oceania,Asia Pacific
-606,Camocim,Ceará,Brazil,South America,LATAM
+606,Camocim,Cearï¿½,Brazil,South America,LATAM
 607,Campeche,Campeche,Mexico,Central America,LATAM
-608,Campina Grande,Paraíba,Brazil,South America,LATAM
+608,Campina Grande,Paraï¿½ba,Brazil,South America,LATAM
 609,Campo Grande,Mato Grosso do Sul,Brazil,South America,LATAM
-610,Campo Limpo Paulista,São Paulo,Brazil,South America,LATAM
+610,Campo Limpo Paulista,Sï¿½o Paulo,Brazil,South America,LATAM
 611,Can Tho,T?nh C?n Th?,Vietnam,Southeastern Asia,Asia Pacific
 612,Canakkale,Canakkale,Turkey,Western Asia,Asia Pacific
 613,Canberra,Australian Capital Territory,Australia,Oceania,Asia Pacific
-614,Cancún,Quintana Roo,Mexico,Central America,LATAM
+614,Cancï¿½n,Quintana Roo,Mexico,Central America,LATAM
 615,Cangzhou,Hebei,China,Eastern Asia,Asia Pacific
 616,Cankaya,Ankara,Turkey,Western Asia,Asia Pacific
-617,Cannes,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+617,Cannes,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 618,Canoas,Rio Grande do Sul,Brazil,South America,LATAM
 619,Canton,Michigan,United States,Central US,USCA
 620,Capannori,Tuscany,Italy,Southern Europe,Europe
@@ -624,45 +624,45 @@ City ID,City,State,Country,Region,Market
 623,Capelle aan den IJssel,South Holland,Netherlands,Western Europe,Europe
 624,Capua,Campania,Italy,Southern Europe,Europe
 625,Caracas,Distrito Capital,Venezuela,South America,LATAM
-626,Caraguatatuba,São Paulo,Brazil,South America,LATAM
-627,Carapicuíba,São Paulo,Brazil,South America,LATAM
-628,Carcassonne,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
-629,Cárdenas,Matanzas,Cuba,Caribbean,LATAM
+626,Caraguatatuba,Sï¿½o Paulo,Brazil,South America,LATAM
+627,Carapicuï¿½ba,Sï¿½o Paulo,Brazil,South America,LATAM
+628,Carcassonne,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
+629,Cï¿½rdenas,Matanzas,Cuba,Caribbean,LATAM
 630,Cardiff,Wales,United Kingdom,Northern Europe,Europe
 631,Carlisle,England,United Kingdom,Northern Europe,Europe
 632,Carlsbad,New Mexico,United States,Western US,USCA
 633,Carol Stream,Illinois,United States,Central US,USCA
 634,Carora,Lara,Venezuela,South America,LATAM
-635,Carpentras,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+635,Carpentras,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 636,Carpi,Emilia-Romagna,Italy,Southern Europe,Europe
 637,Carquefou,Pays de la Loire,France,Western Europe,Europe
 638,Carrara,Tuscany,Italy,Southern Europe,Europe
 639,Carrefour,Ouest,Haiti,Caribbean,LATAM
 640,Carrollton,Texas,United States,Central US,USCA
-641,Cartagena,Bolívar,Colombia,South America,LATAM
+641,Cartagena,Bolï¿½var,Colombia,South America,LATAM
 642,Cartagena,Murcia,Spain,Southern Europe,Europe
 643,Cartago,Valle del Cauca,Colombia,South America,LATAM
-644,Cártama,Andalusía,Spain,Southern Europe,Europe
+644,Cï¿½rtama,Andalusï¿½a,Spain,Southern Europe,Europe
 645,Carvin,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 646,Cary,North Carolina,United States,Southern US,USCA
 647,Casablanca,Grand Casablanca,Morocco,North Africa,Africa
 648,Caserta,Campania,Italy,Southern Europe,Europe
 649,Casoria,Campania,Italy,Southern Europe,Europe
-650,Cassilândia,Mato Grosso do Sul,Brazil,South America,LATAM
-651,Castanhal,Pará,Brazil,South America,LATAM
+650,Cassilï¿½ndia,Mato Grosso do Sul,Brazil,South America,LATAM
+651,Castanhal,Parï¿½,Brazil,South America,LATAM
 652,Castellammare di Stabia,Campania,Italy,Southern Europe,Europe
 653,Castelldefels,Catalonia,Spain,Southern Europe,Europe
-654,Castelnau-le-Lez,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
-655,Castres,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+654,Castelnau-le-Lez,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
+655,Castres,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 656,Castrop-Rauxel,North Rhine-Westphalia,Germany,Western Europe,Europe
-657,Catalão,Goiás,Brazil,South America,LATAM
-658,Catanduva,São Paulo,Brazil,South America,LATAM
+657,Catalï¿½o,Goiï¿½s,Brazil,South America,LATAM
+658,Catanduva,Sï¿½o Paulo,Brazil,South America,LATAM
 659,Catania,Sicily,Italy,Southern Europe,Europe
 660,Catia La Mar,Vargas,Venezuela,South America,LATAM
-661,Caucaia,Ceará,Brazil,South America,LATAM
-662,Cavaillon,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+661,Caucaia,Cearï¿½,Brazil,South America,LATAM
+662,Cavaillon,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 663,Caxias do Sul,Rio Grande do Sul,Brazil,South America,LATAM
-664,Cayenne,Französisch-Guayana,French Guiana,South America,LATAM
+664,Cayenne,Franzï¿½sisch-Guayana,French Guiana,South America,LATAM
 665,Cedar Hill,Texas,United States,Central US,USCA
 666,Cedar Rapids,Iowa,United States,Central US,USCA
 667,Celaya,Guanajuato,Mexico,Central America,LATAM
@@ -694,7 +694,7 @@ City ID,City,State,Country,Region,Market
 693,Chaoyang,Jilin,China,Eastern Asia,Asia Pacific
 694,Chaoyang,Liaoning,China,Eastern Asia,Asia Pacific
 695,Chaozhou,Guangdong,China,Eastern Asia,Asia Pacific
-696,Chapecó,Santa Catarina,Brazil,South America,LATAM
+696,Chapecï¿½,Santa Catarina,Brazil,South America,LATAM
 697,Chapel Allerton,England,United Kingdom,Northern Europe,Europe
 698,Chapel Hill,North Carolina,United States,Southern US,USCA
 699,Charallave,Miranda,Venezuela,South America,LATAM
@@ -729,7 +729,7 @@ City ID,City,State,Country,Region,Market
 728,Chevilly-Larue,Ile-de-France,France,Western Europe,Europe
 729,Cheyenne,Wyoming,United States,Western US,USCA
 730,Chicago,Illinois,United States,Central US,USCA
-731,Chiclana de la Frontera,Andalusía,Spain,Southern Europe,Europe
+731,Chiclana de la Frontera,Andalusï¿½a,Spain,Southern Europe,Europe
 732,Chiclayo,Lambayeque,Peru,South America,LATAM
 733,Chico,California,United States,Western US,USCA
 734,Chieti,Abruzzi,Italy,Southern Europe,Europe
@@ -737,7 +737,7 @@ City ID,City,State,Country,Region,Market
 736,Chigasaki,Kanagawa,Japan,Eastern Asia,Asia Pacific
 737,Chihuahua,Chihuahua,Mexico,Central America,LATAM
 738,Chililabombwe,Copperbelt,Zambia,Eastern Africa,Africa
-739,Chillán,Biobio,Chile,South America,LATAM
+739,Chillï¿½n,Biobio,Chile,South America,LATAM
 740,Chilly-Mazarin,Ile-de-France,France,Western Europe,Europe
 741,Chilpancingo,Guerrero,Mexico,Central America,LATAM
 742,Chimaltenango,Chimaltenango,Guatemala,Central America,LATAM
@@ -754,7 +754,7 @@ City ID,City,State,Country,Region,Market
 753,Chitungwiza,Harare,Zimbabwe,Eastern Africa,Africa
 754,Choisy-le-Roi,Ile-de-France,France,Western Europe,Europe
 755,Cholet,Pays de la Loire,France,Western Europe,Europe
-756,Choloma,Cortés,Honduras,Central America,LATAM
+756,Choloma,Cortï¿½s,Honduras,Central America,LATAM
 757,Cholula,Puebla,Mexico,Central America,LATAM
 758,Choluteca,Choluteca,Honduras,Central America,LATAM
 759,Chongqing,Chongqing,China,Eastern Asia,Asia Pacific
@@ -762,13 +762,13 @@ City ID,City,State,Country,Region,Market
 761,Christchurch,Canterbury,New Zealand,Oceania,Asia Pacific
 762,Chula Vista,California,United States,Western US,USCA
 763,Chuncheon,Gangwon,South Korea,Eastern Asia,Asia Pacific
-764,Cidade Ocidental,Goiás,Brazil,South America,LATAM
-765,Ciego de Ávila,Ciego de Ávila,Cuba,Caribbean,LATAM
-766,Ciénaga,Magdalena,Colombia,South America,LATAM
+764,Cidade Ocidental,Goiï¿½s,Brazil,South America,LATAM
+765,Ciego de ï¿½vila,Ciego de ï¿½vila,Cuba,Caribbean,LATAM
+766,Ciï¿½naga,Magdalena,Colombia,South America,LATAM
 767,Cienfuegos,Cienfuegos,Cuba,Caribbean,LATAM
 768,Cincinnati,Ohio,United States,Eastern US,USCA
 769,Cinisello Balsamo,Lombardy,Italy,Southern Europe,Europe
-770,Cipolletti,Río Negro,Argentina,South America,LATAM
+770,Cipolletti,Rï¿½o Negro,Argentina,South America,LATAM
 771,Cirebon,Jawa Barat,Indonesia,Southeastern Asia,Asia Pacific
 772,Citrus Heights,California,United States,Western US,USCA
 773,Ciudad del Carmen,Campeche,Mexico,Central America,LATAM
@@ -785,9 +785,9 @@ City ID,City,State,Country,Region,Market
 784,Clinton,Maryland,United States,Eastern US,USCA
 785,Clovis,New Mexico,United States,Western US,USCA
 786,Cluj-Napoca,Cluj,Romania,Eastern Europe,Europe
-787,Cluses,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+787,Cluses,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 788,Clydach,Wales,United Kingdom,Northern Europe,Europe
-789,Coacalco,México,Mexico,Central America,LATAM
+789,Coacalco,Mï¿½xico,Mexico,Central America,LATAM
 790,Coachella,California,United States,Western US,USCA
 791,Coari,Amazonas,Brazil,South America,LATAM
 792,Coatzacoalcos,Veracruz,Mexico,Central America,LATAM
@@ -804,8 +804,8 @@ City ID,City,State,Country,Region,Market
 803,Colombes,Ile-de-France,France,Western Europe,Europe
 804,Colombo,Parana,Brazil,South America,LATAM
 805,Colombo,Western,Sri Lanka,Southern Asia,Asia Pacific
-806,Colomiers,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
-807,Colón,Colón,Panama,Central America,LATAM
+806,Colomiers,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
+807,Colï¿½n,Colï¿½n,Panama,Central America,LATAM
 808,Colorado Springs,Colorado,United States,Western US,USCA
 809,Columbia,Maryland,United States,Eastern US,USCA
 810,Columbia,Missouri,United States,Central US,USCA
@@ -818,14 +818,14 @@ City ID,City,State,Country,Region,Market
 817,Como,Lombardy,Italy,Southern Europe,Europe
 818,Comodoro Rivadavia,Chubut,Argentina,South America,LATAM
 819,Concarneau,Brittany,France,Western Europe,Europe
-820,Concepción del Uruguay,Entre Ríos,Argentina,South America,LATAM
+820,Concepciï¿½n del Uruguay,Entre Rï¿½os,Argentina,South America,LATAM
 821,Concord,California,United States,Western US,USCA
 822,Concord,New Hampshire,United States,Eastern US,USCA
 823,Concord,North Carolina,United States,Southern US,USCA
 824,Conflans-Sainte-Honorine,Ile-de-France,France,Western Europe,Europe
 825,Conroe,Texas,United States,Central US,USCA
 826,Conselheiro Lafaiete,Minas Gerais,Brazil,South America,LATAM
-827,Consolación del Sur,Pinar del Río,Cuba,Caribbean,LATAM
+827,Consolaciï¿½n del Sur,Pinar del Rï¿½o,Cuba,Caribbean,LATAM
 828,Constanta,Constanta,Romania,Eastern Europe,Europe
 829,Constantine,Constantine,Algeria,North Africa,Africa
 830,Contagem,Minas Gerais,Brazil,South America,LATAM
@@ -833,14 +833,14 @@ City ID,City,State,Country,Region,Market
 832,Conway,Arkansas,United States,Southern US,USCA
 833,Coon Rapids,Minnesota,United States,Central US,USCA
 834,Copenhagen,Hovedstaden,Denmark,Northern Europe,Europe
-835,Copiapó,Atacama,Chile,South America,LATAM
+835,Copiapï¿½,Atacama,Chile,South America,LATAM
 836,Coppell,Texas,United States,Central US,USCA
 837,Coquitlam,British Columbia,Canada,Canada,USCA
 838,Coral Gables,Florida,United States,Southern US,USCA
 839,Coral Springs,Florida,United States,Southern US,USCA
 840,Corbeil-Essonnes,Ile-de-France,France,Western Europe,Europe
-841,Córdoba,Córdoba,Argentina,South America,LATAM
-842,Córdoba,Veracruz,Mexico,Central America,LATAM
+841,Cï¿½rdoba,Cï¿½rdoba,Argentina,South America,LATAM
+842,Cï¿½rdoba,Veracruz,Mexico,Central America,LATAM
 843,Cork,Cork,Ireland,Northern Europe,Europe
 844,Corlu,Tekirdag,Turkey,Western Asia,Asia Pacific
 845,Cormeilles-en-Parisis,Ile-de-France,France,Western Europe,Europe
@@ -850,7 +850,7 @@ City ID,City,State,Country,Region,Market
 849,Cosenza,Calabria,Italy,Southern Europe,Europe
 850,Coslada,Madrid,Spain,Southern Europe,Europe
 851,Costa Mesa,California,United States,Western US,USCA
-852,Cotia,São Paulo,Brazil,South America,LATAM
+852,Cotia,Sï¿½o Paulo,Brazil,South America,LATAM
 853,Cotonou,Littoral,Benin,Western Africa,Africa
 854,Cottage Grove,Minnesota,United States,Central US,USCA
 855,Cottbus,Brandenburg,Germany,Western Europe,Europe
@@ -860,32 +860,32 @@ City ID,City,State,Country,Region,Market
 859,Cournon-d'Auvergne,Auvergne,France,Western Europe,Europe
 860,Coventry,England,United Kingdom,Northern Europe,Europe
 861,Covington,Washington,United States,Western US,USCA
-862,Cox’s B?z?r,Chittagong,Bangladesh,Southern Asia,Asia Pacific
-863,Coyoacán,Distrito Federal,Mexico,Central America,LATAM
+862,Coxï¿½s B?z?r,Chittagong,Bangladesh,Southern Asia,Asia Pacific
+863,Coyoacï¿½n,Distrito Federal,Mexico,Central America,LATAM
 864,Craiova,Dolj,Romania,Eastern Europe,Europe
 865,Cranston,Rhode Island,United States,Eastern US,USCA
-866,Crato,Ceará,Brazil,South America,LATAM
+866,Crato,Cearï¿½,Brazil,South America,LATAM
 867,Crawley,England,United Kingdom,Northern Europe,Europe
 868,Creil,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 869,Cremona,Lombardy,Italy,Southern Europe,Europe
 870,Crewe,England,United Kingdom,Northern Europe,Europe
-871,Criciúma,Santa Catarina,Brazil,South America,LATAM
+871,Criciï¿½ma,Santa Catarina,Brazil,South America,LATAM
 872,Crotone,Calabria,Italy,Southern Europe,Europe
 873,Cruz das Almas,Bahia,Brazil,South America,LATAM
-874,Cruzeiro,São Paulo,Brazil,South America,LATAM
+874,Cruzeiro,Sï¿½o Paulo,Brazil,South America,LATAM
 875,Cruzeiro do Sul,Acre,Brazil,South America,LATAM
-876,Cúa,Miranda,Venezuela,South America,LATAM
+876,Cï¿½a,Miranda,Venezuela,South America,LATAM
 877,Cuajimalpa,Distrito Federal,Mexico,Central America,LATAM
-878,Cuautitlán,México,Mexico,Central America,LATAM
-879,Cubatão,São Paulo,Brazil,South America,LATAM
+878,Cuautitlï¿½n,Mï¿½xico,Mexico,Central America,LATAM
+879,Cubatï¿½o,Sï¿½o Paulo,Brazil,South America,LATAM
 880,Cubuk,Ankara,Turkey,Western Asia,Asia Pacific
-881,Cúcuta,Norte de Santander,Colombia,South America,LATAM
+881,Cï¿½cuta,Norte de Santander,Colombia,South America,LATAM
 882,Cuenca,Azuay,Ecuador,South America,LATAM
 883,Cuenca,Castile-La Mancha,Spain,Southern Europe,Europe
 884,Cuernavaca,Morelos,Mexico,Central America,LATAM
-885,Cuiabá,Mato Grosso,Brazil,South America,LATAM
-886,Culiacán,Sinaloa,Mexico,Central America,LATAM
-887,Cumaná,Sucre,Venezuela,South America,LATAM
+885,Cuiabï¿½,Mato Grosso,Brazil,South America,LATAM
+886,Culiacï¿½n,Sinaloa,Mexico,Central America,LATAM
+887,Cumanï¿½,Sucre,Venezuela,South America,LATAM
 888,Cumbernauld,Scotland,United Kingdom,Northern Europe,Europe
 889,Cuneo,Piedmont,Italy,Southern Europe,Europe
 890,Curitiba,Parana,Brazil,South America,LATAM
@@ -894,7 +894,7 @@ City ID,City,State,Country,Region,Market
 893,Cuxhaven,Lower Saxony,Germany,Western Europe,Europe
 894,Cuyahoga Falls,Ohio,United States,Eastern US,USCA
 895,Czestochowa,Silesia,Poland,Eastern Europe,Europe
-896,Da Nang,Dà Nang,Vietnam,Southeastern Asia,Asia Pacific
+896,Da Nang,Dï¿½ Nang,Vietnam,Southeastern Asia,Asia Pacific
 897,Dabrowa Gornicza,Silesia,Poland,Eastern Europe,Europe
 898,Daegu,Daegu,South Korea,Eastern Asia,Asia Pacific
 899,Daejeon,Daejeon,South Korea,Eastern Asia,Asia Pacific
@@ -919,7 +919,7 @@ City ID,City,State,Country,Region,Market
 918,Darwin,Northern Territory,Australia,Oceania,Asia Pacific
 919,Datong,Anhui,China,Eastern Asia,Asia Pacific
 920,Datong,Shanxi,China,Eastern Asia,Asia Pacific
-921,David,Chiriquí,Panama,Central America,LATAM
+921,David,Chiriquï¿½,Panama,Central America,LATAM
 922,Davis,California,United States,Western US,USCA
 923,Dax,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 924,Dayr az Zawr,Dayr Az Zawr,Syria,Western Asia,Asia Pacific
@@ -960,14 +960,14 @@ City ID,City,State,Country,Region,Market
 959,Deyang,Sichuan,China,Eastern Asia,Asia Pacific
 960,Dhaka,Dhaka,Bangladesh,Southern Asia,Asia Pacific
 961,Dhule,Maharashtra,India,Southern Asia,Asia Pacific
-962,Diadema,São Paulo,Brazil,South America,LATAM
+962,Diadema,Sï¿½o Paulo,Brazil,South America,LATAM
 963,Dieppe,Normandy,France,Western Europe,Europe
-964,Digne-les-Bains,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-965,Dijon,Bourgogne-Franche-Comté,France,Western Europe,Europe
+964,Digne-les-Bains,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+965,Dijon,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 966,Dinslaken,North Rhine-Westphalia,Germany,Western Europe,Europe
 967,Dire Dawa,Dire Dawa,Ethiopia,Eastern Africa,Africa
 968,Disuq,Kafr Ash Shaykh,Egypt,North Africa,Africa
-969,Divinópolis,Minas Gerais,Brazil,South America,LATAM
+969,Divinï¿½polis,Minas Gerais,Brazil,South America,LATAM
 970,Diyarbakir,Diyarbakir,Turkey,Western Asia,Asia Pacific
 971,Djibouti,Djibouti,Djibouti,Eastern Africa,Africa
 972,Djougou,Donga,Benin,Western Africa,Africa
@@ -975,7 +975,7 @@ City ID,City,State,Country,Region,Market
 974,Dnipropetrovs'k,Dnipropetrovs'k,Ukraine,Eastern Europe,Europe
 975,Doetinchem,Gelderland,Netherlands,Western Europe,Europe
 976,Doha,Ad Dawhah,Qatar,Western Asia,Asia Pacific
-977,Dole,Bourgogne-Franche-Comté,France,Western Europe,Europe
+977,Dole,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 978,Domont,Ile-de-France,France,Western Europe,Europe
 979,Doncaster,England,United Kingdom,Northern Europe,Europe
 980,Donets'k,Donetsk,Ukraine,Eastern Europe,Europe
@@ -985,14 +985,14 @@ City ID,City,State,Country,Region,Market
 984,Dormagen,North Rhine-Westphalia,Germany,Western Europe,Europe
 985,Dorsten,North Rhine-Westphalia,Germany,Western Europe,Europe
 986,Dortmund,North Rhine-Westphalia,Germany,Western Europe,Europe
-987,Dos Hermanas,Andalusía,Spain,Southern Europe,Europe
+987,Dos Hermanas,Andalusï¿½a,Spain,Southern Europe,Europe
 988,Dos Quebradas,Risaralda,Colombia,South America,LATAM
 989,Douai,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 990,Douarnenez,Brittany,France,Western Europe,Europe
 991,Dourados,Mato Grosso do Sul,Brazil,South America,LATAM
 992,Dover,Delaware,United States,Eastern US,USCA
 993,Dover,New Hampshire,United States,Eastern US,USCA
-994,Draguignan,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+994,Draguignan,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 995,Drammen,Buskerud,Norway,Northern Europe,Europe
 996,Drancy,Ile-de-France,France,Western Europe,Europe
 997,Draper,Utah,United States,Western US,USCA
@@ -1008,7 +1008,7 @@ City ID,City,State,Country,Region,Market
 1007,Dubuque,Iowa,United States,Central US,USCA
 1008,Dudley,England,United Kingdom,Northern Europe,Europe
 1009,Duisburg,North Rhine-Westphalia,Germany,Western Europe,Europe
-1010,Duitama,Boyacá,Colombia,South America,LATAM
+1010,Duitama,Boyacï¿½,Colombia,South America,LATAM
 1011,Dumai,Riau,Indonesia,Southeastern Asia,Asia Pacific
 1012,Dundee,Scotland,United Kingdom,Northern Europe,Europe
 1013,Dunedin,Otago,New Zealand,Oceania,Asia Pacific
@@ -1020,8 +1020,8 @@ City ID,City,State,Country,Region,Market
 1019,Durgapur,Maharashtra,India,Southern Asia,Asia Pacific
 1020,Durgapur,West Bengal,India,Southern Asia,Asia Pacific
 1021,Durham,North Carolina,United States,Southern US,USCA
-1022,Durres,Durrës,Albania,Southern Europe,Europe
-1023,Duzce,Düzce,Turkey,Western Asia,Asia Pacific
+1022,Durres,Durrï¿½s,Albania,Southern Europe,Europe
+1023,Duzce,Dï¿½zce,Turkey,Western Asia,Asia Pacific
 1024,Dzhezkazgan,Qaraghandy,Kazakhstan,Central Asia,Asia Pacific
 1025,Eagan,Minnesota,United States,Central US,USCA
 1026,East Kilbride,Scotland,United Kingdom,Northern Europe,Europe
@@ -1031,7 +1031,7 @@ City ID,City,State,Country,Region,Market
 1030,Eastbourne,England,United Kingdom,Northern Europe,Europe
 1031,Eau Claire,Wisconsin,United States,Central US,USCA
 1032,Ebolowa,Sud,Cameroon,Central Africa,Africa
-1033,Echirolles,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+1033,Echirolles,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 1034,Echuca,Victoria,Australia,Oceania,Asia Pacific
 1035,Edea,Littoral,Cameroon,Central Africa,Africa
 1036,Edinburg,Texas,United States,Central US,USCA
@@ -1041,18 +1041,18 @@ City ID,City,State,Country,Region,Market
 1040,Edmonds,Washington,United States,Western US,USCA
 1041,Edmonton,Alberta,Canada,Canada,USCA
 1042,Edogawa-ku,Tokyo,Japan,Eastern Asia,Asia Pacific
-1043,Eggenstein-Leopoldshafen,Baden-Württemberg,Germany,Western Europe,Europe
+1043,Eggenstein-Leopoldshafen,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 1044,Eindhoven,North Brabant,Netherlands,Western Europe,Europe
 1045,Ekibastuz,Pavlodar,Kazakhstan,Central Asia,Asia Pacific
 1046,El Cajon,California,United States,Western US,USCA
-1047,El Ejido,Andalusía,Spain,Southern Europe,Europe
+1047,El Ejido,Andalusï¿½a,Spain,Southern Europe,Europe
 1048,El Escorial,Madrid,Spain,Southern Europe,Europe
 1049,El Jadida,Doukkala-Abda,Morocco,North Africa,Africa
-1050,El Limón,Aragua,Venezuela,South America,LATAM
+1050,El Limï¿½n,Aragua,Venezuela,South America,LATAM
 1051,El Paso,Texas,United States,Central US,USCA
 1052,El Prat de Llobregat,Catalonia,Spain,Southern Europe,Europe
 1053,El Progreso,Yoro,Honduras,Central America,LATAM
-1054,El Tigre,Anzoátegui,Venezuela,South America,LATAM
+1054,El Tigre,Anzoï¿½tegui,Venezuela,South America,LATAM
 1055,Elazig,Elazig,Turkey,Western Asia,Asia Pacific
 1056,Elbasan,Elbasan,Albania,Southern Europe,Europe
 1057,Elbeuf,Normandy,France,Western Europe,Europe
@@ -1085,17 +1085,17 @@ City ID,City,State,Country,Region,Market
 1084,Escondido,California,United States,Western US,USCA
 1085,Escuintla,Escuintla,Guatemala,Central America,LATAM
 1086,Esenyurt,Istanbul,Turkey,Western Asia,Asia Pacific
-1087,Eskilstuna,Södermanland,Sweden,Northern Europe,Europe
+1087,Eskilstuna,Sï¿½dermanland,Sweden,Northern Europe,Europe
 1088,Eskisehir,Eskisehir,Turkey,Western Asia,Asia Pacific
 1089,Espoo,Uusimaa,Finland,Northern Europe,Europe
 1090,Esquina,Corrientes,Argentina,South America,LATAM
 1091,Essen,North Rhine-Westphalia,Germany,Western Europe,Europe
-1092,Estelí,Estelí,Nicaragua,Central America,LATAM
-1093,Estepona,Andalusía,Spain,Southern Europe,Europe
+1092,Estelï¿½,Estelï¿½,Nicaragua,Central America,LATAM
+1093,Estepona,Andalusï¿½a,Spain,Southern Europe,Europe
 1094,Etawah,Uttar Pradesh,India,Southern Asia,Asia Pacific
 1095,Etimesgut,Ankara,Turkey,Western Asia,Asia Pacific
 1096,Eugene,Oregon,United States,Western US,USCA
-1097,Eunápolis,Bahia,Brazil,South America,LATAM
+1097,Eunï¿½polis,Bahia,Brazil,South America,LATAM
 1098,Euskirchen,North Rhine-Westphalia,Germany,Western Europe,Europe
 1099,Evanston,Illinois,United States,Central US,USCA
 1100,Everett,Massachusetts,United States,Eastern US,USCA
@@ -1104,7 +1104,7 @@ City ID,City,State,Country,Region,Market
 1103,Evry,Ile-de-France,France,Western Europe,Europe
 1104,Exeter,England,United Kingdom,Northern Europe,Europe
 1105,Ezhou,Hubei,China,Eastern Asia,Asia Pacific
-1106,Facatativá,Cundinamarca,Colombia,South America,LATAM
+1106,Facatativï¿½,Cundinamarca,Colombia,South America,LATAM
 1107,Faches-Thumesnil,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 1108,Faenza,Emilia-Romagna,Italy,Southern Europe,Europe
 1109,Fairfield,California,United States,Western US,USCA
@@ -1129,9 +1129,9 @@ City ID,City,State,Country,Region,Market
 1128,Fernando de la Mora,Central,Paraguay,South America,LATAM
 1129,Ferndown,England,United Kingdom,Northern Europe,Europe
 1130,Ferrara,Emilia-Romagna,Italy,Southern Europe,Europe
-1131,Fes,Fès-Boulemane,Morocco,North Africa,Africa
+1131,Fes,Fï¿½s-Boulemane,Morocco,North Africa,Africa
 1132,Fianarantsoa,Haute-Matsiatra,Madagascar,Eastern Africa,Africa
-1133,Firminy,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+1133,Firminy,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 1134,Firozabad,Uttar Pradesh,India,Southern Asia,Asia Pacific
 1135,Fiumicino,Lazio,Italy,Southern Europe,Europe
 1136,Flensburg,Schleswig-Holstein,Germany,Western Europe,Europe
@@ -1141,13 +1141,13 @@ City ID,City,State,Country,Region,Market
 1140,Florence,Kentucky,United States,Southern US,USCA
 1141,Florence,South Carolina,United States,Southern US,USCA
 1142,Florence,Tuscany,Italy,Southern Europe,Europe
-1143,Florencia,Caquetá,Colombia,South America,LATAM
-1144,Floriano,Piauí,Brazil,South America,LATAM
+1143,Florencia,Caquetï¿½,Colombia,South America,LATAM
+1144,Floriano,Piauï¿½,Brazil,South America,LATAM
 1145,Floridablanca,Santander,Colombia,South America,LATAM
 1146,Focsani,Vrancea,Romania,Eastern Europe,Europe
 1147,Foggia,Apulia,Italy,Southern Europe,Europe
 1148,Foligno,Umbria,Italy,Southern Europe,Europe
-1149,Fontaine,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+1149,Fontaine,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 1150,Fontainebleau,Ile-de-France,France,Western Europe,Europe
 1151,Fontenay-aux-Roses,Ile-de-France,France,Western Europe,Europe
 1152,Fontenay-le-Comte,Pays de la Loire,France,Western Europe,Europe
@@ -1159,14 +1159,14 @@ City ID,City,State,Country,Region,Market
 1158,Fort Lauderdale,Florida,United States,Southern US,USCA
 1159,Fort Portal,Kabarole,Uganda,Eastern Africa,Africa
 1160,Fort Worth,Texas,United States,Central US,USCA
-1161,Fortaleza,Ceará,Brazil,South America,LATAM
+1161,Fortaleza,Cearï¿½,Brazil,South America,LATAM
 1162,Fort-de-France,Martinique,Martinique,Caribbean,LATAM
 1163,Foshan,Guangdong,China,Eastern Asia,Asia Pacific
 1164,Foumban,Ouest,Cameroon,Central Africa,Africa
-1165,Franca,São Paulo,Brazil,South America,LATAM
-1166,Francisco Beltrão,Parana,Brazil,South America,LATAM
-1167,Francisco Morato,São Paulo,Brazil,South America,LATAM
-1168,Franco da Rocha,São Paulo,Brazil,South America,LATAM
+1165,Franca,Sï¿½o Paulo,Brazil,South America,LATAM
+1166,Francisco Beltrï¿½o,Parana,Brazil,South America,LATAM
+1167,Francisco Morato,Sï¿½o Paulo,Brazil,South America,LATAM
+1168,Franco da Rocha,Sï¿½o Paulo,Brazil,South America,LATAM
 1169,Franconville,Ile-de-France,France,Western Europe,Europe
 1170,Frankfort,Illinois,United States,Central US,USCA
 1171,Frankfurt,Hesse,Germany,Western Europe,Europe
@@ -1176,17 +1176,17 @@ City ID,City,State,Country,Region,Market
 1175,Frederiksberg,Hovedstaden,Denmark,Northern Europe,Europe
 1176,Freeport,Illinois,United States,Central US,USCA
 1177,Freeport,New York,United States,Eastern US,USCA
-1178,Freiburg,Baden-Württemberg,Germany,Western Europe,Europe
+1178,Freiburg,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 1179,Fremont,Nebraska,United States,Central US,USCA
 1180,Fresnes,Ile-de-France,France,Western Europe,Europe
-1181,Fresnillo de González Echeverría,Zacatecas,Mexico,Central America,LATAM
+1181,Fresnillo de Gonzï¿½lez Echeverrï¿½a,Zacatecas,Mexico,Central America,LATAM
 1182,Fresno,California,United States,Western US,USCA
 1183,Friedberg,Hesse,Germany,Western Europe,Europe
-1184,Friedrichshafen,Baden-Württemberg,Germany,Western Europe,Europe
+1184,Friedrichshafen,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 1185,Frisco,Texas,United States,Central US,USCA
 1186,Frontera,Tabasco,Mexico,Central America,LATAM
-1187,Frontignan,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
-1188,Fuengirola,Andalusía,Spain,Southern Europe,Europe
+1187,Frontignan,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
+1188,Fuengirola,Andalusï¿½a,Spain,Southern Europe,Europe
 1189,Fuenlabrada,Madrid,Spain,Southern Europe,Europe
 1190,Fuji,Shizuoka,Japan,Eastern Asia,Asia Pacific
 1191,Fujisawa,Kanagawa,Japan,Eastern Asia,Asia Pacific
@@ -1208,16 +1208,16 @@ City ID,City,State,Country,Region,Market
 1207,Ganganagar,Rajasthan,India,Southern Asia,Asia Pacific
 1208,Gaomi,Shandong,China,Eastern Asia,Asia Pacific
 1209,Gaoyou,Jiangsu,China,Eastern Asia,Asia Pacific
-1210,Gap,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+1210,Gap,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 1211,Garanhuns,Pernambuco,Brazil,South America,LATAM
 1212,Garbsen,Lower Saxony,Germany,Western Europe,Europe
 1213,Garches,Ile-de-France,France,Western Europe,Europe
-1214,Gardanne,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+1214,Gardanne,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 1215,Garden City,Kansas,United States,Central US,USCA
 1216,Garforth,England,United Kingdom,Northern Europe,Europe
 1217,Garland,Texas,United States,Central US,USCA
 1218,Garoua,Nord,Cameroon,Central Africa,Africa
-1219,Garza García,Nuevo León,Mexico,Central America,LATAM
+1219,Garza Garcï¿½a,Nuevo Leï¿½n,Mexico,Central America,LATAM
 1220,Gaspar,Santa Catarina,Brazil,South America,LATAM
 1221,Gastonia,North Carolina,United States,Southern US,USCA
 1222,Gateshead,England,United Kingdom,Northern Europe,Europe
@@ -1232,7 +1232,7 @@ City ID,City,State,Country,Region,Market
 1231,Geelong,Victoria,Australia,Oceania,Asia Pacific
 1232,Gela,Sicily,Italy,Southern Europe,Europe
 1233,Gelsenkirchen,North Rhine-Westphalia,Germany,Western Europe,Europe
-1234,General Escobedo,Nuevo León,Mexico,Central America,LATAM
+1234,General Escobedo,Nuevo Leï¿½n,Mexico,Central America,LATAM
 1235,Geneva,Geneva,Switzerland,Western Europe,Europe
 1236,Genk,Limburg,Belgium,Western Europe,Europe
 1237,Gennevilliers,Ile-de-France,France,Western Europe,Europe
@@ -1249,12 +1249,12 @@ City ID,City,State,Country,Region,Market
 1248,Gilbert,Arizona,United States,Western US,USCA
 1249,Gillingham,England,United Kingdom,Northern Europe,Europe
 1250,Girga,Suhaj,Egypt,North Africa,Africa
-1251,Girón,Santander,Colombia,South America,LATAM
+1251,Girï¿½n,Santander,Colombia,South America,LATAM
 1252,Girona,Catalonia,Spain,Southern Europe,Europe
 1253,Gisborne,Gisborne,New Zealand,Oceania,Asia Pacific
 1254,Gitarama,Southern,Rwanda,Eastern Africa,Africa
 1255,Giurgiu,Giurgiu,Romania,Eastern Europe,Europe
-1256,Givors,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+1256,Givors,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 1257,Giyani,Limpopo,South Africa,Southern Africa,Africa
 1258,Gladbeck,North Rhine-Westphalia,Germany,Western Europe,Europe
 1259,Gladstone,Missouri,United States,Central US,USCA
@@ -1264,13 +1264,13 @@ City ID,City,State,Country,Region,Market
 1263,Glenview,Illinois,United States,Central US,USCA
 1264,Gliwice,Silesia,Poland,Eastern Europe,Europe
 1265,Gloucester,England,United Kingdom,Northern Europe,Europe
-1266,Goiânia,Goiás,Brazil,South America,LATAM
+1266,Goiï¿½nia,Goiï¿½s,Brazil,South America,LATAM
 1267,Gold Coast,Queensland,Australia,Oceania,Asia Pacific
 1268,Goldsboro,North Carolina,United States,Southern US,USCA
 1269,Gombe,Gombe,Nigeria,Western Africa,Africa
-1270,Gómez Palacio,Durango,Mexico,Central America,LATAM
+1270,Gï¿½mez Palacio,Durango,Mexico,Central America,LATAM
 1271,Gonabad,Razavi Khorasan,Iran,Southern Asia,Asia Pacific
-1272,Gonaïves,Artibonite,Haiti,Caribbean,LATAM
+1272,Gonaï¿½ves,Artibonite,Haiti,Caribbean,LATAM
 1273,Gonesse,Ile-de-France,France,Western Europe,Europe
 1274,Gongzhuling,Jilin,China,Eastern Asia,Asia Pacific
 1275,Gorakhpur,Haryana,India,Southern Asia,Asia Pacific
@@ -1278,22 +1278,22 @@ City ID,City,State,Country,Region,Market
 1277,Gorgan,Golestan,Iran,Southern Asia,Asia Pacific
 1278,Gorzow Wielkopolski,Lubusz,Poland,Eastern Europe,Europe
 1279,Gosport,England,United Kingdom,Northern Europe,Europe
-1280,Gothenburg,Västra Götaland,Sweden,Northern Europe,Europe
+1280,Gothenburg,Vï¿½stra Gï¿½taland,Sweden,Northern Europe,Europe
 1281,Goulburn,New South Wales,Australia,Oceania,Asia Pacific
 1282,Goussainville,Ile-de-France,France,Western Europe,Europe
 1283,Goyang,Gyeonggi,South Korea,Eastern Asia,Asia Pacific
 1284,Gradignan,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
-1285,Grajaú,Maranhão,Brazil,South America,LATAM
-1286,Granada,Andalusía,Spain,Southern Europe,Europe
+1285,Grajaï¿½,Maranhï¿½o,Brazil,South America,LATAM
+1286,Granada,Andalusï¿½a,Spain,Southern Europe,Europe
 1287,Granada,Granada,Nicaragua,Central America,LATAM
 1288,Grand Island,Nebraska,United States,Central US,USCA
 1289,Grand Prairie,Texas,United States,Central US,USCA
 1290,Grand Rapids,Michigan,United States,Central US,USCA
 1291,Granollers,Catalonia,Spain,Southern Europe,Europe
 1292,Grapevine,Texas,United States,Central US,USCA
-1293,Grasse,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-1294,Gravatá,Pernambuco,Brazil,South America,LATAM
-1295,Gravataí,Rio Grande do Sul,Brazil,South America,LATAM
+1293,Grasse,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+1294,Gravatï¿½,Pernambuco,Brazil,South America,LATAM
+1295,Gravataï¿½,Rio Grande do Sul,Brazil,South America,LATAM
 1296,Gravesend,England,United Kingdom,Northern Europe,Europe
 1297,Graz,Styria,Austria,Western Europe,Europe
 1298,Great Falls,Montana,United States,Western US,USCA
@@ -1304,7 +1304,7 @@ City ID,City,State,Country,Region,Market
 1303,Greenville,North Carolina,United States,Southern US,USCA
 1304,Greenwood,Indiana,United States,Central US,USCA
 1305,Greifswald,Mecklenburg-Vorpommern,Germany,Western Europe,Europe
-1306,Grenoble,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+1306,Grenoble,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 1307,Gresham,Oregon,United States,Western US,USCA
 1308,Grevenbroich,North Rhine-Westphalia,Germany,Western Europe,Europe
 1309,Griffith,New South Wales,Australia,Oceania,Asia Pacific
@@ -1316,19 +1316,19 @@ City ID,City,State,Country,Region,Market
 1315,Guacara,Carabobo,Venezuela,South America,LATAM
 1316,Guadalajara,Castile-La Mancha,Spain,Southern Europe,Europe
 1317,Guadalajara,Jalisco,Mexico,Central America,LATAM
-1318,Guamúchil,Sinaloa,Mexico,Central America,LATAM
+1318,Guamï¿½chil,Sinaloa,Mexico,Central America,LATAM
 1319,Guanajuato,Guanajuato,Mexico,Central America,LATAM
 1320,Guanambi,Bahia,Brazil,South America,LATAM
 1321,Guanare,Portuguesa,Venezuela,South America,LATAM
 1322,Guangshui,Hubei,China,Eastern Asia,Asia Pacific
 1323,Guangzhou,Guangdong,China,Eastern Asia,Asia Pacific
-1324,Guantánamo,Guantánamo,Cuba,Caribbean,LATAM
-1325,Guarapari,Espírito Santo,Brazil,South America,LATAM
+1324,Guantï¿½namo,Guantï¿½namo,Cuba,Caribbean,LATAM
+1325,Guarapari,Espï¿½rito Santo,Brazil,South America,LATAM
 1326,Guarapuava,Parana,Brazil,South America,LATAM
-1327,Guaratinguetá,São Paulo,Brazil,South America,LATAM
+1327,Guaratinguetï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
 1328,Guarenas,Miranda,Venezuela,South America,LATAM
-1329,Guarujá,São Paulo,Brazil,South America,LATAM
-1330,Guarulhos,São Paulo,Brazil,South America,LATAM
+1329,Guarujï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
+1330,Guarulhos,Sï¿½o Paulo,Brazil,South America,LATAM
 1331,Guasave,Sinaloa,Mexico,Central America,LATAM
 1332,Guatemala City,Guatemala,Guatemala,Central America,LATAM
 1333,Guatire,Miranda,Venezuela,South America,LATAM
@@ -1342,7 +1342,7 @@ City ID,City,State,Country,Region,Market
 1341,Guidonia Montecelio,Lazio,Italy,Southern Europe,Europe
 1342,Guildford,England,United Kingdom,Northern Europe,Europe
 1343,Guilin,Guangxi,China,Eastern Asia,Asia Pacific
-1344,Guimarães,Braga,Portugal,Southern Europe,Europe
+1344,Guimarï¿½es,Braga,Portugal,Southern Europe,Europe
 1345,Guiping,Guangxi,China,Eastern Asia,Asia Pacific
 1346,Guiyang,Guizhou,China,Eastern Asia,Asia Pacific
 1347,Gujranwala,Punjab,Pakistan,Southern Asia,Asia Pacific
@@ -1352,12 +1352,12 @@ City ID,City,State,Country,Region,Market
 1351,Gulu,Gulu,Uganda,Eastern Africa,Africa
 1352,Gummersbach,North Rhine-Westphalia,Germany,Western Europe,Europe
 1353,Guntur,Andhra Pradesh,India,Southern Asia,Asia Pacific
-1354,Günzburg,Bavaria,Germany,Western Europe,Europe
+1354,Gï¿½nzburg,Bavaria,Germany,Western Europe,Europe
 1355,Gurupi,Tocantins,Brazil,South America,LATAM
 1356,Gusau,Zamfara,Nigeria,Western Africa,Africa
 1357,Guwahati,Assam,India,Southern Asia,Asia Pacific
 1358,Guyancourt,Ile-de-France,France,Western Europe,Europe
-1359,Guzmán,Jalisco,Mexico,Central America,LATAM
+1359,Guzmï¿½n,Jalisco,Mexico,Central America,LATAM
 1360,Gwalior,Madhya Pradesh,India,Southern Asia,Asia Pacific
 1361,Gyor,Gyor,Hungary,Eastern Europe,Europe
 1362,Gyula,Bekes,Hungary,Eastern Europe,Europe
@@ -1394,7 +1394,7 @@ City ID,City,State,Country,Region,Market
 1393,Hangu,Tianjin,China,Eastern Asia,Asia Pacific
 1394,Hangzhou,Zhejiang,China,Eastern Asia,Asia Pacific
 1395,Haninge,Stockholm,Sweden,Northern Europe,Europe
-1396,Hanoi,Th? Dô Hà N?i,Vietnam,Southeastern Asia,Asia Pacific
+1396,Hanoi,Th? Dï¿½ Hï¿½ N?i,Vietnam,Southeastern Asia,Asia Pacific
 1397,Hanover,Lower Saxony,Germany,Western Europe,Europe
 1398,Hapur,Uttar Pradesh,India,Southern Asia,Asia Pacific
 1399,Harare,Harare,Zimbabwe,Eastern Africa,Africa
@@ -1419,11 +1419,11 @@ City ID,City,State,Country,Region,Market
 1418,Hechuan,Chongqing,China,Eastern Asia,Asia Pacific
 1419,Heerlen,Limburg,Netherlands,Western Europe,Europe
 1420,Hefei,Anhui,China,Eastern Asia,Asia Pacific
-1421,Heidelberg,Baden-Württemberg,Germany,Western Europe,Europe
-1422,Heilbronn,Baden-Württemberg,Germany,Western Europe,Europe
+1421,Heidelberg,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
+1422,Heilbronn,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 1423,Helena,Montana,United States,Western US,USCA
 1424,Helmond,North Brabant,Netherlands,Western Europe,Europe
-1425,Helsingborg,Skåne,Sweden,Northern Europe,Europe
+1425,Helsingborg,Skï¿½ne,Sweden,Northern Europe,Europe
 1426,Helsinki,Uusimaa,Finland,Northern Europe,Europe
 1427,Hemel Hempstead,England,United Kingdom,Northern Europe,Europe
 1428,Hempstead,New York,United States,Eastern US,USCA
@@ -1437,14 +1437,14 @@ City ID,City,State,Country,Region,Market
 1436,Herford,North Rhine-Westphalia,Germany,Western Europe,Europe
 1437,Hermosillo,Sonora,Mexico,Central America,LATAM
 1438,Herne,North Rhine-Westphalia,Germany,Western Europe,Europe
-1439,Heroica Zitácuaro,Michoacán,Mexico,Central America,LATAM
+1439,Heroica Zitï¿½cuaro,Michoacï¿½n,Mexico,Central America,LATAM
 1440,Herten,North Rhine-Westphalia,Germany,Western Europe,Europe
 1441,Hesperia,California,United States,Western US,USCA
 1442,Heyuan,Guangdong,China,Eastern Asia,Asia Pacific
 1443,Heze,Shandong,China,Eastern Asia,Asia Pacific
 1444,Hialeah,Florida,United States,Southern US,USCA
 1445,Hickory,North Carolina,United States,Southern US,USCA
-1446,Hidalgo,Michoacán,Mexico,Central America,LATAM
+1446,Hidalgo,Michoacï¿½n,Mexico,Central America,LATAM
 1447,High Wycombe,England,United Kingdom,Northern Europe,Europe
 1448,Highland Park,Illinois,United States,Central US,USCA
 1449,Hilden,North Rhine-Westphalia,Germany,Western Europe,Europe
@@ -1456,11 +1456,11 @@ City ID,City,State,Country,Region,Market
 1455,Hirakata,Osaka,Japan,Eastern Asia,Asia Pacific
 1456,Hiratsuka,Kanagawa,Japan,Eastern Asia,Asia Pacific
 1457,Hisar,Haryana,India,Southern Asia,Asia Pacific
-1458,Ho Chi Minh City,Ho Chí Minh City,Vietnam,Southeastern Asia,Asia Pacific
+1458,Ho Chi Minh City,Ho Chï¿½ Minh City,Vietnam,Southeastern Asia,Asia Pacific
 1459,Hobart,Tasmania,Australia,Oceania,Asia Pacific
 1460,Hod HaSharon,Central,Israel,Western Asia,Asia Pacific
 1461,Hohhot,Inner Mongolia,China,Eastern Asia,Asia Pacific
-1462,Holguín,Holguín,Cuba,Caribbean,LATAM
+1462,Holguï¿½n,Holguï¿½n,Cuba,Caribbean,LATAM
 1463,Holland,Michigan,United States,Central US,USCA
 1464,Hollywood,Florida,United States,Southern US,USCA
 1465,Holon,Tel Aviv,Israel,Western Asia,Asia Pacific
@@ -1482,7 +1482,7 @@ City ID,City,State,Country,Region,Market
 1481,Huainan,Anhui,China,Eastern Asia,Asia Pacific
 1482,Huaiyin,Jiangsu,China,Eastern Asia,Asia Pacific
 1483,Huambo,Huambo,Angola,Central Africa,Africa
-1484,Huancayo,Junín,Peru,South America,LATAM
+1484,Huancayo,Junï¿½n,Peru,South America,LATAM
 1485,Huangshan,Anhui,China,Eastern Asia,Asia Pacific
 1486,Huangshi,Hubei,China,Eastern Asia,Asia Pacific
 1487,Huaraz,Ancash,Peru,South America,LATAM
@@ -1490,8 +1490,8 @@ City ID,City,State,Country,Region,Market
 1489,Huddersfield,England,United Kingdom,Northern Europe,Europe
 1490,Huddinge,Stockholm,Sweden,Northern Europe,Europe
 1491,Huehuetenango,Huehuetenango,Guatemala,Central America,LATAM
-1492,Huelva,Andalusía,Spain,Southern Europe,Europe
-1493,Huixquilucan,México,Mexico,Central America,LATAM
+1492,Huelva,Andalusï¿½a,Spain,Southern Europe,Europe
+1493,Huixquilucan,Mï¿½xico,Mexico,Central America,LATAM
 1494,Huizhou,Guangdong,China,Eastern Asia,Asia Pacific
 1495,Huntington Beach,California,United States,Western US,USCA
 1496,Huntsville,Alabama,United States,Southern US,USCA
@@ -1503,11 +1503,11 @@ City ID,City,State,Country,Region,Market
 1502,Hyderabad,Telangana,India,Southern Asia,Asia Pacific
 1503,Iasi,Iasi,Romania,Eastern Europe,Europe
 1504,Ibadan,Oyo,Nigeria,Western Africa,Africa
-1505,Ibagué,Tolima,Colombia,South America,LATAM
+1505,Ibaguï¿½,Tolima,Colombia,South America,LATAM
 1506,Ibaraki,Osaka,Japan,Eastern Asia,Asia Pacific
 1507,Ibb,Ibb,Yemen,Western Asia,Asia Pacific
-1508,Ibirité,Minas Gerais,Brazil,South America,LATAM
-1509,Ibiúna,São Paulo,Brazil,South America,LATAM
+1508,Ibiritï¿½,Minas Gerais,Brazil,South America,LATAM
+1509,Ibiï¿½na,Sï¿½o Paulo,Brazil,South America,LATAM
 1510,Ichalkaranji,Maharashtra,India,Southern Asia,Asia Pacific
 1511,Ichikawa,Chiba,Japan,Eastern Asia,Asia Pacific
 1512,Idfu,Aswan,Egypt,North Africa,Africa
@@ -1515,11 +1515,11 @@ City ID,City,State,Country,Region,Market
 1514,Igdir,Igdir,Turkey,Western Asia,Asia Pacific
 1515,Iguala,Guerrero,Mexico,Central America,LATAM
 1516,Igurusi,Mbeya,Tanzania,Eastern Africa,Africa
-1517,Ijuí,Rio Grande do Sul,Brazil,South America,LATAM
+1517,Ijuï¿½,Rio Grande do Sul,Brazil,South America,LATAM
 1518,Ikot Ekpene,Akwa Ibom,Nigeria,Western Africa,Africa
 1519,Ilam,Ilam,Iran,Southern Asia,Asia Pacific
 1520,Ilesha,Osun,Nigeria,Western Africa,Africa
-1521,Ilhéus,Bahia,Brazil,South America,LATAM
+1521,Ilhï¿½us,Bahia,Brazil,South America,LATAM
 1522,Illkirch-Graffenstaden,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
 1523,Ilo,Moquegua,Peru,South America,LATAM
 1524,Ilopango,San Salvador,El Salvador,Central America,LATAM
@@ -1527,7 +1527,7 @@ City ID,City,State,Country,Region,Market
 1526,Imola,Emilia-Romagna,Italy,Southern Europe,Europe
 1527,Imphal,Manipur,India,Southern Asia,Asia Pacific
 1528,Indaial,Santa Catarina,Brazil,South America,LATAM
-1529,Indaiatuba,São Paulo,Brazil,South America,LATAM
+1529,Indaiatuba,Sï¿½o Paulo,Brazil,South America,LATAM
 1530,Independence,Missouri,United States,Central US,USCA
 1531,Indianapolis,Indiana,United States,Central US,USCA
 1532,Indore,Madhya Pradesh,India,Southern Asia,Asia Pacific
@@ -1538,10 +1538,10 @@ City ID,City,State,Country,Region,Market
 1537,Invercargill,Southland,New Zealand,Oceania,Asia Pacific
 1538,Iowa City,Iowa,United States,Central US,USCA
 1539,Ipatinga,Minas Gerais,Brazil,South America,LATAM
-1540,Ipiales,Nariño,Colombia,South America,LATAM
+1540,Ipiales,Nariï¿½o,Colombia,South America,LATAM
 1541,Ipoh,Perak,Malaysia,Southeastern Asia,Asia Pacific
 1542,Ipswich,England,United Kingdom,Northern Europe,Europe
-1543,Iquique,Tarapacá,Chile,South America,LATAM
+1543,Iquique,Tarapacï¿½,Chile,South America,LATAM
 1544,Iquitos,Loreto,Peru,South America,LATAM
 1545,Iranshahr,Sistan Va Baluchestan,Iran,Southern Asia,Asia Pacific
 1546,Irapuato,Guanajuato,Mexico,Central America,LATAM
@@ -1557,27 +1557,27 @@ City ID,City,State,Country,Region,Market
 1556,Issoire,Auvergne,France,Western Europe,Europe
 1557,Issy-les-Moulineaux,Ile-de-France,France,Western Europe,Europe
 1558,Istanbul,Istanbul,Turkey,Western Asia,Asia Pacific
-1559,Istres,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-1560,Itaituba,Pará,Brazil,South America,LATAM
-1561,Itajaí,Santa Catarina,Brazil,South America,LATAM
+1559,Istres,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+1560,Itaituba,Parï¿½,Brazil,South America,LATAM
+1561,Itajaï¿½,Santa Catarina,Brazil,South America,LATAM
 1562,Itamaraju,Bahia,Brazil,South America,LATAM
-1563,Itapecerica da Serra,São Paulo,Brazil,South America,LATAM
-1564,Itapecuru Mirim,Maranhão,Brazil,South America,LATAM
-1565,Itapetininga,São Paulo,Brazil,South America,LATAM
-1566,Itapeva,São Paulo,Brazil,South America,LATAM
-1567,Itapevi,São Paulo,Brazil,South America,LATAM
-1568,Itaúna,Minas Gerais,Brazil,South America,LATAM
-1569,Itu,São Paulo,Brazil,South America,LATAM
+1563,Itapecerica da Serra,Sï¿½o Paulo,Brazil,South America,LATAM
+1564,Itapecuru Mirim,Maranhï¿½o,Brazil,South America,LATAM
+1565,Itapetininga,Sï¿½o Paulo,Brazil,South America,LATAM
+1566,Itapeva,Sï¿½o Paulo,Brazil,South America,LATAM
+1567,Itapevi,Sï¿½o Paulo,Brazil,South America,LATAM
+1568,Itaï¿½na,Minas Gerais,Brazil,South America,LATAM
+1569,Itu,Sï¿½o Paulo,Brazil,South America,LATAM
 1570,Ituiutaba,Minas Gerais,Brazil,South America,LATAM
 1571,Ivano-Frankivs'k,Ivano-Frankivsk,Ukraine,Eastern Europe,Europe
 1572,Ivanovo,Ivanovo,Russia,Eastern Europe,Europe
 1573,Ivry-sur-Seine,Ile-de-France,France,Western Europe,Europe
-1574,Ixtapaluca,México,Mexico,Central America,LATAM
+1574,Ixtapaluca,Mï¿½xico,Mexico,Central America,LATAM
 1575,Izmir,Izmir,Turkey,Western Asia,Asia Pacific
-1576,Izúcar de Matamoros,Puebla,Mexico,Central America,LATAM
+1576,Izï¿½car de Matamoros,Puebla,Mexico,Central America,LATAM
 1577,Jabalpur,Madhya Pradesh,India,Southern Asia,Asia Pacific
-1578,Jaboticabal,São Paulo,Brazil,South America,LATAM
-1579,Jacareí,São Paulo,Brazil,South America,LATAM
+1578,Jaboticabal,Sï¿½o Paulo,Brazil,South America,LATAM
+1579,Jacareï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
 1580,Jackson,Michigan,United States,Central US,USCA
 1581,Jackson,Mississippi,United States,Southern US,USCA
 1582,Jackson,Tennessee,United States,Southern US,USCA
@@ -1593,10 +1593,10 @@ City ID,City,State,Country,Region,Market
 1592,Jammu,Jammu and Kashmir,India,Southern Asia,Asia Pacific
 1593,Jamnagar,Gujarat,India,Southern Asia,Asia Pacific
 1594,Jamshedpur,Jharkhand,India,Southern Asia,Asia Pacific
-1595,Jamundí,Valle del Cauca,Colombia,South America,LATAM
+1595,Jamundï¿½,Valle del Cauca,Colombia,South America,LATAM
 1596,Jastrzebie Zdroj,Silesia,Poland,Eastern Europe,Europe
-1597,Jataí,Goiás,Brazil,South America,LATAM
-1598,Jaú,São Paulo,Brazil,South America,LATAM
+1597,Jataï¿½,Goiï¿½s,Brazil,South America,LATAM
+1598,Jaï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
 1599,Javanrud,Kermanshah,Iran,Southern Asia,Asia Pacific
 1600,Jaworzno,Silesia,Poland,Eastern Europe,Europe
 1601,Jayapura,Papua,Indonesia,Southeastern Asia,Asia Pacific
@@ -1604,8 +1604,8 @@ City ID,City,State,Country,Region,Market
 1603,Jefferson City,Missouri,United States,Central US,USCA
 1604,Jember,Jawa Timur,Indonesia,Southeastern Asia,Asia Pacific
 1605,Jena,Thuringia,Germany,Western Europe,Europe
-1606,Jequié,Bahia,Brazil,South America,LATAM
-1607,Jerez de la Frontera,Andalusía,Spain,Southern Europe,Europe
+1606,Jequiï¿½,Bahia,Brazil,South America,LATAM
+1607,Jerez de la Frontera,Andalusï¿½a,Spain,Southern Europe,Europe
 1608,Jerusalem,Jerusalem,Israel,Western Asia,Asia Pacific
 1609,Jhansi,Uttar Pradesh,India,Southern Asia,Asia Pacific
 1610,Jiamusi,Heilongjiang,China,Eastern Asia,Asia Pacific
@@ -1628,13 +1628,13 @@ City ID,City,State,Country,Region,Market
 1627,Jining,Shandong,China,Eastern Asia,Asia Pacific
 1628,Jinja,Jinja,Uganda,Eastern Africa,Africa
 1629,Jinjiang,Fujian,China,Eastern Asia,Asia Pacific
-1630,Ji-Paraná,Rondônia,Brazil,South America,LATAM
+1630,Ji-Paranï¿½,Rondï¿½nia,Brazil,South America,LATAM
 1631,Jiutai,Jilin,China,Eastern Asia,Asia Pacific
 1632,Jiutepec,Morelos,Mexico,Central America,LATAM
 1633,Jixi,Heilongjiang,China,Eastern Asia,Asia Pacific
 1634,Jizan,Jizan,Saudi Arabia,Western Asia,Asia Pacific
 1635,Jizzakh,Jizzakh,Uzbekistan,Central Asia,Asia Pacific
-1636,João Pessoa,Paraíba,Brazil,South America,LATAM
+1636,Joï¿½o Pessoa,Paraï¿½ba,Brazil,South America,LATAM
 1637,Jodhpur,Gujarat,India,Southern Asia,Asia Pacific
 1638,Jodhpur,Rajasthan,India,Southern Asia,Asia Pacific
 1639,Johannesburg,Gauteng,South Africa,Southern Africa,Africa
@@ -1642,14 +1642,14 @@ City ID,City,State,Country,Region,Market
 1641,Joinville,Santa Catarina,Brazil,South America,LATAM
 1642,Jonesboro,Arkansas,United States,Southern US,USCA
 1643,Jos,Plateau,Nigeria,Western Africa,Africa
-1644,José Bonifácio,São Paulo,Brazil,South America,LATAM
-1645,Juárez,Chihuahua,Mexico,Central America,LATAM
+1644,Josï¿½ Bonifï¿½cio,Sï¿½o Paulo,Brazil,South America,LATAM
+1645,Juï¿½rez,Chihuahua,Mexico,Central America,LATAM
 1646,Juazeiro,Bahia,Brazil,South America,LATAM
 1647,Juba,Central Equatoria,South Sudan,Eastern Africa,Africa
 1648,Juiz de Fora,Minas Gerais,Brazil,South America,LATAM
 1649,Juliaca,Puno,Peru,South America,LATAM
-1650,Jundiaí,São Paulo,Brazil,South America,LATAM
-1651,Junín,Provincia de Buenos Aires,Argentina,South America,LATAM
+1650,Jundiaï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
+1651,Junï¿½n,Provincia de Buenos Aires,Argentina,South America,LATAM
 1652,Jupiter,Florida,United States,Southern US,USCA
 1653,Jurema,Pernambuco,Brazil,South America,LATAM
 1654,Kabul,Kabul,Afghanistan,Southern Asia,Asia Pacific
@@ -1685,8 +1685,8 @@ City ID,City,State,Country,Region,Market
 1684,Karbala',Karbala',Iraq,Western Asia,Asia Pacific
 1685,Karimnagar,Telangana,India,Southern Asia,Asia Pacific
 1686,Karliova,Bingol,Turkey,Western Asia,Asia Pacific
-1687,Karlsruhe,Baden-Württemberg,Germany,Western Europe,Europe
-1688,Karlstad,Värmland,Sweden,Northern Europe,Europe
+1687,Karlsruhe,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
+1688,Karlstad,Vï¿½rmland,Sweden,Northern Europe,Europe
 1689,Karnal,Haryana,India,Southern Asia,Asia Pacific
 1690,Kars,Kars,Turkey,Western Asia,Asia Pacific
 1691,Kartal,Istanbul,Turkey,Western Asia,Asia Pacific
@@ -1715,7 +1715,7 @@ City ID,City,State,Country,Region,Market
 1714,Kediri,Jawa Timur,Indonesia,Southeastern Asia,Asia Pacific
 1715,Keller,Texas,United States,Central US,USCA
 1716,Kendari,Sulawesi Tenggara,Indonesia,Southeastern Asia,Asia Pacific
-1717,Kenitra,Gharb-Chrarda-Béni Hssen,Morocco,North Africa,Africa
+1717,Kenitra,Gharb-Chrarda-Bï¿½ni Hssen,Morocco,North Africa,Africa
 1718,Kenner,Louisiana,United States,Southern US,USCA
 1719,Kenosha,Wisconsin,United States,Central US,USCA
 1720,Kent,Ohio,United States,Eastern US,USCA
@@ -1728,8 +1728,8 @@ City ID,City,State,Country,Region,Market
 1727,Kharkiv,Kharkiv,Ukraine,Eastern Europe,Europe
 1728,Khartoum,Khartoum,Sudan,North Africa,Africa
 1729,Khasavyurt,Dagestan,Russia,Eastern Europe,Europe
-1730,Khemisset,Rabat-Salé-Zemmour-Zaer,Morocco,North Africa,Africa
-1731,Khenifra,Meknès-Tafilalet,Morocco,North Africa,Africa
+1730,Khemisset,Rabat-Salï¿½-Zemmour-Zaer,Morocco,North Africa,Africa
+1731,Khenifra,Meknï¿½s-Tafilalet,Morocco,North Africa,Africa
 1732,Kherson,Kherson,Ukraine,Eastern Europe,Europe
 1733,Khmel'nyts'kyy,Khmel'nyts'kyy,Ukraine,Eastern Europe,Europe
 1734,Khomeynishahr,Esfahan,Iran,Southern Asia,Asia Pacific
@@ -1776,7 +1776,7 @@ City ID,City,State,Country,Region,Market
 1775,Konya,Konya,Turkey,Western Asia,Asia Pacific
 1776,Kopeysk,Chelyabinsk,Russia,Eastern Europe,Europe
 1777,Korba,Chhattisgarh,India,Southern Asia,Asia Pacific
-1778,Korce,Korçë,Albania,Southern Europe,Europe
+1778,Korce,Korï¿½ï¿½,Albania,Southern Europe,Europe
 1779,Korhogo,Savanes,Cote d'Ivoire,Western Africa,Africa
 1780,Korla,Xinjiang Uygur,China,Eastern Asia,Asia Pacific
 1781,Kortrijk,West Flanders,Belgium,Western Europe,Europe
@@ -1817,12 +1817,12 @@ City ID,City,State,Country,Region,Market
 1816,Kwangju,Gyeonggi,South Korea,Eastern Asia,Asia Pacific
 1817,Kwinana,Western Australia,Australia,Oceania,Asia Pacific
 1818,La Baule-Escoublac,Pays de la Loire,France,Western Europe,Europe
-1819,La Ceiba,Atlántida,Honduras,Central America,LATAM
+1819,La Ceiba,Atlï¿½ntida,Honduras,Central America,LATAM
 1820,La Celle-Saint-Cloud,Ile-de-France,France,Western Europe,Europe
 1821,La Chapelle-sur-Erdre,Pays de la Loire,France,Western Europe,Europe
 1822,La Chorrera,Panama,Panama,Central America,LATAM
-1823,La Ciotat,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-1824,La Crau,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+1823,La Ciotat,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+1824,La Crau,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 1825,La Crosse,Wisconsin,United States,Central US,USCA
 1826,La Madeleine,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 1827,La Mesa,California,United States,Western US,USCA
@@ -1837,7 +1837,7 @@ City ID,City,State,Country,Region,Market
 1836,La Rochelle,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 1837,La Roche-sur-Yon,Pays de la Loire,France,Western Europe,Europe
 1838,La Romana,La Romana,Dominican Republic,Caribbean,LATAM
-1839,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+1839,La Seyne-sur-Mer,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 1840,La Spezia,Liguria,Italy,Southern Europe,Europe
 1841,La Teste-de-Buch,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 1842,La Vega,La Vega,Dominican Republic,Caribbean,LATAM
@@ -1860,12 +1860,12 @@ City ID,City,State,Country,Region,Market
 1859,Lakewood,California,United States,Western US,USCA
 1860,Lakewood,New Jersey,United States,Eastern US,USCA
 1861,Lakewood,Ohio,United States,Eastern US,USCA
-1862,Lambaré,Central,Paraguay,South America,LATAM
+1862,Lambarï¿½,Central,Paraguay,South America,LATAM
 1863,Lancaster,California,United States,Western US,USCA
 1864,Lancaster,Ohio,United States,Eastern US,USCA
 1865,Lancaster,Pennsylvania,United States,Eastern US,USCA
 1866,Landerneau,Brittany,France,Western Europe,Europe
-1867,Landskrona,Skåne,Sweden,Northern Europe,Europe
+1867,Landskrona,Skï¿½ne,Sweden,Northern Europe,Europe
 1868,Lanester,Brittany,France,Western Europe,Europe
 1869,Langen,Hesse,Germany,Western Europe,Europe
 1870,Langen,Lower Saxony,Germany,Western Europe,Europe
@@ -1878,7 +1878,7 @@ City ID,City,State,Country,Region,Market
 1877,Lanzhou,Gansu,China,Eastern Asia,Asia Pacific
 1878,Laohekou,Hubei,China,Eastern Asia,Asia Pacific
 1879,Laon,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
-1880,Larache,Tanger-Tétouan,Morocco,North Africa,Africa
+1880,Larache,Tanger-Tï¿½touan,Morocco,North Africa,Africa
 1881,Laredo,Texas,United States,Central US,USCA
 1882,Las Cruces,New Mexico,United States,Western US,USCA
 1883,Las Piedras,Canelones,Uruguay,South America,LATAM
@@ -1887,7 +1887,7 @@ City ID,City,State,Country,Region,Market
 1886,Las Tunas,Las Tunas,Cuba,Caribbean,LATAM
 1887,Las Vegas,Nevada,United States,Western US,USCA
 1888,Latina,Lazio,Italy,Southern Europe,Europe
-1889,Lattes,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+1889,Lattes,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 1890,Latur,Maharashtra,India,Southern Asia,Asia Pacific
 1891,Launceston,Tasmania,Australia,Oceania,Asia Pacific
 1892,Laurel,Maryland,United States,Eastern US,USCA
@@ -1898,18 +1898,18 @@ City ID,City,State,Country,Region,Market
 1897,Lawrence,Massachusetts,United States,Eastern US,USCA
 1898,Lawton,Oklahoma,United States,Central US,USCA
 1899,Layton,Utah,United States,Western US,USCA
-1900,Lázaro Cárdenas,Michoacán,Mexico,Central America,LATAM
+1900,Lï¿½zaro Cï¿½rdenas,Michoacï¿½n,Mexico,Central America,LATAM
 1901,Le Blanc-Mesnil,Ile-de-France,France,Western Europe,Europe
 1902,Le Bouscat,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
-1903,Le Cannet,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+1903,Le Cannet,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 1904,Le Chesnay,Ile-de-France,France,Western Europe,Europe
-1905,Le Creusot,Bourgogne-Franche-Comté,France,Western Europe,Europe
+1905,Le Creusot,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 1906,Le Havre,Normandy,France,Western Europe,Europe
 1907,Le Mans,Pays de la Loire,France,Western Europe,Europe
 1908,Le Petit-Quevilly,Normandy,France,Western Europe,Europe
 1909,Le Plessis-Robinson,Ile-de-France,France,Western Europe,Europe
-1910,Le Pontet,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-1911,Le Pré-Saint-Gervais,Ile-de-France,France,Western Europe,Europe
+1910,Le Pontet,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+1911,Le Prï¿½-Saint-Gervais,Ile-de-France,France,Western Europe,Europe
 1912,League City,Texas,United States,Central US,USCA
 1913,Lebanon,Tennessee,United States,Southern US,USCA
 1914,Lecce,Apulia,Italy,Southern Europe,Europe
@@ -1920,19 +1920,19 @@ City ID,City,State,Country,Region,Market
 1919,Leicester,England,United Kingdom,Northern Europe,Europe
 1920,Leiden,South Holland,Netherlands,Western Europe,Europe
 1921,Leipzig,Saxony,Germany,Western Europe,Europe
-1922,Lençóis Paulista,São Paulo,Brazil,South America,LATAM
+1922,Lenï¿½ï¿½is Paulista,Sï¿½o Paulo,Brazil,South America,LATAM
 1923,Lens,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 1924,Leoben,Styria,Austria,Western Europe,Europe
 1925,Leominster,Massachusetts,United States,Eastern US,USCA
-1926,León,Guanajuato,Mexico,Central America,LATAM
-1927,León,León,Nicaragua,Central America,LATAM
+1926,Leï¿½n,Guanajuato,Mexico,Central America,LATAM
+1927,Leï¿½n,Leï¿½n,Nicaragua,Central America,LATAM
 1928,Les Abymes,Guadeloupe,Guadeloupe,Caribbean,LATAM
 1929,Les Clayes-sous-Bois,Ile-de-France,France,Western Europe,Europe
 1930,Les Herbiers,Pays de la Loire,France,Western Europe,Europe
 1931,Les Lilas,Ile-de-France,France,Western Europe,Europe
 1932,Les Mureaux,Ile-de-France,France,Western Europe,Europe
 1933,Les Pavillons-sous-Bois,Ile-de-France,France,Western Europe,Europe
-1934,Les Pennes-Mirabeau,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+1934,Les Pennes-Mirabeau,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 1935,Les Ulis,Ile-de-France,France,Western Europe,Europe
 1936,Leshan,Sichuan,China,Eastern Asia,Asia Pacific
 1937,Letchworth,England,United Kingdom,Northern Europe,Europe
@@ -1961,10 +1961,10 @@ City ID,City,State,Country,Region,Market
 1960,Lima,Lima (city),Peru,South America,LATAM
 1961,Limay,Ile-de-France,France,Western Europe,Europe
 1962,Limbe,Sud-Ouest,Cameroon,Central Africa,Africa
-1963,Limeira,São Paulo,Brazil,South America,LATAM
-1964,Limoeiro do Norte,Ceará,Brazil,South America,LATAM
+1963,Limeira,Sï¿½o Paulo,Brazil,South America,LATAM
+1964,Limoeiro do Norte,Cearï¿½,Brazil,South America,LATAM
 1965,Limoges,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
-1966,Linares,Nuevo León,Mexico,Central America,LATAM
+1966,Linares,Nuevo Leï¿½n,Mexico,Central America,LATAM
 1967,Lincoln,England,United Kingdom,Northern Europe,Europe
 1968,Lincoln Park,Michigan,United States,Central US,USCA
 1969,Linden,New Jersey,United States,Eastern US,USCA
@@ -1972,8 +1972,8 @@ City ID,City,State,Country,Region,Market
 1971,Lindenhurst,New York,United States,Eastern US,USCA
 1972,Lingolsheim,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
 1973,Linhai,Zhejiang,China,Eastern Asia,Asia Pacific
-1974,Linhares,Espírito Santo,Brazil,South America,LATAM
-1975,Lins,São Paulo,Brazil,South America,LATAM
+1974,Linhares,Espï¿½rito Santo,Brazil,South America,LATAM
+1975,Lins,Sï¿½o Paulo,Brazil,South America,LATAM
 1976,Linyi,Shandong,China,Eastern Asia,Asia Pacific
 1977,Linz,Upper Austria,Austria,Western Europe,Europe
 1978,Lippstadt,North Rhine-Westphalia,Germany,Western Europe,Europe
@@ -2007,16 +2007,16 @@ City ID,City,State,Country,Region,Market
 2006,Longmont,Colorado,United States,Western US,USCA
 2007,Longueuil,Quebec,Canada,Canada,USCA
 2008,Longview,Washington,United States,Western US,USCA
-2009,Lons-le-Saunier,Bourgogne-Franche-Comté,France,Western Europe,Europe
+2009,Lons-le-Saunier,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 2010,Loos,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
-2011,Lora del Río,Andalusía,Spain,Southern Europe,Europe
+2011,Lora del Rï¿½o,Andalusï¿½a,Spain,Southern Europe,Europe
 2012,Lorain,Ohio,United States,Eastern US,USCA
 2013,Lorca,Murcia,Spain,Southern Europe,Europe
-2014,Lorena,São Paulo,Brazil,South America,LATAM
+2014,Lorena,Sï¿½o Paulo,Brazil,South America,LATAM
 2015,Lorient,Brittany,France,Western Europe,Europe
 2016,Lormont,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 2017,Los Angeles,California,United States,Western US,USCA
-2018,Los Ángeles,Biobio,Chile,South America,LATAM
+2018,Los ï¿½ngeles,Biobio,Chile,South America,LATAM
 2019,Los Mochis,Sinaloa,Mexico,Central America,LATAM
 2020,Los Patios,Norte de Santander,Colombia,South America,LATAM
 2021,Loubomo,Niari,Republic of the Congo,Central Africa,Africa
@@ -2041,14 +2041,14 @@ City ID,City,State,Country,Region,Market
 2040,Lucerne,Lucerne,Switzerland,Western Europe,Europe
 2041,Lucknow,Uttar Pradesh,India,Southern Asia,Asia Pacific
 2042,Ludhiana,Punjab,India,Southern Asia,Asia Pacific
-2043,Ludwigsburg,Baden-Württemberg,Germany,Western Europe,Europe
+2043,Ludwigsburg,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 2044,Ludwigsfelde,Brandenburg,Germany,Western Europe,Europe
 2045,Ludwigshafen am Rhein,Rhineland-Palatinate,Germany,Western Europe,Europe
 2046,Lugo,Galicia,Spain,Southern Europe,Europe
 2047,Lugoj,Timis,Romania,Eastern Europe,Europe
 2048,Luhans'k,Luhans'k,Ukraine,Eastern Europe,Europe
-2049,Lund,Skåne,Sweden,Northern Europe,Europe
-2050,Lunel,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+2049,Lund,Skï¿½ne,Sweden,Northern Europe,Europe
+2050,Lunel,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 2051,Luohe,Henan,China,Eastern Asia,Asia Pacific
 2052,Luoyang,Fujian,China,Eastern Asia,Asia Pacific
 2053,Luoyang,Guangdong,China,Eastern Asia,Asia Pacific
@@ -2058,15 +2058,15 @@ City ID,City,State,Country,Region,Market
 2057,Luts'k,Volyn,Ukraine,Eastern Europe,Europe
 2058,Luxembourg,Luxembourg,Luxembourg,Western Europe,Europe
 2059,L'viv,L'viv,Ukraine,Eastern Europe,Europe
-2060,Lyon,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+2060,Lyon,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 2061,Maastricht,Limburg,Netherlands,Western Europe,Europe
 2062,Mabopane,Gauteng,South Africa,Southern Africa,Africa
-2063,Macapá,Amapá,Brazil,South America,LATAM
-2064,Maceió,Alagoas,Brazil,South America,LATAM
+2063,Macapï¿½,Amapï¿½,Brazil,South America,LATAM
+2064,Maceiï¿½,Alagoas,Brazil,South America,LATAM
 2065,Macheng,Hubei,China,Eastern Asia,Asia Pacific
 2066,Mackay,Queensland,Australia,Oceania,Asia Pacific
 2067,Macon,Georgia,United States,Southern US,USCA
-2068,Mâcon,Bourgogne-Franche-Comté,France,Western Europe,Europe
+2068,Mï¿½con,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 2069,Madero,Tamaulipas,Mexico,Central America,LATAM
 2070,Madison,Wisconsin,United States,Central US,USCA
 2071,Madrid,Madrid,Spain,Southern Europe,Europe
@@ -2086,7 +2086,7 @@ City ID,City,State,Country,Region,Market
 2085,Makhachkala,Dagestan,Russia,Eastern Europe,Europe
 2086,Makurdi,Benue,Nigeria,Western Africa,Africa
 2087,Malakoff,Ile-de-France,France,Western Europe,Europe
-2088,Malambo,Atlántico,Colombia,South America,LATAM
+2088,Malambo,Atlï¿½ntico,Colombia,South America,LATAM
 2089,Malang,Jawa Timur,Indonesia,Southeastern Asia,Asia Pacific
 2090,Malanje,Malanje,Angola,Central Africa,Africa
 2091,Malatya,Malatya,Turkey,Western Asia,Asia Pacific
@@ -2110,7 +2110,7 @@ City ID,City,State,Country,Region,Market
 2109,Manila,National Capital,Philippines,Southeastern Asia,Asia Pacific
 2110,Manisa,Manisa,Turkey,Western Asia,Asia Pacific
 2111,Manizales,Caldas,Colombia,South America,LATAM
-2112,Mannheim,Baden-Württemberg,Germany,Western Europe,Europe
+2112,Mannheim,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 2113,Manresa,Catalonia,Spain,Southern Europe,Europe
 2114,Mansfield,England,United Kingdom,Northern Europe,Europe
 2115,Mansfield,Texas,United States,Central US,USCA
@@ -2128,16 +2128,16 @@ City ID,City,State,Country,Region,Market
 2127,Maracay,Aragua,Venezuela,South America,LATAM
 2128,Maradi,Maradi,Niger,Western Africa,Africa
 2129,Marano di Napoli,Campania,Italy,Southern Europe,Europe
-2130,Marbella,Andalusía,Spain,Southern Europe,Europe
+2130,Marbella,Andalusï¿½a,Spain,Southern Europe,Europe
 2131,Mardan,Khyber Pakhtunkhwa,Pakistan,Southern Asia,Asia Pacific
 2132,Mardin,Mardin,Turkey,Western Asia,Asia Pacific
 2133,Margate,England,United Kingdom,Northern Europe,Europe
 2134,Margate,Florida,United States,Southern US,USCA
 2135,Marietta,Georgia,United States,Southern US,USCA
-2136,Marignane,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+2136,Marignane,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 2137,Marikina,National Capital,Philippines,Southeastern Asia,Asia Pacific
 2138,Marina di Carrara,Tuscany,Italy,Southern Europe,Europe
-2139,Maringá,Parana,Brazil,South America,LATAM
+2139,Maringï¿½,Parana,Brazil,South America,LATAM
 2140,Marion,Iowa,United States,Central US,USCA
 2141,Marion,Ohio,United States,Eastern US,USCA
 2142,Mariupol',Donetsk,Ukraine,Eastern Europe,Europe
@@ -2150,8 +2150,8 @@ City ID,City,State,Country,Region,Market
 2149,Marsa Matruh,Matruh,Egypt,North Africa,Africa
 2150,Marsabit,Eastern,Kenya,Eastern Africa,Africa
 2151,Marsala,Sicily,Italy,Southern Europe,Europe
-2152,Marseille,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-2153,Martigues,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+2152,Marseille,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+2153,Martigues,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 2154,Mary,Mary,Turkmenistan,Central Asia,Asia Pacific
 2155,Maryborough,Queensland,Australia,Oceania,Asia Pacific
 2156,Marysville,Washington,United States,Western US,USCA
@@ -2167,18 +2167,18 @@ City ID,City,State,Country,Region,Market
 2166,Matagalpa,Matagalpa,Nicaragua,Central America,LATAM
 2167,Matanzas,Matanzas,Cuba,Caribbean,LATAM
 2168,Mataram,Nusa Tenggara Barat,Indonesia,Southeastern Asia,Asia Pacific
-2169,Matehuala,San Luis Potosí,Mexico,Central America,LATAM
+2169,Matehuala,San Luis Potosï¿½,Mexico,Central America,LATAM
 2170,Mathura,Uttar Pradesh,India,Southern Asia,Asia Pacific
 2171,Matola,Maputo,Mozambique,Eastern Africa,Africa
 2172,Matsubara,Oita,Japan,Eastern Asia,Asia Pacific
 2173,Matsudo,Chiba,Japan,Eastern Asia,Asia Pacific
 2174,Matsumoto,Nagano,Japan,Eastern Asia,Asia Pacific
-2175,Maturín,Monagas,Venezuela,South America,LATAM
+2175,Maturï¿½n,Monagas,Venezuela,South America,LATAM
 2176,Mau,Madhya Pradesh,India,Southern Asia,Asia Pacific
 2177,Mau,Uttar Pradesh,India,Southern Asia,Asia Pacific
-2178,Mauá,São Paulo,Brazil,South America,LATAM
+2178,Mauï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
 2179,Maubeuge,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
-2180,Mauguio,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+2180,Mauguio,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 2181,Maxixe,Inhambane,Mozambique,Eastern Africa,Africa
 2182,Mazyr,Homyel',Belarus,Eastern Europe,Europe
 2183,Mbandaka,Equateur,Democratic Republic of the Congo,Central Africa,Africa
@@ -2191,17 +2191,17 @@ City ID,City,State,Country,Region,Market
 2190,Mechelen,Antwerp,Belgium,Western Europe,Europe
 2191,Medan,Sumatera Utara,Indonesia,Southeastern Asia,Asia Pacific
 2192,Medea,Medea,Algeria,North Africa,Africa
-2193,Medellín,Antioquia,Colombia,South America,LATAM
+2193,Medellï¿½n,Antioquia,Colombia,South America,LATAM
 2194,Medford,Oregon,United States,Western US,USCA
 2195,Medina,Al Madinah,Saudi Arabia,Western Asia,Asia Pacific
 2196,Medina,Ohio,United States,Eastern US,USCA
 2197,Meerut,Uttar Pradesh,India,Southern Asia,Asia Pacific
 2198,Meizhou,Guangdong,China,Eastern Asia,Asia Pacific
 2199,Mejicanos,San Salvador,El Salvador,Central America,LATAM
-2200,Meknes,Meknès-Tafilalet,Morocco,North Africa,Africa
+2200,Meknes,Meknï¿½s-Tafilalet,Morocco,North Africa,Africa
 2201,Melbourne,Florida,United States,Southern US,USCA
 2202,Melbourne,Victoria,Australia,Oceania,Asia Pacific
-2203,Melchor Ocampo,México,Mexico,Central America,LATAM
+2203,Melchor Ocampo,Mï¿½xico,Mexico,Central America,LATAM
 2204,Melilla,Melilla,Spain,Southern Europe,Europe
 2205,Melitopol',Zaporizhzhya,Ukraine,Eastern Europe,Europe
 2206,Melton,Victoria,Australia,Oceania,Asia Pacific
@@ -2210,11 +2210,11 @@ City ID,City,State,Country,Region,Market
 2209,Menden,North Rhine-Westphalia,Germany,Western Europe,Europe
 2210,Mendoza,Mendoza,Argentina,South America,LATAM
 2211,Menemen,Izmir,Turkey,Western Asia,Asia Pacific
-2212,Menton,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+2212,Menton,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 2213,Mentor,Ohio,United States,Eastern US,USCA
 2214,Mentougou,Beijing,China,Eastern Asia,Asia Pacific
-2215,Mérida,Mérida,Venezuela,South America,LATAM
-2216,Mérida,Yucatán,Mexico,Central America,LATAM
+2215,Mï¿½rida,Mï¿½rida,Venezuela,South America,LATAM
+2216,Mï¿½rida,Yucatï¿½n,Mexico,Central America,LATAM
 2217,Meriden,Connecticut,United States,Eastern US,USCA
 2218,Meridian,Idaho,United States,Western US,USCA
 2219,Mersin,Mersin,Turkey,Western Asia,Asia Pacific
@@ -2222,12 +2222,12 @@ City ID,City,State,Country,Region,Market
 2221,Mesquite,Texas,United States,Central US,USCA
 2222,Messaad,Djelfa,Algeria,North Africa,Africa
 2223,Messina,Sicily,Italy,Southern Europe,Europe
-2224,Metepec,México,Mexico,Central America,LATAM
+2224,Metepec,Mï¿½xico,Mexico,Central America,LATAM
 2225,Metz,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
 2226,Meudon,Ile-de-France,France,Western Europe,Europe
 2227,Mexicali,Baja California,Mexico,Central America,LATAM
 2228,Mexico City,Distrito Federal,Mexico,Central America,LATAM
-2229,Meyzieu,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+2229,Meyzieu,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 2230,Mezitli,Mersin,Turkey,Western Asia,Asia Pacific
 2231,Miami,Florida,United States,Southern US,USCA
 2232,Mianyang,Sichuan,China,Eastern Asia,Asia Pacific
@@ -2237,11 +2237,11 @@ City ID,City,State,Country,Region,Market
 2236,Midland,Michigan,United States,Central US,USCA
 2237,Midyat,Mardin,Turkey,Western Asia,Asia Pacific
 2238,Miguel Hidalgo,Distrito Federal,Mexico,Central America,LATAM
-2239,Mijas,Andalusía,Spain,Southern Europe,Europe
+2239,Mijas,Andalusï¿½a,Spain,Southern Europe,Europe
 2240,Milan,Lombardy,Italy,Southern Europe,Europe
 2241,Mildura,Victoria,Australia,Oceania,Asia Pacific
 2242,Milford,Connecticut,United States,Eastern US,USCA
-2243,Millau,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+2243,Millau,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 2244,Milpa Alta,Distrito Federal,Mexico,Central America,LATAM
 2245,Milwaukee,Wisconsin,United States,Central US,USCA
 2246,Minden,North Rhine-Westphalia,Germany,Western Europe,Europe
@@ -2250,7 +2250,7 @@ City ID,City,State,Country,Region,Market
 2249,Minuf,Al Minufiyah,Egypt,North Africa,Africa
 2250,Miramar,Florida,United States,Southern US,USCA
 2251,Miramar,Tamaulipas,Mexico,Central America,LATAM
-2252,Miramas,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+2252,Miramas,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 2253,Mirzapur,Uttar Pradesh,India,Southern Asia,Asia Pacific
 2254,Mishawaka,Indiana,United States,Central US,USCA
 2255,Misratah,Misratah,Libya,North Africa,Africa
@@ -2260,16 +2260,16 @@ City ID,City,State,Country,Region,Market
 2259,Missouri City,Texas,United States,Central US,USCA
 2260,Mitry-Mory,Ile-de-France,France,Western Europe,Europe
 2261,Mixco,Guatemala,Guatemala,Central America,LATAM
-2262,Moa,Holguín,Cuba,Caribbean,LATAM
+2262,Moa,Holguï¿½n,Cuba,Caribbean,LATAM
 2263,Mobile,Alabama,United States,Southern US,USCA
 2264,Moca,Espaillat,Dominican Republic,Caribbean,LATAM
-2265,Mococa,São Paulo,Brazil,South America,LATAM
+2265,Mococa,Sï¿½o Paulo,Brazil,South America,LATAM
 2266,Modena,Emilia-Romagna,Italy,Southern Europe,Europe
 2267,Modesto,California,United States,Western US,USCA
 2268,Modica,Sicily,Italy,Southern Europe,Europe
 2269,Moers,North Rhine-Westphalia,Germany,Western Europe,Europe
 2270,Mogadishu,Banaadir,Somalia,Eastern Africa,Africa
-2271,Mogi das Cruzes,São Paulo,Brazil,South America,LATAM
+2271,Mogi das Cruzes,Sï¿½o Paulo,Brazil,South America,LATAM
 2272,Mohammedia,Grand Casablanca,Morocco,North Africa,Africa
 2273,Moissy-Cramayel,Ile-de-France,France,Western Europe,Europe
 2274,Molfetta,Apulia,Italy,Southern Europe,Europe
@@ -2282,16 +2282,16 @@ City ID,City,State,Country,Region,Market
 2281,Monrovia,Montserrado,Liberia,Western Africa,Africa
 2282,Mons-en-Baroeul,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 2283,Montargis,Centre-Val de Loire,France,Western Europe,Europe
-2284,Montauban,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
-2285,Montbrison,Auvergne-Rhône-Alpes,France,Western Europe,Europe
-2286,Montceau-les-Mines,Bourgogne-Franche-Comté,France,Western Europe,Europe
+2284,Montauban,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
+2285,Montbrison,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
+2286,Montceau-les-Mines,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 2287,Mont-de-Marsan,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 2288,Montebello,California,United States,Western US,USCA
 2289,Montecatini Terme,Tuscany,Italy,Southern Europe,Europe
-2290,Montenegro,Quindío,Colombia,South America,LATAM
+2290,Montenegro,Quindï¿½o,Colombia,South America,LATAM
 2291,Montereau-Fault-Yonne,Ile-de-France,France,Western Europe,Europe
-2292,Montería,Córdoba,Colombia,South America,LATAM
-2293,Monterrey,Nuevo León,Mexico,Central America,LATAM
+2292,Monterï¿½a,Cï¿½rdoba,Colombia,South America,LATAM
+2293,Monterrey,Nuevo Leï¿½n,Mexico,Central America,LATAM
 2294,Montes Claros,Minas Gerais,Brazil,South America,LATAM
 2295,Montesson,Ile-de-France,France,Western Europe,Europe
 2296,Montevideo,Montevideo,Uruguay,South America,LATAM
@@ -2300,8 +2300,8 @@ City ID,City,State,Country,Region,Market
 2299,Montgomery,Alabama,United States,Southern US,USCA
 2300,Montigny-le-Bretonneux,Ile-de-France,France,Western Europe,Europe
 2301,Montmorency,Ile-de-France,France,Western Europe,Europe
-2302,Montpellier,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
-2303,Montréal,Quebec,Canada,Canada,USCA
+2302,Montpellier,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
+2303,Montrï¿½al,Quebec,Canada,Canada,USCA
 2304,Montreuil,Ile-de-France,France,Western Europe,Europe
 2305,Montrouge,Ile-de-France,France,Western Europe,Europe
 2306,Mont-Saint-Aignan,Normandy,France,Western Europe,Europe
@@ -2309,19 +2309,19 @@ City ID,City,State,Country,Region,Market
 2308,Moorhead,Minnesota,United States,Central US,USCA
 2309,Mopti,Mopti,Mali,Western Africa,Africa
 2310,Moradabad,Uttar Pradesh,India,Southern Asia,Asia Pacific
-2311,Morelia,Michoacán,Mexico,Central America,LATAM
+2311,Morelia,Michoacï¿½n,Mexico,Central America,LATAM
 2312,Moreno Valley,California,United States,Western US,USCA
 2313,Morgan Hill,California,United States,Western US,USCA
 2314,Morley,England,United Kingdom,Northern Europe,Europe
 2315,Morogoro,Morogoro,Tanzania,Eastern Africa,Africa
-2316,Morón,Ciego de Ávila,Cuba,Caribbean,LATAM
+2316,Morï¿½n,Ciego de ï¿½vila,Cuba,Caribbean,LATAM
 2317,Morristown,New Jersey,United States,Eastern US,USCA
 2318,Moshi,Kilimanjaro,Tanzania,Eastern Africa,Africa
 2319,Mosquera,Cundinamarca,Colombia,South America,LATAM
-2320,Mossoró,Rio Grande do Norte,Brazil,South America,LATAM
+2320,Mossorï¿½,Rio Grande do Norte,Brazil,South America,LATAM
 2321,Mostaganem,Mostaganem,Algeria,North Africa,Africa
 2322,Mosul,Ninawa,Iraq,Western Asia,Asia Pacific
-2323,Mougins,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+2323,Mougins,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 2324,Moulins,Auvergne,France,Western Europe,Europe
 2325,Mount Gambier,South Australia,Australia,Oceania,Asia Pacific
 2326,Mount Isa,Queensland,Australia,Oceania,Asia Pacific
@@ -2340,7 +2340,7 @@ City ID,City,State,Country,Region,Market
 2339,Munich,Bavaria,Germany,Western Europe,Europe
 2340,Munster,Lower Saxony,Germany,Western Europe,Europe
 2341,Murcia,Murcia,Spain,Southern Europe,Europe
-2342,Muret,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+2342,Muret,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 2343,Murfreesboro,Tennessee,United States,Southern US,USCA
 2344,Murray,Kentucky,United States,Southern US,USCA
 2345,Murray,Utah,United States,Western US,USCA
@@ -2381,7 +2381,7 @@ City ID,City,State,Country,Region,Market
 2380,Naperville,Illinois,United States,Central US,USCA
 2381,Napier,Hawke's Bay,New Zealand,Oceania,Asia Pacific
 2382,Naples,Campania,Italy,Southern Europe,Europe
-2383,Narbonne,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+2383,Narbonne,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 2384,Narsingdi,Dhaka,Bangladesh,Southern Asia,Asia Pacific
 2385,Nashua,New Hampshire,United States,Eastern US,USCA
 2386,Nashville,Tennessee,United States,Southern US,USCA
@@ -2402,7 +2402,7 @@ City ID,City,State,Country,Region,Market
 2401,Neuilly-sur-Marne,Ile-de-France,France,Western Europe,Europe
 2402,Neuilly-sur-Seine,Ile-de-France,France,Western Europe,Europe
 2403,Neunkirchen,Saarland,Germany,Western Europe,Europe
-2404,Neuquén,Neuquén,Argentina,South America,LATAM
+2404,Neuquï¿½n,Neuquï¿½n,Argentina,South America,LATAM
 2405,Neu-Ulm,Bavaria,Germany,Western Europe,Europe
 2406,Neuwied,Rhineland-Palatinate,Germany,Western Europe,Europe
 2407,Nevsehir,Nevsehir,Turkey,Western Asia,Asia Pacific
@@ -2423,11 +2423,11 @@ City ID,City,State,Country,Region,Market
 2422,Neyshabur,Razavi Khorasan,Iran,Southern Asia,Asia Pacific
 2423,Ngaoundere,Adamaoua,Cameroon,Central Africa,Africa
 2424,Nguigmi,Diffa,Niger,Western Africa,Africa
-2425,Nha Trang,Khánh Hòa,Vietnam,Southeastern Asia,Asia Pacific
+2425,Nha Trang,Khï¿½nh Hï¿½a,Vietnam,Southeastern Asia,Asia Pacific
 2426,Niagara Falls,New York,United States,Eastern US,USCA
 2427,Niamey,Niamey,Niger,Western Africa,Africa
-2428,Nice,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-2429,Nicolás Romero,México,Mexico,Central America,LATAM
+2428,Nice,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+2429,Nicolï¿½s Romero,Mï¿½xico,Mexico,Central America,LATAM
 2430,Nicosia,Nicosia,Cyprus,Southern Europe,Europe
 2431,Nieuwegein,Utrecht,Netherlands,Western Europe,Europe
 2432,Nigde,Nigde,Turkey,Western Asia,Asia Pacific
@@ -2438,7 +2438,7 @@ City ID,City,State,Country,Region,Market
 2437,Ninghai,Zhejiang,China,Eastern Asia,Asia Pacific
 2438,Niort,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 2439,Nishinomiya,Hyogo,Japan,Eastern Asia,Asia Pacific
-2440,Niterói,Rio de Janeiro,Brazil,South America,LATAM
+2440,Niterï¿½i,Rio de Janeiro,Brazil,South America,LATAM
 2441,Nitra,Nitra,Slovakia,Eastern Europe,Europe
 2442,Nizamabad,Telangana,India,Southern Asia,Asia Pacific
 2443,Nizhyn,Chernihiv,Ukraine,Eastern Europe,Europe
@@ -2465,30 +2465,30 @@ City ID,City,State,Country,Region,Market
 2464,Nova Serrana,Minas Gerais,Brazil,South America,LATAM
 2465,Novara,Piedmont,Italy,Southern Europe,Europe
 2466,Novo Cruzeiro,Minas Gerais,Brazil,South America,LATAM
-2467,Novo Gama,Goiás,Brazil,South America,LATAM
+2467,Novo Gama,Goiï¿½s,Brazil,South America,LATAM
 2468,Nowra,New South Wales,Australia,Oceania,Asia Pacific
 2469,Nueva Gerona,Isla de la Juventud,Cuba,Caribbean,LATAM
 2470,Nuevo Laredo,Tamaulipas,Mexico,Central America,LATAM
 2471,Nuneaton,England,United Kingdom,Northern Europe,Europe
 2472,Nuremberg,Bavaria,Germany,Western Europe,Europe
 2473,Nysa,Opole,Poland,Eastern Europe,Europe
-2474,Nzerekore,Nzérékoré,Guinea,Western Africa,Africa
+2474,Nzerekore,Nzï¿½rï¿½korï¿½,Guinea,Western Africa,Africa
 2475,Oak Park,Illinois,United States,Central US,USCA
 2476,Oak Park,Michigan,United States,Central US,USCA
 2477,Oakland,California,United States,Western US,USCA
 2478,Oakville,Ontario,Canada,Canada,USCA
 2479,Oberhausen,North Rhine-Westphalia,Germany,Western Europe,Europe
 2480,Obninsk,Kaluga,Russia,Eastern Europe,Europe
-2481,Obregón,Sonora,Mexico,Central America,LATAM
-2482,Ocaña,Norte de Santander,Colombia,South America,LATAM
+2481,Obregï¿½n,Sonora,Mexico,Central America,LATAM
+2482,Ocaï¿½a,Norte de Santander,Colombia,South America,LATAM
 2483,Oceanside,California,United States,Western US,USCA
 2484,Oceanside,New York,United States,Eastern US,USCA
-2485,Ocotlán,Jalisco,Mexico,Central America,LATAM
+2485,Ocotlï¿½n,Jalisco,Mexico,Central America,LATAM
 2486,Odense,South Denmark,Denmark,Northern Europe,Europe
 2487,Odessa,Texas,United States,Central US,USCA
 2488,Odivelas,Lisboa,Portugal,Southern Europe,Europe
 2489,Offenbach,Hesse,Germany,Western Europe,Europe
-2490,Offenburg,Baden-Württemberg,Germany,Western Europe,Europe
+2490,Offenburg,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 2491,Oklahoma City,Oklahoma,United States,Central US,USCA
 2492,Oktyabr'skiy,Bashkortostan,Russia,Eastern Europe,Europe
 2493,Olathe,Kansas,United States,Central US,USCA
@@ -2510,7 +2510,7 @@ City ID,City,State,Country,Region,Market
 2509,Ordu,Ordu,Turkey,Western Asia,Asia Pacific
 2510,Orem,Utah,United States,Western US,USCA
 2511,Orihuela,Valenciana,Spain,Southern Europe,Europe
-2512,Oriximiná,Pará,Brazil,South America,LATAM
+2512,Oriximinï¿½,Parï¿½,Brazil,South America,LATAM
 2513,Orizaba,Veracruz,Mexico,Central America,LATAM
 2514,Orland Park,Illinois,United States,Central US,USCA
 2515,Orlando,Florida,United States,Southern US,USCA
@@ -2518,7 +2518,7 @@ City ID,City,State,Country,Region,Market
 2517,Orsay,Ile-de-France,France,Western Europe,Europe
 2518,Orsha,Vitsyebsk,Belarus,Eastern Europe,Europe
 2519,Oruro,Oruro,Bolivia,South America,LATAM
-2520,Osasco,São Paulo,Brazil,South America,LATAM
+2520,Osasco,Sï¿½o Paulo,Brazil,South America,LATAM
 2521,Osh,Osh,Kyrgyzstan,Central Asia,Asia Pacific
 2522,Oshawa,Ontario,Canada,Canada,USCA
 2523,Osijek,Osjecko-Baranjska,Croatia,Southern Europe,Europe
@@ -2532,7 +2532,7 @@ City ID,City,State,Country,Region,Market
 2531,Ottawa,Ontario,Canada,Canada,USCA
 2532,Ouagadougou,Centre,Burkina Faso,Western Africa,Africa
 2533,Ouidah,Atlantique,Benin,Western Africa,Africa
-2534,Oullins,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+2534,Oullins,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 2535,Outreau,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 2536,Overland Park,Kansas,United States,Central US,USCA
 2537,Oviedo,Asturias,Spain,Southern Europe,Europe
@@ -2542,8 +2542,8 @@ City ID,City,State,Country,Region,Market
 2541,Oxford,England,United Kingdom,Northern Europe,Europe
 2542,Oxnard,California,United States,Western US,USCA
 2543,Oyama,Tochigi,Japan,Eastern Asia,Asia Pacific
-2544,Oyonnax,Auvergne-Rhône-Alpes,France,Western Europe,Europe
-2545,Paço do Lumiar,Maranhão,Brazil,South America,LATAM
+2544,Oyonnax,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
+2545,Paï¿½o do Lumiar,Maranhï¿½o,Brazil,South America,LATAM
 2546,Padang,Sumatera Barat,Indonesia,Southeastern Asia,Asia Pacific
 2547,Paderborn,North Rhine-Westphalia,Germany,Western Europe,Europe
 2548,Paisley,Scotland,United Kingdom,Northern Europe,Europe
@@ -2551,9 +2551,9 @@ City ID,City,State,Country,Region,Market
 2550,Palaiseau,Ile-de-France,France,Western Europe,Europe
 2551,Palatine,Illinois,United States,Central US,USCA
 2552,Palembang,Sumatera Selatan,Indonesia,Southeastern Asia,Asia Pacific
-2553,Palencia,Castile and León,Spain,Southern Europe,Europe
+2553,Palencia,Castile and Leï¿½n,Spain,Southern Europe,Europe
 2554,Palermo,Sicily,Italy,Southern Europe,Europe
-2555,Palhoça,Santa Catarina,Brazil,South America,LATAM
+2555,Palhoï¿½a,Santa Catarina,Brazil,South America,LATAM
 2556,Palm Coast,Florida,United States,Southern US,USCA
 2557,Palma de Mallorca,Balearic Islands,Spain,Southern Europe,Europe
 2558,Palma Soriano,Santiago de Cuba,Cuba,Caribbean,LATAM
@@ -2563,7 +2563,7 @@ City ID,City,State,Country,Region,Market
 2562,Palmira,Valle del Cauca,Colombia,South America,LATAM
 2563,Palo Negro,Aragua,Venezuela,South America,LATAM
 2564,Palu,Sulawesi Tengah,Indonesia,Southeastern Asia,Asia Pacific
-2565,Pamiers,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+2565,Pamiers,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 2566,Pamplona,Navarra,Spain,Southern Europe,Europe
 2567,Panama City,Panama,Panama,Central America,LATAM
 2568,Panevezys,Panevezys,Lithuania,Northern Europe,Europe
@@ -2574,8 +2574,8 @@ City ID,City,State,Country,Region,Market
 2573,Paracatu,Minas Gerais,Brazil,South America,LATAM
 2574,Parakou,Borgou,Benin,Western Africa,Africa
 2575,Paramaribo,Paramaribo,Suriname,South America,LATAM
-2576,Paraná,Entre Ríos,Argentina,South America,LATAM
-2577,Paranaguá,Parana,Brazil,South America,LATAM
+2576,Paranï¿½,Entre Rï¿½os,Argentina,South America,LATAM
+2577,Paranaguï¿½,Parana,Brazil,South America,LATAM
 2578,Paraparaumu,Wellington,New Zealand,Oceania,Asia Pacific
 2579,Parbhani,Maharashtra,India,Southern Asia,Asia Pacific
 2580,Parintins,Amazonas,Brazil,South America,LATAM
@@ -2593,16 +2593,16 @@ City ID,City,State,Country,Region,Market
 2592,Passau,Bavaria,Germany,Western Europe,Europe
 2593,Passo Fundo,Rio Grande do Sul,Brazil,South America,LATAM
 2594,Passos,Minas Gerais,Brazil,South America,LATAM
-2595,Pasto,Nariño,Colombia,South America,LATAM
+2595,Pasto,Nariï¿½o,Colombia,South America,LATAM
 2596,Paterson,New Jersey,United States,Eastern US,USCA
 2597,Patiala,Punjab,India,Southern Asia,Asia Pacific
 2598,Patna,Bihar,India,Southern Asia,Asia Pacific
 2599,Pato Branco,Parana,Brazil,South America,LATAM
-2600,Patrocínio,Minas Gerais,Brazil,South America,LATAM
+2600,Patrocï¿½nio,Minas Gerais,Brazil,South America,LATAM
 2601,Pau,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 2602,Paulista,Pernambuco,Brazil,South America,LATAM
 2603,Pavlodar,Pavlodar,Kazakhstan,Central Asia,Asia Pacific
-2604,Paysandú,Paysandú,Uruguay,South America,LATAM
+2604,Paysandï¿½,Paysandï¿½,Uruguay,South America,LATAM
 2605,Pazardzhik,Pazardzhik,Bulgaria,Eastern Europe,Europe
 2606,Pearland,Texas,United States,Central US,USCA
 2607,Peer,Limburg,Belgium,Western Europe,Europe
@@ -2619,10 +2619,10 @@ City ID,City,State,Country,Region,Market
 2618,Peoria,Illinois,United States,Central US,USCA
 2619,Pereira,Risaralda,Colombia,South America,LATAM
 2620,Pernik,Pernik,Bulgaria,Eastern Europe,Europe
-2621,Perpignan,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+2621,Perpignan,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 2622,Perth,Western Australia,Australia,Oceania,Asia Pacific
 2623,Perth Amboy,New Jersey,United States,Eastern US,USCA
-2624,Pertuis,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+2624,Pertuis,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 2625,Perugia,Umbria,Italy,Southern Europe,Europe
 2626,Pesaro,Marche,Italy,Southern Europe,Europe
 2627,Pescara,Abruzzi,Italy,Southern Europe,Europe
@@ -2633,8 +2633,8 @@ City ID,City,State,Country,Region,Market
 2632,Petare,Miranda,Venezuela,South America,LATAM
 2633,Peterborough,England,United Kingdom,Northern Europe,Europe
 2634,Peterborough,Ontario,Canada,Canada,USCA
-2635,Petrópolis,Rio de Janeiro,Brazil,South America,LATAM
-2636,Pforzheim,Baden-Württemberg,Germany,Western Europe,Europe
+2635,Petrï¿½polis,Rio de Janeiro,Brazil,South America,LATAM
+2636,Pforzheim,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 2637,Pharr,Texas,United States,Central US,USCA
 2638,Philadelphia,Pennsylvania,United States,Eastern US,USCA
 2639,Phnom Penh,Phnom Penh,Cambodia,Southeastern Asia,Asia Pacific
@@ -2651,13 +2651,13 @@ City ID,City,State,Country,Region,Market
 2650,Pila,Greater Poland,Poland,Eastern Europe,Europe
 2651,Pilar,Alagoas,Brazil,South America,LATAM
 2652,Pimpri,Maharashtra,India,Southern Asia,Asia Pacific
-2653,Pinar del Río,Pinar del Río,Cuba,Caribbean,LATAM
-2654,Pindamonhangaba,São Paulo,Brazil,South America,LATAM
+2653,Pinar del Rï¿½o,Pinar del Rï¿½o,Cuba,Caribbean,LATAM
+2654,Pindamonhangaba,Sï¿½o Paulo,Brazil,South America,LATAM
 2655,Pine Bluff,Arkansas,United States,Southern US,USCA
 2656,Pingdingshan,Henan,China,Eastern Asia,Asia Pacific
 2657,Pingnan,Guangxi,China,Eastern Asia,Asia Pacific
 2658,Pingxiang,Jiangxi,China,Eastern Asia,Asia Pacific
-2659,Pinheiro,Maranhão,Brazil,South America,LATAM
+2659,Pinheiro,Maranhï¿½o,Brazil,South America,LATAM
 2660,Pinsk,Brest,Belarus,Eastern Europe,Europe
 2661,Piotrkow Trybunalski,Lodz,Poland,Eastern Europe,Europe
 2662,Pirapora,Minas Gerais,Brazil,South America,LATAM
@@ -2667,7 +2667,7 @@ City ID,City,State,Country,Region,Market
 2666,Pitesti,Arges,Romania,Eastern Europe,Europe
 2667,Piura,Piura,Peru,South America,LATAM
 2668,Plainfield,New Jersey,United States,Eastern US,USCA
-2669,Plaisance-du-Touch,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+2669,Plaisance-du-Touch,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 2670,Plaisir,Ile-de-France,France,Western Europe,Europe
 2671,Plano,Texas,United States,Central US,USCA
 2672,Plantation,Florida,United States,Southern US,USCA
@@ -2680,7 +2680,7 @@ City ID,City,State,Country,Region,Market
 2679,Plymouth,England,United Kingdom,Northern Europe,Europe
 2680,Plzen,Plzen,Czech Republic,Eastern Europe,Europe
 2681,Pocatello,Idaho,United States,Western US,USCA
-2682,Poços de Caldas,Minas Gerais,Brazil,South America,LATAM
+2682,Poï¿½os de Caldas,Minas Gerais,Brazil,South America,LATAM
 2683,Podgorica,Podgorica,Montenegro,Southern Europe,Europe
 2684,Poissy,Ile-de-France,France,Western Europe,Europe
 2685,Poitiers,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
@@ -2690,7 +2690,7 @@ City ID,City,State,Country,Region,Market
 2689,Pomezia,Lazio,Italy,Southern Europe,Europe
 2690,Pomona,California,United States,Western US,USCA
 2691,Pompano Beach,Florida,United States,Southern US,USCA
-2692,Ponferrada,Castile and León,Spain,Southern Europe,Europe
+2692,Ponferrada,Castile and Leï¿½n,Spain,Southern Europe,Europe
 2693,Pontault-Combault,Ile-de-France,France,Western Europe,Europe
 2694,Ponte Nova,Minas Gerais,Brazil,South America,LATAM
 2695,Ponteareas,Galicia,Spain,Southern Europe,Europe
@@ -2716,28 +2716,28 @@ City ID,City,State,Country,Region,Market
 2715,Portmore,Saint Catherine,Jamaica,Caribbean,LATAM
 2716,Porto,Porto,Portugal,Southern Europe,Europe
 2717,Porto Alegre,Rio Grande do Sul,Brazil,South America,LATAM
-2718,Porto-Novo,Ouémé,Benin,Western Africa,Africa
+2718,Porto-Novo,Ouï¿½mï¿½,Benin,Western Africa,Africa
 2719,Portoviejo,Manabi,Ecuador,South America,LATAM
 2720,Portsmouth,England,United Kingdom,Northern Europe,Europe
 2721,Posadas,Misiones,Argentina,South America,LATAM
 2722,Potchefstroom,North-West,South Africa,Southern Africa,Africa
 2723,Potenza,Basilicata,Italy,Southern Europe,Europe
-2724,Potosí,Potosí,Bolivia,South America,LATAM
+2724,Potosï¿½,Potosï¿½,Bolivia,South America,LATAM
 2725,Potsdam,Brandenburg,Germany,Western Europe,Europe
 2726,Pouso Alegre,Minas Gerais,Brazil,South America,LATAM
 2727,Poza Rica de Hidalgo,Veracruz,Mexico,Central America,LATAM
 2728,Poznan,Greater Poland,Poland,Eastern Europe,Europe
 2729,Pozzuoli,Campania,Italy,Southern Europe,Europe
 2730,Prague,Prague,Czech Republic,Eastern Europe,Europe
-2731,Praia Grande,São Paulo,Brazil,South America,LATAM
+2731,Praia Grande,Sï¿½o Paulo,Brazil,South America,LATAM
 2732,Prato,Tuscany,Italy,Southern Europe,Europe
-2733,Presidencia Roque Sáenz Peña,Chaco,Argentina,South America,LATAM
-2734,Presidente Dutra,Maranhão,Brazil,South America,LATAM
-2735,Presidente Prudente,São Paulo,Brazil,South America,LATAM
+2733,Presidencia Roque Sï¿½enz Peï¿½a,Chaco,Argentina,South America,LATAM
+2734,Presidente Dutra,Maranhï¿½o,Brazil,South America,LATAM
+2735,Presidente Prudente,Sï¿½o Paulo,Brazil,South America,LATAM
 2736,Preston,England,United Kingdom,Northern Europe,Europe
 2737,Pretoria,Gauteng,South Africa,Southern Africa,Africa
 2738,Probolinggo,Jawa Timur,Indonesia,Southeastern Asia,Asia Pacific
-2739,Progreso,Yucatán,Mexico,Central America,LATAM
+2739,Progreso,Yucatï¿½n,Mexico,Central America,LATAM
 2740,Providence,Rhode Island,United States,Eastern US,USCA
 2741,Provo,Utah,United States,Western US,USCA
 2742,Pucallpa,Ucayali,Peru,South America,LATAM
@@ -2745,7 +2745,7 @@ City ID,City,State,Country,Region,Market
 2744,Puebla,Puebla,Mexico,Central America,LATAM
 2745,Pueblo,Colorado,United States,Western US,USCA
 2746,Puente Alto,Santiago,Chile,South America,LATAM
-2747,Puerto La Cruz,Anzoátegui,Venezuela,South America,LATAM
+2747,Puerto La Cruz,Anzoï¿½tegui,Venezuela,South America,LATAM
 2748,Puerto Montt,Los Lagos,Chile,South America,LATAM
 2749,Puerto Padre,Las Tunas,Cuba,Caribbean,LATAM
 2750,Puerto Vallarta,Jalisco,Mexico,Central America,LATAM
@@ -2753,7 +2753,7 @@ City ID,City,State,Country,Region,Market
 2752,Pulheim,North Rhine-Westphalia,Germany,Western Europe,Europe
 2753,Pune,Maharashtra,India,Southern Asia,Asia Pacific
 2754,Puno,Puno,Peru,South America,LATAM
-2755,Punta Arenas,Magallanes y Antártica Chilena,Chile,South America,LATAM
+2755,Punta Arenas,Magallanes y Antï¿½rtica Chilena,Chile,South America,LATAM
 2756,Purmerend,North Holland,Netherlands,Western Europe,Europe
 2757,Purwokerto,Jawa Tengah,Indonesia,Southeastern Asia,Asia Pacific
 2758,Puteaux,Ile-de-France,France,Western Europe,Europe
@@ -2774,20 +2774,20 @@ City ID,City,State,Country,Region,Market
 2773,Queanbeyan,New South Wales,Australia,Oceania,Asia Pacific
 2774,Quebec,Quebec,Canada,Canada,USCA
 2775,Quelimane,Zambezia,Mozambique,Eastern Africa,Africa
-2776,Querétaro,Querétaro,Mexico,Central America,LATAM
+2776,Querï¿½taro,Querï¿½taro,Mexico,Central America,LATAM
 2777,Quesada,Alajuela,Costa Rica,Central America,LATAM
 2778,Quetta,Baluchistan,Pakistan,Southern Asia,Asia Pacific
 2779,Quetzaltenango,Quezaltenango,Guatemala,Central America,LATAM
 2780,Quevedo,Los Rios,Ecuador,South America,LATAM
-2781,Quibdó,Chocó,Colombia,South America,LATAM
+2781,Quibdï¿½,Chocï¿½,Colombia,South America,LATAM
 2782,Quilmes,Provincia de Buenos Aires,Argentina,South America,LATAM
 2783,Quimper,Brittany,France,Western Europe,Europe
 2784,Quincy,Illinois,United States,Central US,USCA
 2785,Quincy,Massachusetts,United States,Eastern US,USCA
 2786,Quito,Pichincha,Ecuador,South America,LATAM
-2787,Quixadá,Ceará,Brazil,South America,LATAM
-2788,Rabat,Rabat-Salé-Zemmour-Zaer,Morocco,North Africa,Africa
-2789,Rach Gia,Kiên Giang,Vietnam,Southeastern Asia,Asia Pacific
+2787,Quixadï¿½,Cearï¿½,Brazil,South America,LATAM
+2788,Rabat,Rabat-Salï¿½-Zemmour-Zaer,Morocco,North Africa,Africa
+2789,Rach Gia,Kiï¿½n Giang,Vietnam,Southeastern Asia,Asia Pacific
 2790,Radom,Masovia,Poland,Eastern Europe,Europe
 2791,Rafsanjan,Kerman,Iran,Southern Asia,Asia Pacific
 2792,Ragusa,Sicily,Italy,Southern Europe,Europe
@@ -2828,7 +2828,7 @@ City ID,City,State,Country,Region,Market
 2827,Regensburg,Bavaria,Germany,Western Europe,Europe
 2828,Reggio nell'Emilia,Emilia-Romagna,Italy,Southern Europe,Europe
 2829,Regina,Saskatchewan,Canada,Canada,USCA
-2830,Registro,São Paulo,Brazil,South America,LATAM
+2830,Registro,Sï¿½o Paulo,Brazil,South America,LATAM
 2831,Rehovot,Central,Israel,Western Asia,Asia Pacific
 2832,Reims,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
 2833,Remscheid,North Rhine-Westphalia,Germany,Western Europe,Europe
@@ -2840,12 +2840,12 @@ City ID,City,State,Country,Region,Market
 2839,Resistencia,Chaco,Argentina,South America,LATAM
 2840,Resita,Caras-Severin,Romania,Eastern Europe,Europe
 2841,Reus,Catalonia,Spain,Southern Europe,Europe
-2842,Reutlingen,Baden-Württemberg,Germany,Western Europe,Europe
+2842,Reutlingen,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 2843,Revere,Massachusetts,United States,Eastern US,USCA
 2844,Reynosa,Tamaulipas,Mexico,Central America,LATAM
 2845,Rheine,North Rhine-Westphalia,Germany,Western Europe,Europe
 2846,Rhondda,Wales,United Kingdom,Northern Europe,Europe
-2847,Ribeirão Preto,São Paulo,Brazil,South America,LATAM
+2847,Ribeirï¿½o Preto,Sï¿½o Paulo,Brazil,South America,LATAM
 2848,Riberalta,Beni,Bolivia,South America,LATAM
 2849,Richardson,Texas,United States,Central US,USCA
 2850,Richmond,British Columbia,Canada,Canada,USCA
@@ -2854,10 +2854,10 @@ City ID,City,State,Country,Region,Market
 2853,Richmond,Virginia,United States,Southern US,USCA
 2854,Richmond Hill,Ontario,Canada,Canada,USCA
 2855,Rijeka,Primorsko-Goranska,Croatia,Southern Europe,Europe
-2856,Rillieux-la-Pape,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+2856,Rillieux-la-Pape,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 2857,Rimini,Emilia-Romagna,Italy,Southern Europe,Europe
 2858,Rio Branco,Acre,Brazil,South America,LATAM
-2859,Río Bravo,Tamaulipas,Mexico,Central America,LATAM
+2859,Rï¿½o Bravo,Tamaulipas,Mexico,Central America,LATAM
 2860,Rio Grande,Rio Grande do Sul,Brazil,South America,LATAM
 2861,Rio Rancho,New Mexico,United States,Western US,USCA
 2862,Riom,Auvergne,France,Western Europe,Europe
@@ -2868,7 +2868,7 @@ City ID,City,State,Country,Region,Market
 2867,Riyadh,Ar Riyad,Saudi Arabia,Western Asia,Asia Pacific
 2868,Rize,Rize,Turkey,Western Asia,Asia Pacific
 2869,Rizhao,Shandong,China,Eastern Asia,Asia Pacific
-2870,Roanne,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+2870,Roanne,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 2871,Rochdale,England,United Kingdom,Northern Europe,Europe
 2872,Rochefort,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 2873,Rochester,Minnesota,United States,Central US,USCA
@@ -2883,13 +2883,13 @@ City ID,City,State,Country,Region,Market
 2882,Rogers,Arkansas,United States,Southern US,USCA
 2883,Rohtak,Haryana,India,Southern Asia,Asia Pacific
 2884,Roissy-en-Brie,Ile-de-France,France,Western Europe,Europe
-2885,Rolândia,Parana,Brazil,South America,LATAM
+2885,Rolï¿½ndia,Parana,Brazil,South America,LATAM
 2886,Roman,Neamt,Romania,Eastern Europe,Europe
 2887,Rome,Lazio,Italy,Southern Europe,Europe
 2888,Rome,New York,United States,Eastern US,USCA
 2889,Romeoville,Illinois,United States,Central US,USCA
 2890,Ronchin,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
-2891,Rondonópolis,Mato Grosso,Brazil,South America,LATAM
+2891,Rondonï¿½polis,Mato Grosso,Brazil,South America,LATAM
 2892,Roodepoort,Gauteng,South Africa,Southern Africa,Africa
 2893,Roosendaal,North Brabant,Netherlands,Western Europe,Europe
 2894,Rosario,Santa Fe,Argentina,South America,LATAM
@@ -2910,7 +2910,7 @@ City ID,City,State,Country,Region,Market
 2909,Round Rock,Texas,United States,Central US,USCA
 2910,Rovigo,Veneto,Italy,Southern Europe,Europe
 2911,Royal Oak,Michigan,United States,Central US,USCA
-2912,Rubí,Catalonia,Spain,Southern Europe,Europe
+2912,Rubï¿½,Catalonia,Spain,Southern Europe,Europe
 2913,Ruda Slaska,Silesia,Poland,Eastern Europe,Europe
 2914,Rueil-Malmaison,Ile-de-France,France,Western Europe,Europe
 2915,Rugby,England,United Kingdom,Northern Europe,Europe
@@ -2920,7 +2920,7 @@ City ID,City,State,Country,Region,Market
 2919,Rybnik,Silesia,Poland,Eastern Europe,Europe
 2920,Saanich,British Columbia,Canada,Canada,USCA
 2921,Sabadell,Catalonia,Spain,Southern Europe,Europe
-2922,Sabanalarga,Atlántico,Colombia,South America,LATAM
+2922,Sabanalarga,Atlï¿½ntico,Colombia,South America,LATAM
 2923,Sabzevar,Razavi Khorasan,Iran,Southern Asia,Asia Pacific
 2924,Sacramento,California,United States,Western US,USCA
 2925,Safi,Doukkala-Abda,Morocco,North Africa,Africa
@@ -2929,7 +2929,7 @@ City ID,City,State,Country,Region,Market
 2928,Saginaw,Michigan,United States,Central US,USCA
 2929,Sagunto,Valenciana,Spain,Southern Europe,Europe
 2930,Saharanpur,Uttar Pradesh,India,Southern Asia,Asia Pacific
-2931,Sahuayo de José María Morelos,Michoacán,Mexico,Central America,LATAM
+2931,Sahuayo de Josï¿½ Marï¿½a Morelos,Michoacï¿½n,Mexico,Central America,LATAM
 2932,Saida,Saida,Algeria,North Africa,Africa
 2933,Saint Charles,Illinois,United States,Central US,USCA
 2934,Saint Charles,Missouri,United States,Central US,USCA
@@ -2940,18 +2940,18 @@ City ID,City,State,Country,Region,Market
 2939,Saint Petersburg,Florida,United States,Southern US,USCA
 2940,Saint-Avold,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
 2941,Saint-Brieuc,Brittany,France,Western Europe,Europe
-2942,Saint-Chamond,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+2942,Saint-Chamond,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 2943,Saint-Cloud,Ile-de-France,France,Western Europe,Europe
 2944,Saint-Cyr-sur-Loire,Centre-Val de Loire,France,Western Europe,Europe
 2945,Saint-Denis,Ile-de-France,France,Western Europe,Europe
 2946,Saint-Dizier,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
-2947,Saint-Genis-Laval,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+2947,Saint-Genis-Laval,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 2948,Saint-Germain-en-Laye,Ile-de-France,France,Western Europe,Europe
 2949,Saint-Gratien,Ile-de-France,France,Western Europe,Europe
 2950,Saint-Herblain,Pays de la Loire,France,Western Europe,Europe
 2951,Saint-Jean-de-la-Ruelle,Centre-Val de Loire,France,Western Europe,Europe
 2952,Saint-Laurent,Quebec,Canada,Canada,USCA
-2953,Saint-Laurent-du-Var,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+2953,Saint-Laurent-du-Var,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 2954,Saint-Louis,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
 2955,Saint-Louis,Saint-Louis,Senegal,Western Africa,Africa
 2956,Saint-Malo,Brittany,France,Western Europe,Europe
@@ -2960,29 +2960,29 @@ City ID,City,State,Country,Region,Market
 2959,Saint-Ouen,Ile-de-France,France,Western Europe,Europe
 2960,Saint-Pierre-des-Corps,Centre-Val de Loire,France,Western Europe,Europe
 2961,Saint-Pol-sur-Mer,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
-2962,Saint-Priest,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+2962,Saint-Priest,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 2963,Saint-Quentin,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 2964,Sakai,Gunma,Japan,Eastern Asia,Asia Pacific
 2965,Sakai,Ibaraki,Japan,Eastern Asia,Asia Pacific
 2966,Sakai,Osaka,Japan,Eastern Asia,Asia Pacific
 2967,Sakaka,Al Jawf,Saudi Arabia,Western Asia,Asia Pacific
-2968,Salamanca,Castile and León,Spain,Southern Europe,Europe
+2968,Salamanca,Castile and Leï¿½n,Spain,Southern Europe,Europe
 2969,Salamanca,Guanajuato,Mexico,Central America,LATAM
 2970,Salavat,Bashkortostan,Russia,Eastern Europe,Europe
 2971,Sale,England,United Kingdom,Northern Europe,Europe
-2972,Sale,Rabat-Salé-Zemmour-Zaer,Morocco,North Africa,Africa
+2972,Sale,Rabat-Salï¿½-Zemmour-Zaer,Morocco,North Africa,Africa
 2973,Salem,Oregon,United States,Western US,USCA
 2974,Salem,Tamil Nadu,India,Southern Asia,Asia Pacific
 2975,Salem,Virginia,United States,Southern US,USCA
 2976,Salihli,Manisa,Turkey,Western Asia,Asia Pacific
 2977,Salina Cruz,Oaxaca,Mexico,Central America,LATAM
 2978,Salinas,California,United States,Western US,USCA
-2979,Sallanches,Auvergne-Rhône-Alpes,France,Western Europe,Europe
-2980,Salon-de-Provence,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+2979,Sallanches,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
+2980,Salon-de-Provence,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 2981,Salt Lake City,Utah,United States,Western US,USCA
 2982,Salta,Salta,Argentina,South America,LATAM
 2983,Saltillo,Coahuila,Mexico,Central America,LATAM
-2984,Salto,São Paulo,Brazil,South America,LATAM
+2984,Salto,Sï¿½o Paulo,Brazil,South America,LATAM
 2985,Salvador,Bahia,Brazil,South America,LATAM
 2986,Salzburg,Salzburg,Austria,Western Europe,Europe
 2987,Samalut,Al Minya,Egypt,North Africa,Africa
@@ -2990,55 +2990,55 @@ City ID,City,State,Country,Region,Market
 2989,Samarra',Salah Ad Din,Iraq,Western Asia,Asia Pacific
 2990,Samobor,Zagrebacka,Croatia,Southern Europe,Europe
 2991,Samsun,Samsun,Turkey,Western Asia,Asia Pacific
-2992,San Andrés Tuxtla,Veracruz,Mexico,Central America,LATAM
+2992,San Andrï¿½s Tuxtla,Veracruz,Mexico,Central America,LATAM
 2993,San Angelo,Texas,United States,Central US,USCA
 2994,San Antonio,Texas,United States,Central US,USCA
-2995,San Antonio,Valparaíso,Chile,South America,LATAM
+2995,San Antonio,Valparaï¿½so,Chile,South America,LATAM
 2996,San Bernardino,California,United States,Western US,USCA
 2997,San Bernardo,Santiago,Chile,South America,LATAM
 2998,San Carlos del Zulia,Zulia,Venezuela,South America,LATAM
 2999,San Clemente,California,United States,Western US,USCA
-3000,San Cristóbal,Táchira,Venezuela,South America,LATAM
-3001,San Cristóbal de Las Casas,Chiapas,Mexico,Central America,LATAM
+3000,San Cristï¿½bal,Tï¿½chira,Venezuela,South America,LATAM
+3001,San Cristï¿½bal de Las Casas,Chiapas,Mexico,Central America,LATAM
 3002,San Diego,California,United States,Western US,USCA
-3003,San Fernando,Andalusía,Spain,Southern Europe,Europe
+3003,San Fernando,Andalusï¿½a,Spain,Southern Europe,Europe
 3004,San Fernando,San Fernando,Trinidad and Tobago,Caribbean,LATAM
 3005,San Fernando del Valle de Catamarca,Catamarca,Argentina,South America,LATAM
 3006,San Francisco,California,United States,Western US,USCA
-3007,San Francisco de Macorís,Duarte,Dominican Republic,Caribbean,LATAM
-3008,San Francisco del Rincón,Guanajuato,Mexico,Central America,LATAM
+3007,San Francisco de Macorï¿½s,Duarte,Dominican Republic,Caribbean,LATAM
+3008,San Francisco del Rincï¿½n,Guanajuato,Mexico,Central America,LATAM
 3009,San Gabriel,California,United States,Western US,USCA
 3010,San Ignacio,Cayo District,Belize,Central America,LATAM
 3011,San Jose,California,United States,Western US,USCA
-3012,San José de Guanipa,Anzoátegui,Venezuela,South America,LATAM
-3013,San José de las Lajas,Mayabeque,Cuba,Caribbean,LATAM
+3012,San Josï¿½ de Guanipa,Anzoï¿½tegui,Venezuela,South America,LATAM
+3013,San Josï¿½ de las Lajas,Mayabeque,Cuba,Caribbean,LATAM
 3014,San Jose del Monte,Central Luzon,Philippines,Southeastern Asia,Asia Pacific
 3015,San Juan,San Juan,Argentina,South America,LATAM
 3016,San Juan de la Maguana,San Juan,Dominican Republic,Caribbean,LATAM
-3017,San Juan del Río,Querétaro,Mexico,Central America,LATAM
+3017,San Juan del Rï¿½o,Querï¿½taro,Mexico,Central America,LATAM
 3018,San Justo,Santa Fe,Argentina,South America,LATAM
 3019,San Lorenzo,Central,Paraguay,South America,LATAM
 3020,San Luis,San Luis,Argentina,South America,LATAM
 3021,San Luis Obispo,California,United States,Western US,USCA
-3022,San Luis Potosí,San Luis Potosí,Mexico,Central America,LATAM
-3023,San Luis Río Colorado,Sonora,Mexico,Central America,LATAM
+3022,San Luis Potosï¿½,San Luis Potosï¿½,Mexico,Central America,LATAM
+3023,San Luis Rï¿½o Colorado,Sonora,Mexico,Central America,LATAM
 3024,San Marcos,Texas,United States,Central US,USCA
-3025,San Martín,Cuscatlán,El Salvador,Central America,LATAM
+3025,San Martï¿½n,Cuscatlï¿½n,El Salvador,Central America,LATAM
 3026,San Mateo,California,United States,Western US,USCA
 3027,San Miguelito,Panama,Panama,Central America,LATAM
-3028,San Nicolás de los Arroyos,Provincia de Buenos Aires,Argentina,South America,LATAM
-3029,San Pablo de las Salinas,México,Mexico,Central America,LATAM
+3028,San Nicolï¿½s de los Arroyos,Provincia de Buenos Aires,Argentina,South America,LATAM
+3029,San Pablo de las Salinas,Mï¿½xico,Mexico,Central America,LATAM
 3030,San Pedro,Calabarzon,Philippines,Southeastern Asia,Asia Pacific
-3031,San Pedro de Macorís,San Pedro de Macorís,Dominican Republic,Caribbean,LATAM
-3032,San Pedro Sula,Cortés,Honduras,Central America,LATAM
+3031,San Pedro de Macorï¿½s,San Pedro de Macorï¿½s,Dominican Republic,Caribbean,LATAM
+3032,San Pedro Sula,Cortï¿½s,Honduras,Central America,LATAM
 3033,San Rafael,Mendoza,Argentina,South America,LATAM
 3034,San Salvador,San Salvador,El Salvador,Central America,LATAM
 3035,San Salvador de Jujuy,Jujuy,Argentina,South America,LATAM
 3036,San Sebastian,Basque Country,Spain,Southern Europe,Europe
 3037,San Severo,Apulia,Italy,Southern Europe,Europe
 3038,Sanandaj,Kordestan,Iran,Southern Asia,Asia Pacific
-3039,Sanary-sur-Mer,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-3040,Sancti Spíritus,Sancti Spíritus,Cuba,Caribbean,LATAM
+3039,Sanary-sur-Mer,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+3040,Sancti Spï¿½ritus,Sancti Spï¿½ritus,Cuba,Caribbean,LATAM
 3041,Sandakan,Sabah,Malaysia,Southeastern Asia,Asia Pacific
 3042,Sandnes,Rogaland,Norway,Northern Europe,Europe
 3043,Sandy Springs,Georgia,United States,Southern US,USCA
@@ -3051,7 +3051,7 @@ City ID,City,State,Country,Region,Market
 3050,Santa Ana,California,United States,Western US,USCA
 3051,Santa Ana,Santa Ana,El Salvador,Central America,LATAM
 3052,Santa Barbara,California,United States,Western US,USCA
-3053,Santa Catarina,Nuevo León,Mexico,Central America,LATAM
+3053,Santa Catarina,Nuevo Leï¿½n,Mexico,Central America,LATAM
 3054,Santa Clara,California,United States,Western US,USCA
 3055,Santa Clara,Villa Clara,Cuba,Caribbean,LATAM
 3056,Santa Cruz de Barahona,Barahona,Dominican Republic,Caribbean,LATAM
@@ -3059,34 +3059,34 @@ City ID,City,State,Country,Region,Market
 3058,Santa Cruz do Sul,Rio Grande do Sul,Brazil,South America,LATAM
 3059,Santa Fe,New Mexico,United States,Western US,USCA
 3060,Santa Fe,Santa Fe,Argentina,South America,LATAM
-3061,Santa Helena,Maranhão,Brazil,South America,LATAM
+3061,Santa Helena,Maranhï¿½o,Brazil,South America,LATAM
 3062,Santa Maria,California,United States,Western US,USCA
 3063,Santa Marta,Magdalena,Colombia,South America,LATAM
 3064,Santa Rosa,La Pampa,Argentina,South America,LATAM
 3065,Santa Rosa,Rio Grande do Sul,Brazil,South America,LATAM
-3066,Santana de Parnaíba,São Paulo,Brazil,South America,LATAM
+3066,Santana de Parnaï¿½ba,Sï¿½o Paulo,Brazil,South America,LATAM
 3067,Santander,Cantabria,Spain,Southern Europe,Europe
-3068,Santarém,Pará,Brazil,South America,LATAM
+3068,Santarï¿½m,Parï¿½,Brazil,South America,LATAM
 3069,Santiago,Santiago,Chile,South America,LATAM
 3070,Santiago de Compostela,Galicia,Spain,Southern Europe,Europe
 3071,Santiago de Cuba,Santiago de Cuba,Cuba,Caribbean,LATAM
 3072,Santiago de los Caballeros,Santiago,Dominican Republic,Caribbean,LATAM
 3073,Santiago del Estero,Santiago del Estero,Argentina,South America,LATAM
-3074,Santo André,São Paulo,Brazil,South America,LATAM
+3074,Santo Andrï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
 3075,Santo Domingo,Santo Domingo,Dominican Republic,Caribbean,LATAM
 3076,Santo Domingo de los Colorados,Pichincha,Ecuador,South America,LATAM
-3077,Santos,São Paulo,Brazil,South America,LATAM
+3077,Santos,Sï¿½o Paulo,Brazil,South America,LATAM
 3078,Sanya,Hainan,China,Eastern Asia,Asia Pacific
-3079,São Benedito,Ceará,Brazil,South America,LATAM
-3080,São Bernardo do Campo,São Paulo,Brazil,South America,LATAM
-3081,São Gonçalo,Rio de Janeiro,Brazil,South America,LATAM
-3082,São José dos Campos,São Paulo,Brazil,South America,LATAM
-3083,São Leopoldo,Rio Grande do Sul,Brazil,South America,LATAM
-3084,São Luís,Maranhão,Brazil,South America,LATAM
-3085,São Miguel dos Campos,Alagoas,Brazil,South America,LATAM
-3086,São Paulo,São Paulo,Brazil,South America,LATAM
-3087,São Pedro da Aldeia,Rio de Janeiro,Brazil,South America,LATAM
-3088,São Vicente,São Paulo,Brazil,South America,LATAM
+3079,Sï¿½o Benedito,Cearï¿½,Brazil,South America,LATAM
+3080,Sï¿½o Bernardo do Campo,Sï¿½o Paulo,Brazil,South America,LATAM
+3081,Sï¿½o Gonï¿½alo,Rio de Janeiro,Brazil,South America,LATAM
+3082,Sï¿½o Josï¿½ dos Campos,Sï¿½o Paulo,Brazil,South America,LATAM
+3083,Sï¿½o Leopoldo,Rio Grande do Sul,Brazil,South America,LATAM
+3084,Sï¿½o Luï¿½s,Maranhï¿½o,Brazil,South America,LATAM
+3085,Sï¿½o Miguel dos Campos,Alagoas,Brazil,South America,LATAM
+3086,Sï¿½o Paulo,Sï¿½o Paulo,Brazil,South America,LATAM
+3087,Sï¿½o Pedro da Aldeia,Rio de Janeiro,Brazil,South America,LATAM
+3088,Sï¿½o Vicente,Sï¿½o Paulo,Brazil,South America,LATAM
 3089,Sapele,Delta,Nigeria,Western Africa,Africa
 3090,Sapucaia do Sul,Rio Grande do Sul,Brazil,South America,LATAM
 3091,Saqqez,Kordestan,Iran,Southern Asia,Asia Pacific
@@ -3113,22 +3113,22 @@ City ID,City,State,Country,Region,Market
 3112,Schwerin,Mecklenburg-Vorpommern,Germany,Western Europe,Europe
 3113,Scottsdale,Arizona,United States,Western US,USCA
 3114,Seattle,Washington,United States,Western US,USCA
-3115,Segovia,Castile and León,Spain,Southern Europe,Europe
+3115,Segovia,Castile and Leï¿½n,Spain,Southern Europe,Europe
 3116,Semarang,Jawa Tengah,Indonesia,Southeastern Asia,Asia Pacific
 3117,Semnan,Semnan,Iran,Southern Asia,Asia Pacific
 3118,Senhor do Bonfim,Bahia,Brazil,South America,LATAM
 3119,Senlis,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 3120,Seoul,Seoul,South Korea,Eastern Asia,Asia Pacific
-3121,Seraing,Liège,Belgium,Western Europe,Europe
+3121,Seraing,Liï¿½ge,Belgium,Western Europe,Europe
 3122,Seremban,Negeri Sembilan,Malaysia,Southeastern Asia,Asia Pacific
-3123,Seropédica,Rio de Janeiro,Brazil,South America,LATAM
-3124,Serra,Espírito Santo,Brazil,South America,LATAM
+3123,Seropï¿½dica,Rio de Janeiro,Brazil,South America,LATAM
+3124,Serra,Espï¿½rito Santo,Brazil,South America,LATAM
 3125,Sesto San Giovanni,Lombardy,Italy,Southern Europe,Europe
-3126,Sète,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+3126,Sï¿½te,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 3127,Settat,Chaouia-Ouardigha,Morocco,North Africa,Africa
 3128,Sevastopol,Sevastopol',Ukraine,Eastern Europe,Europe
 3129,Severodvinsk,Arkhangel'sk,Russia,Eastern Europe,Europe
-3130,Seville,Andalusía,Spain,Southern Europe,Europe
+3130,Seville,Andalusï¿½a,Spain,Southern Europe,Europe
 3131,Sevran,Ile-de-France,France,Western Europe,Europe
 3132,Shagamu,Ogun,Nigeria,Western Africa,Africa
 3133,Shah Alam,Selangor,Malaysia,Southeastern Asia,Asia Pacific
@@ -3155,7 +3155,7 @@ City ID,City,State,Country,Region,Market
 3154,Shinyanga,Shinyanga,Tanzania,Eastern Africa,Africa
 3155,Shiraz,Fars,Iran,Southern Asia,Asia Pacific
 3156,Shizuishan,Ningxia,China,Eastern Asia,Asia Pacific
-3157,Shkoder,Shkodër,Albania,Southern Europe,Europe
+3157,Shkoder,Shkodï¿½r,Albania,Southern Europe,Europe
 3158,Shouguang,Shandong,China,Eastern Asia,Asia Pacific
 3159,Shrewsbury,England,United Kingdom,Northern Europe,Europe
 3160,Shuangcheng,Heilongjiang,China,Eastern Asia,Asia Pacific
@@ -3164,10 +3164,10 @@ City ID,City,State,Country,Region,Market
 3163,Shumen,Shumen,Bulgaria,Eastern Europe,Europe
 3164,Shushtar,Khuzestan,Iran,Southern Asia,Asia Pacific
 3165,Sialkot,Punjab,Pakistan,Southern Asia,Asia Pacific
-3166,Siauliai,Šiauliai,Lithuania,Northern Europe,Europe
+3166,Siauliai,ï¿½iauliai,Lithuania,Northern Europe,Europe
 3167,Sibiu,Sibiu,Romania,Eastern Europe,Europe
 3168,Sidi Bel Abbes,Sidi Bel Abbes,Algeria,North Africa,Africa
-3169,Sidi Qacem,Gharb-Chrarda-Béni Hssen,Morocco,North Africa,Africa
+3169,Sidi Qacem,Gharb-Chrarda-Bï¿½ni Hssen,Morocco,North Africa,Africa
 3170,Siedlce,Masovia,Poland,Eastern Europe,Europe
 3171,Siegen,North Rhine-Westphalia,Germany,Western Europe,Europe
 3172,Siena,Tuscany,Italy,Southern Europe,Europe
@@ -3177,16 +3177,16 @@ City ID,City,State,Country,Region,Market
 3176,Silao,Guanajuato,Mexico,Central America,LATAM
 3177,Silivri,Istanbul,Turkey,Western Asia,Asia Pacific
 3178,Silopi,Sirnak,Turkey,Western Asia,Asia Pacific
-3179,Simões Filho,Bahia,Brazil,South America,LATAM
+3179,Simï¿½es Filho,Bahia,Brazil,South America,LATAM
 3180,Sincan,Ankara,Turkey,Western Asia,Asia Pacific
-3181,Sindelfingen,Baden-Württemberg,Germany,Western Europe,Europe
+3181,Sindelfingen,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 3182,Singapore,Singapore,Singapore,Southeastern Asia,Asia Pacific
 3183,Sinop,Mato Grosso,Brazil,South America,LATAM
 3184,Sioux Falls,South Dakota,United States,Central US,USCA
 3185,Siping,Jilin,China,Eastern Asia,Asia Pacific
 3186,Sittard,Limburg,Netherlands,Western Europe,Europe
 3187,Sivas,Sivas,Turkey,Western Asia,Asia Pacific
-3188,Six-Fours-les-Plages,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+3188,Six-Fours-les-Plages,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 3189,Skikda,Skikda,Algeria,North Africa,Africa
 3190,Skokie,Illinois,United States,Central US,USCA
 3191,Sliven,Sliven,Bulgaria,Eastern Europe,Europe
@@ -3195,16 +3195,16 @@ City ID,City,State,Country,Region,Market
 3194,Smyrna,Georgia,United States,Southern US,USCA
 3195,Smyrna,Tennessee,United States,Southern US,USCA
 3196,Soacha,Cundinamarca,Colombia,South America,LATAM
-3197,Sobral,Ceará,Brazil,South America,LATAM
+3197,Sobral,Cearï¿½,Brazil,South America,LATAM
 3198,Sofia,Sofiya-Grad,Bulgaria,Eastern Europe,Europe
-3199,Sogamoso,Boyacá,Colombia,South America,LATAM
+3199,Sogamoso,Boyacï¿½,Colombia,South America,LATAM
 3200,Sohag,Suhaj,Egypt,North Africa,Africa
 3201,Soissons,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 3202,Sokode,Centrale,Togo,Western Africa,Africa
 3203,Sokoto,Sokoto,Nigeria,Western Africa,Africa
 3204,Solapur,Maharashtra,India,Southern Asia,Asia Pacific
-3205,Soledad,Atlántico,Colombia,South America,LATAM
-3206,Soledad Díez Gutiérrez,San Luis Potosí,Mexico,Central America,LATAM
+3205,Soledad,Atlï¿½ntico,Colombia,South America,LATAM
+3206,Soledad Dï¿½ez Gutiï¿½rrez,San Luis Potosï¿½,Mexico,Central America,LATAM
 3207,Solihull,England,United Kingdom,Northern Europe,Europe
 3208,Solingen,North Rhine-Westphalia,Germany,Western Europe,Europe
 3209,Solna,Stockholm,Sweden,Northern Europe,Europe
@@ -3213,11 +3213,11 @@ City ID,City,State,Country,Region,Market
 3212,Sonipat,Haryana,India,Southern Asia,Asia Pacific
 3213,Sonneberg,Thuringia,Germany,Western Europe,Europe
 3214,Sonsonate,Sonsonate,El Salvador,Central America,LATAM
-3215,Sorgues,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-3216,Sorocaba,São Paulo,Brazil,South America,LATAM
+3215,Sorgues,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+3216,Sorocaba,Sï¿½o Paulo,Brazil,South America,LATAM
 3217,Sorriso,Mato Grosso,Brazil,South America,LATAM
 3218,Sosnowiec,Silesia,Poland,Eastern Europe,Europe
-3219,Sousa,Paraíba,Brazil,South America,LATAM
+3219,Sousa,Paraï¿½ba,Brazil,South America,LATAM
 3220,South Bend,Indiana,United States,Central US,USCA
 3221,South Shields,England,United Kingdom,Northern Europe,Europe
 3222,Southampton,England,United Kingdom,Northern Europe,Europe
@@ -3262,7 +3262,7 @@ City ID,City,State,Country,Region,Market
 3261,Stourbridge,England,United Kingdom,Northern Europe,Europe
 3262,Stralsund,Mecklenburg-Vorpommern,Germany,Western Europe,Europe
 3263,Strasbourg,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
-3264,Stuttgart,Baden-Württemberg,Germany,Western Europe,Europe
+3264,Stuttgart,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 3265,Suceava,Suceava,Romania,Eastern Europe,Europe
 3266,Sucre,Chuquisaca,Bolivia,South America,LATAM
 3267,Sucy-en-Brie,Ile-de-France,France,Western Europe,Europe
@@ -3272,7 +3272,7 @@ City ID,City,State,Country,Region,Market
 3271,Suizhou,Hubei,China,Eastern Asia,Asia Pacific
 3272,Sukabumi,Jawa Barat,Indonesia,Southeastern Asia,Asia Pacific
 3273,Sukkur,Sindh,Pakistan,Southern Asia,Asia Pacific
-3274,Sumaré,São Paulo,Brazil,South America,LATAM
+3274,Sumarï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
 3275,Summerville,South Carolina,United States,Southern US,USCA
 3276,Sumy,Sumy,Ukraine,Eastern Europe,Europe
 3277,Sunbury,Victoria,Australia,Oceania,Asia Pacific
@@ -3293,7 +3293,7 @@ City ID,City,State,Country,Region,Market
 3292,Swindon,England,United Kingdom,Northern Europe,Europe
 3293,Sydney,New South Wales,Australia,Oceania,Asia Pacific
 3294,Sylhet,Sylhet,Bangladesh,Southern Asia,Asia Pacific
-3295,Taboão da Serra,São Paulo,Brazil,South America,LATAM
+3295,Taboï¿½o da Serra,Sï¿½o Paulo,Brazil,South America,LATAM
 3296,Tabora,Tabora,Tanzania,Eastern Africa,Africa
 3297,Tabuk,Tabuk,Saudi Arabia,Western Asia,Asia Pacific
 3298,Tahta,Suhaj,Egypt,North Africa,Africa
@@ -3325,13 +3325,13 @@ City ID,City,State,Country,Region,Market
 3324,Tanga,Tanga,Tanzania,Eastern Africa,Africa
 3325,Tangerang,Jawa Barat,Indonesia,Southeastern Asia,Asia Pacific
 3326,Tanggu,Tianjin,China,Eastern Asia,Asia Pacific
-3327,Tangier,Tanger-Tétouan,Morocco,North Africa,Africa
+3327,Tangier,Tanger-Tï¿½touan,Morocco,North Africa,Africa
 3328,Tangshan,Hebei,China,Eastern Asia,Asia Pacific
 3329,Tanta,Al Gharbiyah,Egypt,North Africa,Africa
 3330,Tapachula,Chiapas,Mexico,Central America,LATAM
 3331,Taranto,Apulia,Italy,Southern Europe,Europe
 3332,Taraz,Zhambyl,Kazakhstan,Central Asia,Asia Pacific
-3333,Tarbes,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+3333,Tarbes,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 3334,Targu Jiu,Gorj,Romania,Eastern Europe,Europe
 3335,Targu Mures,Mures,Romania,Eastern Europe,Europe
 3336,Tarnow,Lesser Poland,Poland,Eastern Europe,Europe
@@ -3340,8 +3340,8 @@ City ID,City,State,Country,Region,Market
 3339,Tartagal,Salta,Argentina,South America,LATAM
 3340,Tartu,Tartumaa,Estonia,Northern Europe,Europe
 3341,Tasikmalaya,Jawa Barat,Indonesia,Southeastern Asia,Asia Pacific
-3342,Tatuí,São Paulo,Brazil,South America,LATAM
-3343,Taubaté,São Paulo,Brazil,South America,LATAM
+3342,Tatuï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
+3343,Taubatï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
 3344,Taunton,England,United Kingdom,Northern Europe,Europe
 3345,Taupo,Waikato,New Zealand,Oceania,Asia Pacific
 3346,Tauranga,Bay of Plenty,New Zealand,Oceania,Asia Pacific
@@ -3351,11 +3351,11 @@ City ID,City,State,Country,Region,Market
 3350,Taytay,Calabarzon,Philippines,Southeastern Asia,Asia Pacific
 3351,Taza,Taza-Al Hoceima-Taounate,Morocco,North Africa,Africa
 3352,Tbilisi,Tbilisi,Georgia,Western Asia,Asia Pacific
-3353,Tecomán,Colima,Mexico,Central America,LATAM
+3353,Tecomï¿½n,Colima,Mexico,Central America,LATAM
 3354,Tegal,Jawa Tengah,Indonesia,Southeastern Asia,Asia Pacific
-3355,Tegucigalpa,Francisco Morazán,Honduras,Central America,LATAM
+3355,Tegucigalpa,Francisco Morazï¿½n,Honduras,Central America,LATAM
 3356,Tehran,Tehran,Iran,Southern Asia,Asia Pacific
-3357,Tehuacán,Puebla,Mexico,Central America,LATAM
+3357,Tehuacï¿½n,Puebla,Mexico,Central America,LATAM
 3358,Tekirdag,Tekirdag,Turkey,Western Asia,Asia Pacific
 3359,Tel Aviv,Tel Aviv,Israel,Western Asia,Asia Pacific
 3360,Tembisa,Gauteng,South Africa,Southern Africa,Africa
@@ -3366,16 +3366,16 @@ City ID,City,State,Country,Region,Market
 3365,Tengzhou,Shandong,China,Eastern Asia,Asia Pacific
 3366,Tepic,Nayarit,Mexico,Central America,LATAM
 3367,Teramo,Abruzzi,Italy,Southern Europe,Europe
-3368,Teresina,Piauí,Brazil,South America,LATAM
-3369,Teresópolis,Rio de Janeiro,Brazil,South America,LATAM
+3368,Teresina,Piauï¿½,Brazil,South America,LATAM
+3369,Teresï¿½polis,Rio de Janeiro,Brazil,South America,LATAM
 3370,Termez,Surxondaryo,Uzbekistan,Central Asia,Asia Pacific
 3371,Terneuzen,Zeeland,Netherlands,Western Europe,Europe
 3372,Ternopil',Ternopil',Ukraine,Eastern Europe,Europe
 3373,Tete,Tete,Mozambique,Eastern Africa,Africa
-3374,Tetouan,Tanger-Tétouan,Morocco,North Africa,Africa
+3374,Tetouan,Tanger-Tï¿½touan,Morocco,North Africa,Africa
 3375,Texarkana,Arkansas,United States,Southern US,USCA
 3376,Texas City,Texas,United States,Central US,USCA
-3377,Teziutlán,Puebla,Mexico,Central America,LATAM
+3377,Teziutlï¿½n,Puebla,Mexico,Central America,LATAM
 3378,Thane,Maharashtra,India,Southern Asia,Asia Pacific
 3379,Thanjavur,Tamil Nadu,India,Southern Asia,Asia Pacific
 3380,The Colony,Texas,United States,Central US,USCA
@@ -3386,10 +3386,10 @@ City ID,City,State,Country,Region,Market
 3385,Thionville,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
 3386,Thiruvananthapuram,Kerala,India,Southern Asia,Asia Pacific
 3387,Thomasville,North Carolina,United States,Southern US,USCA
-3388,Thonon-les-Bains,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+3388,Thonon-les-Bains,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 3389,Thornton,Colorado,United States,Western US,USCA
 3390,Thousand Oaks,California,United States,Western US,USCA
-3391,Tianguá,Ceará,Brazil,South America,LATAM
+3391,Tianguï¿½,Cearï¿½,Brazil,South America,LATAM
 3392,Tianjin,Tianjin,China,Eastern Asia,Asia Pacific
 3393,Tieling,Liaoning,China,Eastern Asia,Asia Pacific
 3394,Tigard,Oregon,United States,Western US,USCA
@@ -3405,7 +3405,7 @@ City ID,City,State,Country,Region,Market
 3404,Tirupati,Andhra Pradesh,India,Southern Asia,Asia Pacific
 3405,Tiruppur,Tamil Nadu,India,Southern Asia,Asia Pacific
 3406,Tivoli,Lazio,Italy,Southern Europe,Europe
-3407,Tlalnepantla,México,Mexico,Central America,LATAM
+3407,Tlalnepantla,Mï¿½xico,Mexico,Central America,LATAM
 3408,Tlalpan,Distrito Federal,Mexico,Central America,LATAM
 3409,Tlaquepaque,Jalisco,Mexico,Central America,LATAM
 3410,Tlemcen,Tlemcen,Algeria,North Africa,Africa
@@ -3417,7 +3417,7 @@ City ID,City,State,Country,Region,Market
 3416,Toledo,Ohio,United States,Eastern US,USCA
 3417,Toledo,Parana,Brazil,South America,LATAM
 3418,Toliara,Atsimo-Andrefana,Madagascar,Eastern Africa,Africa
-3419,Toluca,México,Mexico,Central America,LATAM
+3419,Toluca,Mï¿½xico,Mexico,Central America,LATAM
 3420,Tongchuan,Shaanxi,China,Eastern Asia,Asia Pacific
 3421,Tongchuan,Sichuan,China,Eastern Asia,Asia Pacific
 3422,Tongi,Dhaka,Bangladesh,Southern Asia,Asia Pacific
@@ -3433,16 +3433,16 @@ City ID,City,State,Country,Region,Market
 3432,Torquay,Queensland,Australia,Oceania,Asia Pacific
 3433,Torrance,California,United States,Western US,USCA
 3434,Torre del Greco,Campania,Italy,Southern Europe,Europe
-3435,Torremolinos,Andalusía,Spain,Southern Europe,Europe
-3436,Torreón,Coahuila,Mexico,Central America,LATAM
+3435,Torremolinos,Andalusï¿½a,Spain,Southern Europe,Europe
+3436,Torreï¿½n,Coahuila,Mexico,Central America,LATAM
 3437,Torrevieja,Valenciana,Spain,Southern Europe,Europe
 3438,Tottori,Tottori,Japan,Eastern Asia,Asia Pacific
 3439,Toul,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe
-3440,Toulon,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-3441,Toulouse,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+3440,Toulon,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+3441,Toulouse,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 3442,Tourcoing,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 3443,Tournai,Hainaut,Belgium,Western Europe,Europe
-3444,Tournefeuille,Languedoc-Roussillon-Midi-Pyrénées,France,Western Europe,Europe
+3444,Tournefeuille,Languedoc-Roussillon-Midi-Pyrï¿½nï¿½es,France,Western Europe,Europe
 3445,Tours,Centre-Val de Loire,France,Western Europe,Europe
 3446,Townsville,Queensland,Australia,Oceania,Asia Pacific
 3447,Toyohashi,Aichi,Japan,Eastern Asia,Asia Pacific
@@ -3472,21 +3472,21 @@ City ID,City,State,Country,Region,Market
 3471,Tulsa,Oklahoma,United States,Central US,USCA
 3472,Tumkur,Karnataka,India,Southern Asia,Asia Pacific
 3473,Tunis,Tunis,Tunisia,North Africa,Africa
-3474,Tupã,São Paulo,Brazil,South America,LATAM
+3474,Tupï¿½,Sï¿½o Paulo,Brazil,South America,LATAM
 3475,Turgutlu,Manisa,Turkey,Western Asia,Asia Pacific
 3476,Turin,Piedmont,Italy,Southern Europe,Europe
 3477,Turkmenabat,Lebap,Turkmenistan,Central Asia,Asia Pacific
 3478,Turku,Finland Proper,Finland,Northern Europe,Europe
 3479,Turmero,Aragua,Venezuela,South America,LATAM
 3480,Tuscaloosa,Alabama,United States,Southern US,USCA
-3481,Tuxtla Gutiérrez,Chiapas,Mexico,Central America,LATAM
+3481,Tuxtla Gutiï¿½rrez,Chiapas,Mexico,Central America,LATAM
 3482,Tuzla,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,Southern Europe,Europe
 3483,Twin Falls,Idaho,United States,Western US,USCA
 3484,Tychy,Silesia,Poland,Eastern Europe,Europe
 3485,Tyler,Texas,United States,Central US,USCA
 3486,Ube,Yamaguchi,Japan,Eastern Asia,Asia Pacific
 3487,Uberaba,Minas Gerais,Brazil,South America,LATAM
-3488,Uberlândia,Minas Gerais,Brazil,South America,LATAM
+3488,Uberlï¿½ndia,Minas Gerais,Brazil,South America,LATAM
 3489,Udaipur,Tripura,India,Southern Asia,Asia Pacific
 3490,Ueda,Nagano,Japan,Eastern Asia,Asia Pacific
 3491,Ufa,Bashkortostan,Russia,Eastern Europe,Europe
@@ -3495,7 +3495,7 @@ City ID,City,State,Country,Region,Market
 3494,Ujjain,Madhya Pradesh,India,Southern Asia,Asia Pacific
 3495,Ulan Bator,Ulaanbaatar,Mongolia,Eastern Asia,Asia Pacific
 3496,Ulhasnagar,Maharashtra,India,Southern Asia,Asia Pacific
-3497,Ulm,Baden-Württemberg,Germany,Western Europe,Europe
+3497,Ulm,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 3498,Ulsan,Ulsan,South Korea,Eastern Asia,Asia Pacific
 3499,Ulundi,Kwazulu-natal,South Africa,Southern Africa,Africa
 3500,Uman',Cherkasy,Ukraine,Eastern Europe,Europe
@@ -3504,7 +3504,7 @@ City ID,City,State,Country,Region,Market
 3503,Umuarama,Parana,Brazil,South America,LATAM
 3504,Unna,North Rhine-Westphalia,Germany,Western Europe,Europe
 3505,Upper Hutt,Wellington,New Zealand,Oceania,Asia Pacific
-3506,Upplands Väsby,Stockholm,Sweden,Northern Europe,Europe
+3506,Upplands Vï¿½sby,Stockholm,Sweden,Northern Europe,Europe
 3507,Uppsala,Uppsala,Sweden,Northern Europe,Europe
 3508,Urbandale,Iowa,United States,Central US,USCA
 3509,Urganch,Khorezm,Uzbekistan,Central Asia,Asia Pacific
@@ -3522,22 +3522,22 @@ City ID,City,State,Country,Region,Market
 3521,Vacaville,California,United States,Western US,USCA
 3522,Vadodara,Gujarat,India,Southern Asia,Asia Pacific
 3523,Valdemoro,Madrid,Spain,Southern Europe,Europe
-3524,Valence,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+3524,Valence,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 3525,Valencia,Carabobo,Venezuela,South America,LATAM
 3526,Valencia,Northern Mindanao,Philippines,Southeastern Asia,Asia Pacific
 3527,Valencia,Valenciana,Spain,Southern Europe,Europe
 3528,Valenciennes,Nord-Pas-de-Calais-Picardie,France,Western Europe,Europe
 3529,Valenzuela,National Capital,Philippines,Southeastern Asia,Asia Pacific
-3530,Valinhos,São Paulo,Brazil,South America,LATAM
-3531,Valladolid,Castile and León,Spain,Southern Europe,Europe
-3532,Vallauris,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
-3533,Valle de La Pascua,Guárico,Venezuela,South America,LATAM
+3530,Valinhos,Sï¿½o Paulo,Brazil,South America,LATAM
+3531,Valladolid,Castile and Leï¿½n,Spain,Southern Europe,Europe
+3532,Vallauris,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
+3533,Valle de La Pascua,Guï¿½rico,Venezuela,South America,LATAM
 3534,Valle Hermoso,Tamaulipas,Mexico,Central America,LATAM
 3535,Valledupar,Cesar,Colombia,South America,LATAM
 3536,Vallejo,California,United States,Western US,USCA
-3537,Valles,San Luis Potosí,Mexico,Central America,LATAM
-3538,Valparaíso,Valparaíso,Chile,South America,LATAM
-3539,Valparaíso de Goiás,Goiás,Brazil,South America,LATAM
+3537,Valles,San Luis Potosï¿½,Mexico,Central America,LATAM
+3538,Valparaï¿½so,Valparaï¿½so,Chile,South America,LATAM
+3539,Valparaï¿½so de Goiï¿½s,Goiï¿½s,Brazil,South America,LATAM
 3540,Van,Van,Turkey,Western Asia,Asia Pacific
 3541,Vanadzor,Lori,Armenia,Western Asia,Asia Pacific
 3542,Vancouver,British Columbia,Canada,Canada,USCA
@@ -3550,15 +3550,15 @@ City ID,City,State,Country,Region,Market
 3549,Varanasi,Uttar Pradesh,India,Southern Asia,Asia Pacific
 3550,Varese,Lombardy,Italy,Southern Europe,Europe
 3551,Varna,Varna,Bulgaria,Eastern Europe,Europe
-3552,Várzea Grande,Mato Grosso,Brazil,South America,LATAM
+3552,Vï¿½rzea Grande,Mato Grosso,Brazil,South America,LATAM
 3553,Vassouras,Rio de Janeiro,Brazil,South America,LATAM
 3554,Vaughan,Ontario,Canada,Canada,USCA
-3555,Vaulx-en-Velin,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+3555,Vaulx-en-Velin,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 3556,Veenendaal,Utrecht,Netherlands,Western Europe,Europe
 3557,Velbert,North Rhine-Westphalia,Germany,Western Europe,Europe
 3558,Velletri,Lazio,Italy,Southern Europe,Europe
 3559,Velsen,North Holland,Netherlands,Western Europe,Europe
-3560,Vence,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+3560,Vence,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 3561,Venice,Veneto,Italy,Southern Europe,Europe
 3562,Venlo,Limburg,Netherlands,Western Europe,Europe
 3563,Veracruz,Veracruz,Mexico,Central America,LATAM
@@ -3568,8 +3568,8 @@ City ID,City,State,Country,Region,Market
 3567,Verona,Veneto,Italy,Southern Europe,Europe
 3568,Versailles,Ile-de-France,France,Western Europe,Europe
 3569,Vertou,Pays de la Loire,France,Western Europe,Europe
-3570,Verviers,Liège,Belgium,Western Europe,Europe
-3571,Vesoul,Bourgogne-Franche-Comté,France,Western Europe,Europe
+3570,Verviers,Liï¿½ge,Belgium,Western Europe,Europe
+3571,Vesoul,Bourgogne-Franche-Comtï¿½,France,Western Europe,Europe
 3572,Vespasiano,Minas Gerais,Brazil,South America,LATAM
 3573,Vicenza,Veneto,Italy,Southern Europe,Europe
 3574,Vichy,Auvergne,France,Western Europe,Europe
@@ -3584,15 +3584,15 @@ City ID,City,State,Country,Region,Market
 3583,Vigo,Galicia,Spain,Southern Europe,Europe
 3584,Vijayawada,Andhra Pradesh,India,Southern Asia,Asia Pacific
 3585,Vila Nova de Gaia,Porto,Portugal,Southern Europe,Europe
-3586,Vilhena,Rondônia,Brazil,South America,LATAM
-3587,Villa Alemana,Valparaíso,Chile,South America,LATAM
+3586,Vilhena,Rondï¿½nia,Brazil,South America,LATAM
+3587,Villa Alemana,Valparaï¿½so,Chile,South America,LATAM
 3588,Villa Canales,Guatemala,Guatemala,Central America,LATAM
 3589,Villa Frontera,Coahuila,Mexico,Central America,LATAM
 3590,Villa Nueva,Guatemala,Guatemala,Central America,LATAM
 3591,Villach,Carinthia,Austria,Western Europe,Europe
 3592,Villahermosa,Tabasco,Mexico,Central America,LATAM
 3593,Villavicencio,Meta,Colombia,South America,LATAM
-3594,Villefontaine,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+3594,Villefontaine,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 3595,Villejuif,Ile-de-France,France,Western Europe,Europe
 3596,Villemomble,Ile-de-France,France,Western Europe,Europe
 3597,Villenave-d'Ornon,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
@@ -3602,15 +3602,15 @@ City ID,City,State,Country,Region,Market
 3601,Villeneuve-Saint-Georges,Ile-de-France,France,Western Europe,Europe
 3602,Villeneuve-sur-Lot,Aquitaine-Limousin-Poitou-Charentes,France,Western Europe,Europe
 3603,Villeparisis,Ile-de-France,France,Western Europe,Europe
-3604,Villeurbanne,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+3604,Villeurbanne,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 3605,Villiers-le-Bel,Ile-de-France,France,Western Europe,Europe
 3606,Villiers-sur-Marne,Ile-de-France,France,Western Europe,Europe
-3607,Villingen-Schwenningen,Baden-Württemberg,Germany,Western Europe,Europe
+3607,Villingen-Schwenningen,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 3608,Vilnius,Vilnius,Lithuania,Northern Europe,Europe
 3609,Vincennes,Ile-de-France,France,Western Europe,Europe
 3610,Vineland,New Jersey,United States,Eastern US,USCA
 3611,Vinnytsya,Vinnytsya,Ukraine,Eastern Europe,Europe
-3612,Viña del Mar,Valparaíso,Chile,South America,LATAM
+3612,Viï¿½a del Mar,Valparaï¿½so,Chile,South America,LATAM
 3613,Viransehir,Sanliurfa,Turkey,Western Asia,Asia Pacific
 3614,Virginia Beach,Virginia,United States,Southern US,USCA
 3615,Viroflay,Ile-de-France,France,Western Europe,Europe
@@ -3618,26 +3618,26 @@ City ID,City,State,Country,Region,Market
 3617,Visalia,California,United States,Western US,USCA
 3618,Viterbo,Lazio,Italy,Southern Europe,Europe
 3619,Vitoria,Basque Country,Spain,Southern Europe,Europe
-3620,Vitória,Espírito Santo,Brazil,South America,LATAM
-3621,Vitória da Conquista,Bahia,Brazil,South America,LATAM
-3622,Vitória de Santo Antão,Pernambuco,Brazil,South America,LATAM
-3623,Vitrolles,Provence-Alpes-Côte d'Azur,France,Western Europe,Europe
+3620,Vitï¿½ria,Espï¿½rito Santo,Brazil,South America,LATAM
+3621,Vitï¿½ria da Conquista,Bahia,Brazil,South America,LATAM
+3622,Vitï¿½ria de Santo Antï¿½o,Pernambuco,Brazil,South America,LATAM
+3623,Vitrolles,Provence-Alpes-Cï¿½te d'Azur,France,Western Europe,Europe
 3624,Vitry-sur-Seine,Ile-de-France,France,Western Europe,Europe
 3625,Vittoria,Sicily,Italy,Southern Europe,Europe
 3626,Vlaardingen,South Holland,Netherlands,Western Europe,Europe
 3627,Vladimir,Vladimir,Russia,Eastern Europe,Europe
-3628,Vlore,Vlorë,Albania,Southern Europe,Europe
-3629,Voiron,Auvergne-Rhône-Alpes,France,Western Europe,Europe
+3628,Vlore,Vlorï¿½,Albania,Southern Europe,Europe
+3629,Voiron,Auvergne-Rhï¿½ne-Alpes,France,Western Europe,Europe
 3630,Volksrust,Mpumalanga,South Africa,Southern Africa,Africa
 3631,Voronezh,Voronezh,Russia,Eastern Europe,Europe
-3632,Votuporanga,São Paulo,Brazil,South America,LATAM
+3632,Votuporanga,Sï¿½o Paulo,Brazil,South America,LATAM
 3633,Vryburg,North-West,South Africa,Southern Africa,Africa
 3634,Waco,Texas,United States,Central US,USCA
 3635,Wad Madani,Gezira,Sudan,North Africa,Africa
 3636,Wadi as Sir,'Amman,Jordan,Western Asia,Asia Pacific
 3637,Wafangdian,Liaoning,China,Eastern Asia,Asia Pacific
 3638,Wagga Wagga,New South Wales,Australia,Oceania,Asia Pacific
-3639,Waiblingen,Baden-Württemberg,Germany,Western Europe,Europe
+3639,Waiblingen,Baden-Wï¿½rttemberg,Germany,Western Europe,Europe
 3640,Waitakere,Auckland,New Zealand,Oceania,Asia Pacific
 3641,Wakefield,England,United Kingdom,Northern Europe,Europe
 3642,Wallasey,England,United Kingdom,Northern Europe,Europe
@@ -3700,7 +3700,7 @@ City ID,City,State,Country,Region,Market
 3699,Windhoek,Khomas,Namibia,Southern Africa,Africa
 3700,Windsor,Ontario,Canada,Canada,USCA
 3701,Winnipeg,Manitoba,Canada,Canada,USCA
-3702,Winterthur,Zürich,Switzerland,Western Europe,Europe
+3702,Winterthur,Zï¿½rich,Switzerland,Western Europe,Europe
 3703,Witten,North Rhine-Westphalia,Germany,Western Europe,Europe
 3704,Wodonga,Victoria,Australia,Oceania,Asia Pacific
 3705,Woking,England,United Kingdom,Northern Europe,Europe
@@ -3792,7 +3792,7 @@ City ID,City,State,Country,Region,Market
 3791,Zacatecas,Zacatecas,Mexico,Central America,LATAM
 3792,Zagreb,Grad Zagreb,Croatia,Southern Europe,Europe
 3793,Zahedan,Sistan Va Baluchestan,Iran,Southern Asia,Asia Pacific
-3794,Zamora,Castile and León,Spain,Southern Europe,Europe
+3794,Zamora,Castile and Leï¿½n,Spain,Southern Europe,Europe
 3795,Zanjan,Zanjan,Iran,Southern Asia,Asia Pacific
 3796,Zaoyang,Hubei,China,Eastern Asia,Asia Pacific
 3797,Zaozhuang,Shandong,China,Eastern Asia,Asia Pacific
@@ -3819,11 +3819,11 @@ City ID,City,State,Country,Region,Market
 3818,Zigong,Sichuan,China,Eastern Asia,Asia Pacific
 3819,Ziguinchor,Ziguinchor,Senegal,Western Africa,Africa
 3820,Zihuatanejo,Guerrero,Mexico,Central America,LATAM
-3821,Zilina,Žilina,Slovakia,Eastern Europe,Europe
+3821,Zilina,ï¿½ilina,Slovakia,Eastern Europe,Europe
 3822,Zinder,Zinder,Niger,Western Africa,Africa
 3823,Zlatoust,Chelyabinsk,Russia,Eastern Europe,Europe
 3824,Zunyi,Guizhou,China,Eastern Asia,Asia Pacific
-3825,Zurich,Zürich,Switzerland,Western Europe,Europe
+3825,Zurich,Zï¿½rich,Switzerland,Western Europe,Europe
 3826,Zwedru,Grand Gedeh,Liberia,Western Africa,Africa
 3827,Zwickau,Saxony,Germany,Western Europe,Europe
 3828,Zwolle,Overijssel,Netherlands,Western Europe,Europe
