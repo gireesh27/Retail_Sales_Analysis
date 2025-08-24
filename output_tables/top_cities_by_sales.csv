@@ -1,0 +1,16 @@
+market,sales_rank,city,country,sales
+Africa,1,Kinshasa,Democratic Republic of the Congo,11058
+Africa,2,Cairo,Egypt,8252
+Africa,3,Pretoria,South Africa,8091
+Asia Pacific,1,Manila,Philippines,26189
+Asia Pacific,2,Gold Coast,Australia,16473
+Asia Pacific,3,Bangkok,Thailand,15883
+Europe,1,Paris,France,16210
+Europe,2,Vienna,Austria,12055
+Europe,3,Madrid,Spain,11735
+LATAM,1,Managua,Nicaragua,18098
+LATAM,2,Santo Domingo,Dominican Republic,17147
+LATAM,3,Mexico City,Mexico,14260
+USCA,1,New York City,United States,70683
+USCA,2,Philadelphia,United States,31151
+USCA,3,Seattle,United States,30415

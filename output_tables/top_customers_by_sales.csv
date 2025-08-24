@@ -1,0 +1,16 @@
+segment,sales_rank,id_customer,customer,country,sales
+Consumer,1,HL-150401406,Hunter Lopez,United States,10523
+Consumer,2,SV-203651406,Seth Vernon,United States,8299
+Consumer,3,DL-133158,Delfina Latchford,Austria,7384
+Consumer,4,HG-1484545,Harry Greene,France,6286
+Consumer,5,LT-7110117,Liz Thompson,South Africa,6098
+Corporate,1,VG-2180558,Vivek Grady,India,9032
+Corporate,2,GT-146351408,Grant Thornton,United States,8167
+Corporate,3,PJ-1883564,Patrick Jones,Italy,7959
+Corporate,4,TS-213701406,Todd Sumrall,United States,6492
+Corporate,5,CP-1234058,Christine Phan,India,5614
+Home Office,1,TA-213851406,Tom Ashbrook,United States,13716
+Home Office,2,BF-1100558,Barry Franz,India,9287
+Home Office,3,PO-919586,Phillina Ober,Morocco,7065
+Home Office,4,EH-1412545,Eugene Hildebrand,France,5697
+Home Office,5,BE-1133527,Bill Eplett,China,4913

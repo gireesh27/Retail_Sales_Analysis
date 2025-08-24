@@ -1,0 +1,16 @@
+market,profit_rank,city,country,profit
+Africa,1,Meknes,Morocco,2815
+Africa,2,Kinshasa,Democratic Republic of the Congo,2340
+Africa,3,Pretoria,South Africa,2108
+Asia Pacific,1,Perth,Australia,3520
+Asia Pacific,2,Dhaka,Bangladesh,2857
+Asia Pacific,3,Phnom Penh,Cambodia,2489
+Europe,1,Vienna,Austria,4021
+Europe,2,Prato,Italy,3986
+Europe,3,Seville,Spain,2820
+LATAM,1,Managua,Nicaragua,3944
+LATAM,2,São Paulo,Brazil,2563
+LATAM,3,Camagüey,Cuba,2220
+USCA,1,New York City,United States,18084
+USCA,2,Seattle,United States,6138
+USCA,3,Los Angeles,United States,5785
