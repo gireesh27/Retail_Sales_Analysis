@@ -42,17 +42,20 @@ This project provides a comprehensive **Global Retail Sales Analytics Dashboard*
 > Add your own screenshots here for better visualization.
 
 <div align="center">
-  <img src="assets/screenshot1.png" width="600" alt="Screenshot 1"/>
+  <img src="<img width="1783" height="974" alt="Screenshot 2025-08-25 145959" src="https://github.com/user-attachments/assets/1af51f19-478d-4f32-984a-5f0c27d51323" />
+" width="600" alt="Screenshot 1"/>
   <p><em>Dashboard Home View</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/screenshot2.png" width="600" alt="Screenshot 2"/>
+  <img src="<img width="1832" height="939" alt="Screenshot 2025-08-25 145950" src="https://github.com/user-attachments/assets/ac7bba8c-a84f-47ca-8be2-ef3ffdb05347" />
+" width="600" alt="Screenshot 2"/>
   <p><em>Regional Analysis</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/screenshot3.png" width="600" alt="Screenshot 3"/>
+  <img src="<img width="1795" height="969" alt="Screenshot 2025-08-25 145940" src="https://github.com/user-attachments/assets/4c1bb0fe-2654-421f-8173-e31fe841035b" />
+" width="600" alt="Screenshot 3"/>
   <p><em>Customer Insights</em></p>
 </div>
 
