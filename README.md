@@ -39,25 +39,38 @@ This project provides a comprehensive **Global Retail Sales Analytics Dashboard*
 
 ## 📷 Screenshots  
 
-> Add your own screenshots here for better visualization.
-
 <div align="center">
-  <img src="<img width="1783" height="974" alt="Screenshot 2025-08-25 145959" src="https://github.com/user-attachments/assets/1af51f19-478d-4f32-984a-5f0c27d51323" />
-" width="600" alt="Screenshot 1"/>
-  <p><em>Dashboard Home View</em></p>
+
+### 🏠 Dashboard Overview  
+<img src="https://github.com/user-attachments/assets/16c057b8-3a81-40f7-8fbc-addc0faff9fd" width="80%" alt="Dashboard Overview"/>
+
+---
+
+### 🌍 Regional Analysis  
+<img src="https://github.com/user-attachments/assets/78b9c585-67cf-4744-a4a3-62d5817107ec" width="80%" alt="Regional Analysis"/>
+
+---
+
+### 📦 Product Performance  
+<img src="https://github.com/user-attachments/assets/bb68f6b9-b6c6-4a37-9144-1107c6757e4d" width="80%" alt="Product Performance"/>
+
+---
+
+### 👥 Customer Insights  
+<img src="https://github.com/user-attachments/assets/325dface-c53c-4801-920b-4287e731df3b" width="80%" alt="Customer Insights"/>
+
+---
+
+### 📊 Market KPIs  
+<img src="https://github.com/user-attachments/assets/9d9d7200-c056-4d28-82c4-ee98576b4c10" width="80%" alt="Market KPIs"/>
+
+---
+
+### 🔄 Returned Products Analysis  
+<img src="https://github.com/user-attachments/assets/62fa4045-5401-4ce4-9a57-2cf5ccc00277" width="80%" alt="Returned Products Analysis"/>
+
 </div>
 
-<div align="center">
-  <img src="<img width="1832" height="939" alt="Screenshot 2025-08-25 145950" src="https://github.com/user-attachments/assets/ac7bba8c-a84f-47ca-8be2-ef3ffdb05347" />
-" width="600" alt="Screenshot 2"/>
-  <p><em>Regional Analysis</em></p>
-</div>
-
-<div align="center">
-  <img src="<img width="1795" height="969" alt="Screenshot 2025-08-25 145940" src="https://github.com/user-attachments/assets/4c1bb0fe-2654-421f-8173-e31fe841035b" />
-" width="600" alt="Screenshot 3"/>
-  <p><em>Customer Insights</em></p>
-</div>
 
 ---
 
